@@ -1,0 +1,5 @@
+1080 https://video.blender.org/download/web-videos/1ba07bbb-1456-4293-99a6-833fa450eda0-1080.mp4
+1080 https://video.blender.org/download/streaming-playlists/hls/videos/1ba07bbb-1456-4293-99a6-833fa450eda0-1080-fragmented.mp4
+chosen=https://video.blender.org/object-storage/streaming_playlists/hls/1ba07bbb-1456-4293-99a6-833fa450eda0/903ba2a3-74ae-4ebd-83f5-c6e5c3e245ee-1080-fragmented.mp4
+film http=200 bytes=236868320
+film ok bytes=65234206
