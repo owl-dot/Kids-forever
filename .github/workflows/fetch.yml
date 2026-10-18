@@ -23,6 +23,14 @@ jobs:
             : > "$st"
             film=$(jq -r '.film_url // empty' "$req")
             audio=$(jq -r '.audio_url // empty' "$req")
+            pt=$(jq -r '.peertube_id // empty' "$req")
+            if [ -n "$pt" ]; then
+              curl -sSL "https://video.blender.org/api/v1/videos/$pt" -o /tmp/pt.json
+              jq -r '.files[]?, (.streamingPlaylists[]?.files[]?) | "\(.resolution.id) \(.fileDownloadUrl // .fileUrl)"' /tmp/pt.json >> "$st" 2>&1
+              url=$(jq -r '[.files[]?, (.streamingPlaylists[]?.files[]?)] | map(select(.fileUrl|test("mp4$"))) | sort_by(.resolution.id) | last | .fileUrl' /tmp/pt.json)
+              echo "chosen=$url" >> "$st"
+              [ -n "$url" ] && [ "$url" != "null" ] && film="$url"
+            fi
             yt=$(jq -r '.youtube_url // empty' "$req")
             if [ -n "$yt" ]; then
               pip install -q -U yt-dlp >> "$st" 2>&1
