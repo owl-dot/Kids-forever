@@ -13,6 +13,7 @@ jobs:
       - name: Install ffmpeg
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Download and prepare files
+        continue-on-error: true
         run: |
           set -u
           for req in requests/*.json; do
@@ -52,6 +53,7 @@ jobs:
             fi
           done
       - name: Commit results
+        if: always()
         run: |
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
