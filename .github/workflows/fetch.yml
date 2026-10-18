@@ -28,7 +28,8 @@ jobs:
             if [ -n "$ps" ]; then
               curl -sSL -G "https://video.blender.org/api/v1/search/videos" --data-urlencode "search=$ps" --data-urlencode "count=30" -o /tmp/ps.json
               jq -r '.data[]? | "\(.shortUUID) \(.uuid) dur=\(.duration) lic=\(.licence.label) \(.name)"' /tmp/ps.json >> "$st" 2>&1
-              jq -r '.data[]? | select(.duration<400) | .uuid' /tmp/ps.json | head -0
+              curl -sSL -G "https://commons.wikimedia.org/w/api.php" --data-urlencode "action=query" --data-urlencode "list=search" --data-urlencode "srsearch=$ps" --data-urlencode "srnamespace=6" --data-urlencode "srlimit=20" --data-urlencode "format=json" -A "Mozilla/5.0 kidsforever-bot" -o /tmp/cm.json
+              jq -r '.query.search[]? | "COMMONS \(.title)"' /tmp/cm.json >> "$st" 2>&1
             fi
             pt=$(jq -r '.peertube_id // empty' "$req")
             if [ -n "$pt" ]; then
