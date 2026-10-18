@@ -1,0 +1,45 @@
+name: fetch-assets
+on:
+  push:
+    paths: ['requests/*.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and prepare files
+        run: |
+          set -u
+          for req in requests/*.json; do
+            name=$(jq -r '.name' "$req")
+            [ -f "inbox/$name/status.txt" ] && continue
+            mkdir -p "inbox/$name"
+            st="inbox/$name/status.txt"
+            : > "$st"
+            film=$(jq -r '.film_url // empty' "$req")
+            audio=$(jq -r '.audio_url // empty' "$req")
+            if [ -n "$film" ]; then
+              code=$(curl -sSL -A "Mozilla/5.0" -o /tmp/film_raw -w '%{http_code}' "$film" || echo curlfail)
+              echo "film http=$code bytes=$(stat -c%s /tmp/film_raw 2>/dev/null || echo 0)" >> "$st"
+              if [ "$code" = "200" ]; then
+                ffmpeg -nostdin -loglevel error -y -i /tmp/film_raw -vf "scale='min(1280,iw)':-2" -c:v libx264 -crf 22 -preset medium -pix_fmt yuv420p -c:a aac -b:a 160k -movflags +faststart "inbox/$name/film.mp4" \
+                  && echo "film ok bytes=$(stat -c%s inbox/$name/film.mp4)" >> "$st" || echo "film ffmpeg failed" >> "$st"
+              fi
+            fi
+            if [ -n "$audio" ]; then
+              code=$(curl -sSL -o "inbox/$name/narr.mp3" -w '%{http_code}' "$audio" || echo curlfail)
+              echo "audio http=$code bytes=$(stat -c%s inbox/$name/narr.mp3 2>/dev/null || echo 0)" >> "$st"
+              [ "$code" = "200" ] || rm -f "inbox/$name/narr.mp3"
+            fi
+          done
+      - name: Commit results
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add inbox
+          git diff --cached --quiet || git commit -m "fetched assets"
+          git pull --rebase origin main
+          git push origin HEAD:main
