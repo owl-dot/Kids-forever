@@ -24,6 +24,12 @@ jobs:
             : > "$st"
             film=$(jq -r '.film_url // empty' "$req")
             audio=$(jq -r '.audio_url // empty' "$req")
+            ps=$(jq -r '.peertube_search // empty' "$req")
+            if [ -n "$ps" ]; then
+              curl -sSL -G "https://video.blender.org/api/v1/search/videos" --data-urlencode "search=$ps" --data-urlencode "count=30" -o /tmp/ps.json
+              jq -r '.data[]? | "\(.shortUUID) \(.uuid) dur=\(.duration) lic=\(.licence.label) \(.name)"' /tmp/ps.json >> "$st" 2>&1
+              jq -r '.data[]? | select(.duration<400) | .uuid' /tmp/ps.json | head -0
+            fi
             pt=$(jq -r '.peertube_id // empty' "$req")
             if [ -n "$pt" ]; then
               curl -sSL "https://video.blender.org/api/v1/videos/$pt" -o /tmp/pt.json
