@@ -13,6 +13,12 @@ try:
         "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"})
     r.raise_for_status()
     H = {"Authorization": "Bearer " + r.json()["access_token"]}
+    if req.get("check"):
+        c = requests.get("https://www.googleapis.com/youtube/v3/channels?part=id,snippet&mine=true", headers=H)
+        c.raise_for_status()
+        it = c.json().get("items", [])
+        done({"ok": True, "channels": [(i["id"], i["snippet"]["title"]) for i in it]})
+        sys.exit(0)
     meta = {"snippet": {"title": req["title"], "description": req["description"],
                         "tags": req.get("tags", []), "categoryId": req.get("category", "1"),
                         "defaultLanguage": "tr", "defaultAudioLanguage": "tr"},
