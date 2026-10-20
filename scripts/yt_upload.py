@@ -21,6 +21,22 @@ try:
                 "madeForKids": it.get("status", {}).get("madeForKids"), "processing": it.get("processingDetails", {}).get("processingStatus"),
                 "thumb_keys": list(th.keys()), "thumb_default": th.get("default", {}).get("url"),
                 "thumb_max": th.get("maxres", {}).get("url"), "title": it.get("snippet", {}).get("title")}
+    if req.get("update_id"):
+        vid = req["update_id"]
+        g = requests.get("https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + vid, headers=H).json()["items"][0]["snippet"]
+        sn = {"title": req.get("title", g["title"]), "description": g["description"], "categoryId": g["categoryId"],
+              "tags": g.get("tags", []), "defaultLanguage": g.get("defaultLanguage", "tr")}
+        for a, b in req.get("desc_replace", []):
+            sn["description"] = sn["description"].replace(a, b)
+        u = requests.put("https://www.googleapis.com/youtube/v3/videos?part=snippet", headers=H, json={"id": vid, "snippet": sn})
+        res["update"] = u.status_code
+        if req.get("thumb"):
+            t = requests.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
+                headers={**H, "Content-Type": "image/jpeg"}, data=open(req["thumb"], "rb").read())
+            res["thumb"] = t.status_code
+        res["verify"] = verify(vid); res["description"] = sn["description"][:600]
+        done({"ok": u.status_code == 200})
+        sys.exit(0)
     if req.get("verify_id"):
         done({"ok": True, "verify": verify(req["verify_id"])})
         sys.exit(0)
