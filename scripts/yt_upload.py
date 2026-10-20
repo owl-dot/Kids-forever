@@ -38,6 +38,12 @@ try:
         done({"ok": u.status_code == 200})
         sys.exit(0)
     if req.get("verify_id"):
+        if req.get("fetch_thumb"):
+            os.makedirs("inbox-upload", exist_ok=True)
+            for q in ("maxresdefault", "hqdefault"):
+                im = requests.get(f"https://i.ytimg.com/vi/{req['verify_id']}/{q}.jpg")
+                open(f"inbox-upload/{name}_{q}.jpg", "wb").write(im.content)
+                res[q] = [im.status_code, len(im.content)]
         done({"ok": True, "verify": verify(req["verify_id"])})
         sys.exit(0)
     if req.get("check"):
