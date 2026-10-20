@@ -1,0 +1,23 @@
+{
+ "name": "fix_coffee",
+ "update": 200,
+ "thumb": 200,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/lH8jYb1EpII/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/lH8jYb1EpII/maxresdefault.jpg",
+  "title": "☕🏃‍♀️ Elif'in Kahve Koşusu | Türkçe Çizgi Film"
+ },
+ "description": "Elif'in elinde sıcacık bir kahve fincanı var ve bir sözü: soğumadan yetiştirmek! Şehrin üstünden, parklardan, çatılardan koşan Elif'in kısa ve sıcak hikâyesi. Türkçe sesli masal anlatımı.\n\nFilm: Coffee Run (2020)\n(CC) Blender Foundation | studio.blender.org\nLisans: Creative Commons Attribution 4.0 (CC BY 4.0) — https://studio.blender.org/films/coffee-run/\nTürkçe anlatım ve uyarlama: Kids forever\n\n#çocukmasalı #türkçemasal #animasyon",
+ "ok": true
+}
