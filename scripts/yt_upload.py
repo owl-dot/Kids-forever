@@ -13,6 +13,17 @@ try:
         "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"})
     r.raise_for_status()
     H = {"Authorization": "Bearer " + r.json()["access_token"]}
+    def verify(vid):
+        v = requests.get("https://www.googleapis.com/youtube/v3/videos?part=snippet,status,processingDetails&id=" + vid, headers=H).json()
+        it = (v.get("items") or [{}])[0]
+        th = it.get("snippet", {}).get("thumbnails", {})
+        return {"privacy": it.get("status", {}).get("privacyStatus"), "upload": it.get("status", {}).get("uploadStatus"),
+                "madeForKids": it.get("status", {}).get("madeForKids"), "processing": it.get("processingDetails", {}).get("processingStatus"),
+                "thumb_keys": list(th.keys()), "thumb_default": th.get("default", {}).get("url"),
+                "thumb_max": th.get("maxres", {}).get("url"), "title": it.get("snippet", {}).get("title")}
+    if req.get("verify_id"):
+        done({"ok": True, "verify": verify(req["verify_id"])})
+        sys.exit(0)
     if req.get("check"):
         c = requests.get("https://www.googleapis.com/youtube/v3/channels?part=id,snippet&mine=true", headers=H)
         c.raise_for_status()
@@ -41,6 +52,7 @@ try:
             headers=H, json={"snippet": {"playlistId": req["playlist_id"],
                              "resourceId": {"kind": "youtube#video", "videoId": vid}}})
         res["playlist"] = p.status_code
+    res["verify"] = verify(vid)
     done({"ok": True})
 except Exception as e:
     body = getattr(getattr(e, "response", None), "text", "")
