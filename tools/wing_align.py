@@ -1,0 +1,88 @@
+import json, re, subprocess, sys
+S="/tmp/claude-0/-home-claude/5cd46ef5-d7e0-5655-905e-b2411ffe9769/scratchpad/wing"
+LINES=[
+"Bir varmış, bir yokmuş. Küçük bir atölyede minik bir kedi yaşarmış.",
+"Adı Pamuk'muş. Pamuk, çekiçle tak tak tak, kendi uzay gemisini yapıyormuş.",
+"Gemi biraz yamalı, biraz tuhafmış ama Pamuk onu çok seviyormuş.",
+"Her şeyi tek tek listesine yazar, hiçbir şeyi unutmazmış.",
+"Tam o sırada kapıdan koca, tatlı bir köpek girmiş.",
+"Adı Fıstık'mış. Turuncu uzay kıyafetini giymiş, uçmaya hazırmış!",
+"Fıstık gemiyi görünce gözleri kalp kalp olmuş.",
+"\"Ben de binmek istiyorum!\" demiş.",
+"Pamuk telaşlanmış: \"Dur, dur! Daha hazır değil!\"",
+"Ama Fıstık o kadar heyecanlıymış ki bir anda geminin içine dalmış.",
+"Düğmelere basmış, kollara asılmış. Gemi sallanıp parça parça dökülmeye başlamış.",
+"Sonra gözüne kocaman kırmızı bir düğme ilişmiş.",
+"Pamuk \"Sakın basma!\" demiş ama çok geç!",
+"Bam! Gemi gümbürdeyerek çatıdan fırlamış.",
+"Gökyüzüne, ayın yanına kadar yükselmişler.",
+"Derken alarm çalmış, kırmızı ışıklar yanıp sönmüş.",
+"Pamuk korkudan gözlerini kocaman açmış, Fıstık ise ne yapacağını şaşırmış.",
+"Yamalar uçuşmuş, parçalar düşmüş, gemi bir yana yatmış.",
+"Fıstık bir kolu çekmiş, Pamuk da makasla bir ipi kesmiş.",
+"Ve birden gemiden turuncu kanatlar açılmış!",
+"Kanatlarıyla bulutların arasında süzülmeye başlamışlar.",
+"Pamuk gülümsemiş, Fıstık sevinçten bağırmış.",
+"Yeşil kırların üstünden uçmuşlar.",
+"Sonunda gemi toz duman içinde yere inmiş. Pat!",
+"Gemi bozulmuş ama ikisi de sapasağlam çıkmış.",
+"Fıstık listeye koca bir tik atmış. Böylece ilk uçuş tamamlanmış.",
+"Ve iki yeni arkadaş, birlikte yeni maceralara hazırlanmış.",
+"Bir sonraki masalda görüşmek üzere!",
+]
+# silence segments
+r=subprocess.run(["ffmpeg","-v","info","-i",f"{S}/narr.wav","-af","silencedetect=n=-38dB:d=0.15","-f","null","-"],capture_output=True,text=True).stderr
+st=[float(x) for x in re.findall(r"silence_start: ([\d.\-e]+)",r)]
+en=[float(x) for x in re.findall(r"silence_end: ([\d.]+)",r)]
+DUR=116.842812
+sil=[]
+for i,s in enumerate(st):
+    e=en[i] if i<len(en) else DUR
+    sil.append((max(s,0),e))
+segs=[]; prev=0.0
+for s,e in sil:
+    if s-prev>0.08: segs.append((prev,s))
+    prev=e
+if DUR-prev>0.1: segs.append((prev,DUR))
+V=set("aeıioöuüâîûAEIİOÖUÜÂÎÛ")
+def syl(w):
+    core=re.sub(r"[^\wçğıöşüâîûÇĞİÖŞÜÂÎÛ']","",w)
+    n=sum(1 for c in core if c in V)
+    return max(n,1)
+words=[]; 
+for li,l in enumerate(LINES):
+    for t in l.split():
+        end=0
+        if re.search(r'(\.\.\.|[.!?])$',t): end=2
+        elif re.search(r'[,:]$',t): end=1
+        words.append(dict(t=t,line=li,syl=syl(t),end=end))
+tot_speech=sum(b-a for a,b in segs); tot_syl=sum(w['syl'] for w in words); rate=tot_syl/tot_speech
+print("segs",len(segs),"words",len(words),"syl",tot_syl,"speech",round(tot_speech,1),"rate",round(rate,2))
+N=len(segs); M=len(words); INF=1e18
+best=[[INF]*(M+1) for _ in range(N+1)]; back=[[None]*(M+1) for _ in range(N+1)]
+best[0][0]=0
+cum=[0]
+for w in words: cum.append(cum[-1]+w['syl'])
+for i in range(N):
+    a,b=segs[i]; dur=b-a
+    for j in range(M):
+        if best[i][j]>=INF: continue
+        for L in range(1,18):
+            jj=j+L
+            if jj>M: break
+            sy=cum[jj]-cum[j]; e=sy/rate
+            c=((dur-e)**2)/(0.04+0.06*e)
+            c+=6.0*sum(1 for w in words[j:jj-1] if w['end']==2)
+            le=words[jj-1]['end']
+            if jj<M: c+= 0.0 if le==2 else (0.4 if le==1 else 1.6)
+            v=best[i][j]+c
+            if v<best[i+1][jj]: best[i+1][jj]=v; back[i+1][jj]=j
+print("cost",round(best[N][M],2))
+al=[]; i=N; j=M
+while i>0:
+    pj=back[i][j]; al.append((i-1,pj,j)); i-=1; j=pj
+al.reverse()
+for si,j0,j1 in al:
+    a,b=segs[si]; sy=cum[j1]-cum[j0]
+    print(f"{si:3d} {a:7.2f}-{b:7.2f} ({b-a:4.2f}s {sy/(b-a):4.1f}/s) L{words[j0]['line']+1:02d}-{words[j1-1]['line']+1:02d}: {' '.join(w['t'] for w in words[j0:j1])}")
+json.dump(dict(al=al,segs=segs,words=words),open(f"{S}/align.json","w"),ensure_ascii=False)
