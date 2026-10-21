@@ -42,6 +42,8 @@ jobs:
             pth=$(jq -r '.peertube_host // "video.blender.org"' "$req")
             if [ -n "$pt" ]; then
               curl -sSL "https://$pth/api/v1/videos/$pt" -o /tmp/pt.json
+              jq -r '"META name=\(.name) | by=\(.account.displayName)@\(.account.host) | channel=\(.channel.displayName) | lic=\(.licence.label) | published=\(.publishedAt) | desc=\(.description // "" | .[0:400])"' /tmp/pt.json >> "$st" 2>&1
+              curl -sSL "https://$pth/api/v1/videos/$pt/description" | jq -r '"FULLDESC=\(.description // "" | .[0:800])"' >> "$st" 2>&1
               jq -r '.files[]?, (.streamingPlaylists[]?.files[]?) | "\(.resolution.id) \(.fileDownloadUrl // .fileUrl)"' /tmp/pt.json >> "$st" 2>&1
               url=$(jq -r '[.files[]?, (.streamingPlaylists[]?.files[]?)] | map(select(.fileUrl|test("mp4$"))) | sort_by(.resolution.id) | last | .fileUrl' /tmp/pt.json)
               echo "chosen=$url" >> "$st"
