@@ -1,0 +1,50 @@
+vaeNRPoAaqC5Fmvc9pJvtS ec233978-b375-4ad7-8bf3-c7f18f3eb6a4 dur=70 lic=Unknown Grease Pencil Fill Tool
+2cSRMkyjChvWtzskpGd7nR 09c1a9a4-ff62-46d6-8f0a-bf01d3f3d04b dur=38 lic=Unknown Grease Pencil Fill Tool Improvements - Blender 2.91
+8KerEHuf8qyGtCVoAoEdzQ 3eb93cab-79a2-4fd5-a636-d42e5c59ddea dur=237 lic=Attribution HERO – Blender Grease Pencil Showcase
+5KqHiUKqJzESpmpamQWbNP 2674c425-7ab5-4902-b2f6-97b432fef1b3 dur=139 lic=Attribution Grease Pencil Shader FX - Blender 2.8 Beta
+gU3qEnoB2KegLJ4kNmc3w1 80bd4022-30a0-47f9-8989-ecd9e8dff50c dur=71 lic=Attribution Export Grease Pencil to PDF - Development Preview
+7ch2LDdHWY5JPs874S9rLQ 3229e480-5ffc-4b63-bcad-3d045ba8e8ec dur=23 lic=Unknown Grease Pencil Falloff Multi-Frame Edition Curve - Development Sneak Peel
+54KVu64cXRrLJHSSdbNJVA 20eada9b-4939-4fdc-857e-1800b020c7dc dur=1253 lic=Unknown Grease Pencil Future Developments VR XR Better brushes and EEVEE intregration - Daniel Martinez Lara
+vhnXpzrd8PShdpoGN3uoqu ed2273ae-b210-4553-9940-5ef3f2202fe4 dur=466 lic=Attribution Blender Today RECAP #094 | Grease Pencil, Sculpt Face Sets, Cycles Adaptive Sampling
+pLw3ezY3ctUS8b99rQh61y c0796d4d-00e2-4e15-8c64-20cbd2fef1f4 dur=3814 lic=Unknown GREASE PENCIL SMOOTHNESS | Blender.Today LIVE #168
+p6EGw3HcJsuAXATD2QzNXG bb0cc1c2-fa2d-4dcf-a472-6452014eaf9e dur=2221 lic=Attribution Grease Pencil scenes for testing tools and algorithms
+aqFiPDc4qoTsVK6xk1fAwB 4c545287-b0ba-4f9b-9541-4755c3b3f207 dur=1841 lic=Unknown The future of animation and Grease Pencil
+udHGuAioYLJFARQh2rmnva e486814f-91d3-49b3-b376-66dbd9b26edf dur=223 lic=Unknown Grease Pencil 2.8 sneak peek
+f4zKobPbX2iP3ArF8JJdNW 71dff871-415d-4447-8c96-7c9749a69322 dur=133 lic=Unknown Modifiers in Grease Pencil 2.8
+hpC2wKzKHdjJiy9juWMQKZ 84de86fe-3f80-4c20-bbf8-0b70f1026f1f dur=24 lic=Unknown Grease Pencil & EEVEE integration - Blender 2.8 preview
+m474KvEJE7h7SpiVZff4Ag a265bdf2-f44c-407d-93f5-1f55a52cc59f dur=1079 lic=Attribution NEW GREASE PENCIL - Blender 2.8 Alpha
+8ieouZQpZtQEuPQDvkJjCp 3b17dd85-497b-4421-a855-e584b7da38e7 dur=997 lic=Attribution Learn Grease Pencil 2D Animation in Blender 2.8 Alpha 2
+ehGtNmTAzaLJhEzHgDSfnb 6b9ba62e-f379-43c2-9786-bea297f55904 dur=73 lic=Unknown Grease Pencil Layer Blend Modes - Blender 2.8 Alpha
+nX3UPvHgFDtLTjtVrmsj8F b1bf9cec-13c7-49dd-8490-367711a8f6f5 dur=49 lic=Unknown New Grease Pencil Primitive Curve Tool
+5gyLuMkGHcLDAaqA9KWTUs 2290e799-1b05-488a-8705-93b048d37eae dur=73 lic=Unknown New Grease Pencil Cutter & Guidelines - Blender 2.8
+5tVoQXjz44gxMy19QJ6w8d 244a8aa4-213b-4ba5-aa3f-2f7c2cbe2942 dur=560 lic=Attribution COLOR WIREFRAMES + GREASE PENCIL! - Blender 2.8 Beta
+jtGfm7b9d3SPjPaZbXt9qi 95a26188-3127-4d49-9510-dbd9e23a4949 dur=106 lic=Attribution Grease Pencil Textured Brushes - Blender 2.80 Beta
+wc7wuafg3BCnezqB8NdExs f47f5ce1-d78e-4e8e-8644-09c89a4db258 dur=1215 lic=Attribution Grease Pencil and You Dont throw away your Pre Viz - Rob Silvestri
+u1eG3AJq2pePSCpZfP36rs e2c851cb-1d94-41b6-b815-ef67dfc87238 dur=55 lic=Attribution Import SVG as Grease Pencil - Work in Progress
+fAzdx2PFiKD7Mnoanyh7BN 7633b317-cae3-4614-b10a-3049caedd7d4 dur=104 lic=Unknown Grease Pencil: Vertex Color support
+siCNPJ1oFpyRJkbioiWSyi d503eebb-7b91-4777-a6ed-90a6ad7154d9 dur=638 lic=Attribution GREASE PENCIL REFACTOR & NEW FEATURES 🎨
+962uRV2MU2RPs15yx6shvH 417cc045-3d03-4657-bdb8-6087d4050abb dur=46 lic=Unknown Major Grease Pencil Improvements! - Blender 2.8x development
+aCddzQdJuVLWnaJkwdUKEK 4df08d78-d45d-4cc3-b70d-2a4ca9d9b633 dur=4196 lic=Unknown GREASE PENCIL REFACTOR 🎨 Blender Today Live #94
+oM8CxSSK6gD9UAS3ikSW1R b87638f0-efa5-4afa-830b-10a5879084e9 dur=4474 lic=Unknown MEET THE GREASE PENCIL TEAM! | Blender Everyday #01
+sKniQ2WG7Mk5JasF3XwkZu d89bb7e9-c04d-4a12-9c3c-3a52c646dad2 dur=171 lic=Unknown TRACE IMAGES into GREASE PENCIL 🎨 Blender Today
+sKjjbDMhfju6vi8T8UkDkc d899df95-4dab-4a21-a3ec-22506edad965 dur=4400 lic=Unknown GREASE PENCIL CURVE EDIT! #127 | Blender.Today LIVE
+COMMONS File:(MHNT) Coenonympha hero - Krakow Poland - male ventral.jpg
+COMMONS File:(MHNT) Coenonympha hero - Krakow Poland - male dorsal.jpg
+COMMONS File:Rustam Kills the Turanian Hero Alkus with his Lance.jpg
+COMMONS File:Tsuzoku Suikoden Goketsu Hyakuhachi-nin no Hitori (108 Heroes of 'The Water Margin' in Popular Translation) (BM 1906,1220,0.1311).jpg
+COMMONS File:Zilverstreephooibeestje - scarce heath - Coenonympha hero 4.jpg
+COMMONS File:Utagawa Kuniyoshi, Portrait of Chicasei Goyô (Wu Yong) (1827–1830).jpg
+COMMONS File:(Barcelona) Archway with Trees by the Sea; Sketch for The Parting of Hero and Leander - c.1827-8 - William Turner - Tate Britain.jpg
+COMMONS File:Texas Heroes Monument.jpg
+COMMONS File:Protest the Hero live.jpg
+COMMONS File:Stone sculpture of celtic hero.jpg
+COMMONS File:Hero of Labour of Kazakhstan icon.jpg
+COMMONS File:Diploma Hero of Labor of Russia.png
+COMMONS File:Order of the National Hero BAR.png
+COMMONS File:HERO - Blender Open Movie-full movie.webm
+COMMONS File:Hero - screenshot-hero red.png
+COMMONS File:Hero - screenshot-hero blue.png
+COMMONS File:Rains of Terror FINAL 10 15 HERO.png
+COMMONS File:Hero - screenshot-hero red pistol.png
+COMMONS File:SCP Secret Laboratory (Library hero 2x).jpg
+COMMONS File:Hero - screenshot-hero red plane.png

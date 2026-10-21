@@ -1,0 +1,50 @@
+sB1qZAt6cQNQFtszYtaD5u d770e715-5e91-456c-889a-2c3294c00e90 dur=3133 lic=Unknown Live animation show
+oeyEymYNAoJdKnnbuYeHdw b40dd994-936b-4f41-89c1-ccd8833a18a2 dur=1432 lic=Attribution Digital Life Project 3D Scanning Animation Sharing of Living Animals - Jeremy Bot
+tRGGM3HtqfxhR7DQJ5E3tp e19745cf-3677-4b91-9025-942acb76eb6d dur=10030 lic=Unknown Blender Animation - Sprite Fright on Ice
+i6ZkfRvYvvcWvSYJoq8XpN 8a81687d-e90e-404a-adac-1246808a1af8 dur=10005 lic=Unknown Blender Animation - Sprite Fright on Ice (Part 2)
+ot67ZM5auZE57AQKeBcwwe b5f149ba-c3b0-49dc-88d8-c04785fc25d9 dur=3115 lic=Attribution A New Animation System
+kCANQSR6EyzYmEiuXwPa9U 9ef9dc79-48d5-431f-ae4a-466b1fcdaa60 dur=3097 lic=Unknown Slot it like its hot progress on the new animation system — Blender Conference 2025
+f2KUkiMMVysw5PU714UZNy 719ebda2-5019-4d6f-a31c-7b5fb104f560 dur=2315 lic=Attribution - Share Alike 3D-to-2D Animation Smear Effect Technique Based on Japanese Hand-Drawn Style — BCON26
+5ruRYckTcQMTMQvyqMnVsr 23f3ef79-15dc-44c5-aa45-cf92e78a4509 dur=150 lic=Attribution Caminandes 3: Llamigos - Funny 3D Animated Short
+x3QKwgFXGZQ7yvCTD2wHJA fb70d459-48d2-4db5-adba-813c84f9200a dur=146 lic=Unknown "Caminandes 2: Gran Dillama" - Blender Animated Short
+c1FcrEV7DQ3dqtN4oBdhoe 592cae73-3bbc-4dfe-91cf-5640a43176d9 dur=1302 lic=Attribution The Story of Trying to Produce our First Animated Short - Sam Van Hulle, Thomas Willemsen
+nkUXRsy2ZJnzniLSzfFcwv acd7aede-a271-46f1-a261-e4011655798d dur=2135 lic=Unknown Trophy Son The (Not So) Easy Journey of an Animated Short — Blender Conference 2025
+dmhvQNzwBnrWy1iYzVv5g7 6402b77c-b61f-4a06-96ca-c8420a2becf4 dur=634 lic=Attribution Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film
+ppTHNqAUxqeVVhAvJwTkce bd982b7e-ad2f-4db0-a41d-310066240e8f dur=1215 lic=Unknown Animation : back to the drawing board !
+w9WYMUu7gW4gcXXK8bDMxk f431fdf8-7c35-43bd-a0b9-3836a0bfef75 dur=1718 lic=Unknown Make it Move - Illustration with Animation in Mind
+aqFiPDc4qoTsVK6xk1fAwB 4c545287-b0ba-4f9b-9541-4755c3b3f207 dur=1841 lic=Unknown The future of animation and Grease Pencil
+8ieouZQpZtQEuPQDvkJjCp 3b17dd85-497b-4421-a855-e584b7da38e7 dur=997 lic=Attribution Learn Grease Pencil 2D Animation in Blender 2.8 Alpha 2
+sDbN2CJ6chAcx4Qarik68r d7bec6c4-75be-457b-8a7b-89ef1057044b dur=4220 lic=Unknown Animation Tools & UI updates! - Blender Today Live #62
+jegu3Ciuky1eUw8KeoPMjw 939eb4fb-5287-4eed-8ddf-12410391499e dur=1487 lic=Attribution The Hand of Animation - Hjalti Hjalmarsson
+gXuUy2HnfXYDKDhBC6PYhU 8138cd1e-bc89-4bfb-8a5e-4d1b229ec69c dur=4396 lic=Unknown ANIMATION + Q&A #123 | Blender.Today LIVE 
+xwc6hYgWUXpbjxHhr5pAQe ff427260-9631-40d9-bd39-65f21f95e9ad dur=48 lic=Attribution - Share Alike Animation Using Constraints Example Solar System
+uiEzw3bXfJUTMmZK1cKDxB e5374d11-1701-4cfb-a24b-a42dd605b705 dur=7156 lic=Unknown Live Character Animation 'Acting' with Rik Schutte pt.1
+mWqdWxa1fvSRYmZjMQF6aQ a98fdd63-9628-4916-b9a5-ac16801e6f26 dur=8458 lic=Unknown Live Character Animation 'Acting' with Rik Schutte pt.2
+6pVVgTbny12xq17S3mUSdd 2bd5074a-2441-43b6-aa31-ce0cf4e57fec dur=9893 lic=Unknown Live Character Animation 'Acting' with Rik Schutte pt.3
+3baeJT2ppowMaAyYT5NpxJ 119d684e-cc2b-46d8-ac23-fdf863e069bc dur=8999 lic=Unknown Live Character Animation 'Acting' with Rik Schutte pt.5
+kaYfjFH7vzCy6dte229TNG 9b41fdeb-785a-410c-ae30-39867e578770 dur=1878 lic=Unknown Snow - Blender Character Animation Workflow
+hjANf6Vu6JnMdXS74cxw7X 842b0d0f-53c4-431c-9337-dea5a592c4b3 dur=582 lic=Unknown Robot Animation Research - Project Heist
+hwb1kWe1r2uKXkuLYJ6bnD 85c8b2b2-2540-4dfa-b413-c07e6fea08b7 dur=927 lic=Unknown From illustration to animation
+fWpZAa4VA5zcbS5947WSaw 78f8e417-166d-47d1-a917-763c65c88ce0 dur=2874 lic=Unknown Cloud animation pipeline with Amazon Nimble Studio
+u1bN8G68iJdb9YnqMUM7h9 e2c6890e-566c-497f-91b2-19925d3f4268 dur=1720 lic=Unknown Grease Pencil tools for animation productions
+piB6BHpWrtFRYEUorq4ZDX bcb77663-7eee-49e8-9185-6578df9ba7b5 dur=3087 lic=Unknown The Future of Character Animation & Rigging： a Q&A feeback session
+COMMONS File:3Ring release animation.gif
+COMMONS File:Muybridge race horse animated.gif
+COMMONS File:CT Webcam.gif
+COMMONS File:Newtons cradle animation book.gif
+COMMONS File:The bogle-Corrected.gif
+COMMONS File:Spectrafocus Animation with Sunlight 05.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 01.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 02.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 07.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 03.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 04.jpg
+COMMONS File:Spectrafocus Animation with Sunlight 06.jpg
+COMMONS File:Steel Animation Hands with Aluminum Wire Fingers – Armature Puppet (2021).jpg
+COMMONS File:Frontal lobe animation.gif
+COMMONS File:A Boy and His Dragon.webm
+COMMONS File:Sieve of Eratosthenes animation.gif
+COMMONS File:Polar Bear Animation Cartoon Sprite 3D Animation Side Shot.png
+COMMONS File:(OO) - Animation Short Film (2017).webm
+COMMONS File:Animation weg wald rotation.gif
+COMMONS File:No animation round.png
