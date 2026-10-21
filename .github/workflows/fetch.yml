@@ -31,9 +31,17 @@ jobs:
               curl -sSL -G "https://commons.wikimedia.org/w/api.php" --data-urlencode "action=query" --data-urlencode "list=search" --data-urlencode "srsearch=$ps" --data-urlencode "srnamespace=6" --data-urlencode "srlimit=20" --data-urlencode "format=json" -A "Mozilla/5.0 kidsforever-bot" -o /tmp/cm.json
               jq -r '.query.search[]? | "COMMONS \(.title)"' /tmp/cm.json >> "$st" 2>&1
             fi
+            sq=$(jq -r '.sepia // empty' "$req")
+            if [ -n "$sq" ]; then
+              dmax=$(jq -r '.dmax // 720' "$req"); cat=$(jq -r '.cat // empty' "$req")
+              catarg=""; [ -n "$cat" ] && catarg="--data-urlencode categoryOneOf=$cat"
+              curl -sSL -G "https://sepiasearch.org/api/v1/search/videos" --data-urlencode "search=$sq" --data-urlencode "licenceOneOf=1" --data-urlencode "licenceOneOf=7" --data-urlencode "durationMax=$dmax" --data-urlencode "durationMin=60" --data-urlencode "count=40" $catarg -o /tmp/sp.json
+              jq -r '.data[]? | "SEPIA host=\(.account.host) id=\(.shortUUID) dur=\(.duration) lic=\(.licence.label) views=\(.views) \(.name)"' /tmp/sp.json >> "$st" 2>&1
+            fi
             pt=$(jq -r '.peertube_id // empty' "$req")
+            pth=$(jq -r '.peertube_host // "video.blender.org"' "$req")
             if [ -n "$pt" ]; then
-              curl -sSL "https://video.blender.org/api/v1/videos/$pt" -o /tmp/pt.json
+              curl -sSL "https://$pth/api/v1/videos/$pt" -o /tmp/pt.json
               jq -r '.files[]?, (.streamingPlaylists[]?.files[]?) | "\(.resolution.id) \(.fileDownloadUrl // .fileUrl)"' /tmp/pt.json >> "$st" 2>&1
               url=$(jq -r '[.files[]?, (.streamingPlaylists[]?.files[]?)] | map(select(.fileUrl|test("mp4$"))) | sort_by(.resolution.id) | last | .fileUrl' /tmp/pt.json)
               echo "chosen=$url" >> "$st"
