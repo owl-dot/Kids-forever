@@ -1,0 +1,16 @@
+META name=Short film - Pebble | by=Marco@makertube.net | channel=Wolf | lic=Attribution | published=2024-08-06T12:16:39.610Z | desc=Plot
+Pebble, a unique caterpillar made of pebbles, is determined to reach a green leaf.
+
+Credits
+Marco : Director, Producer, Music, Modeling, Animation
+Joseph : Caterpillar rigger, General advisor
+Nathan : Pebble design, Story advisor
+
+Making of
+This is our first short film and it’s completely made with Blender.
+For this film we used only free software since it’s possible to make content
+1080 https://makertube.net/download/streaming-playlists/hls/videos/dd10611a-3575-4e39-8bbb-6d016235f581-1080-fragmented.mp4
+720 https://makertube.net/download/streaming-playlists/hls/videos/dd10611a-3575-4e39-8bbb-6d016235f581-720-fragmented.mp4
+chosen=https://media.makertube.net/streaming-playlists/hls/dd10611a-3575-4e39-8bbb-6d016235f581/09cf8814-c737-47ec-9cf7-814ce4e442ab-1080-fragmented.mp4
+film http=200 bytes=88782413
+film ok bytes=46423626 1280,720  307.750000 

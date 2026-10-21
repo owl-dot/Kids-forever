@@ -1,0 +1,17 @@
+META name=La Révolution des Crabes - Court métrage d'animation - de Arthur de Pins | by=coralieauville@tube-arts-lettres-sciences-humaines.apps.education.fr | channel=Main coralieauville channel | lic=Attribution | published=2026-06-01T07:22:14.718Z | desc=Les crabes de l'estuaire de la Gironde ont un sérieux handicap : ils ne peuvent pas changer de direction et sont condamnés à marcher toute leur vie suivant la même ligne droite. Comment vivent-ils ce tragique destin 
+
+Prix du public au festival d'Annecy en 2004
+
+Réalisation : Arthur de Pins
+Pays : France / 2004
+Voix : Emilie Vergneau, Arthur de Pins
+Musique : Gerard Calvi
+Production : Arth
+720 https://tube-arts-lettres-sciences-humaines.apps.education.fr/download/web-videos/a4b526e7-18c9-49f6-b414-f4019b5de701-720.mp4
+480 https://tube-arts-lettres-sciences-humaines.apps.education.fr/download/web-videos/a4b526e7-18c9-49f6-b414-f4019b5de701-480.mp4
+0 https://tube-arts-lettres-sciences-humaines.apps.education.fr/download/web-videos/a4b526e7-18c9-49f6-b414-f4019b5de701-0.mp4
+720 https://tube-arts-lettres-sciences-humaines.apps.education.fr/download/streaming-playlists/hls/videos/a4b526e7-18c9-49f6-b414-f4019b5de701-720-fragmented.mp4
+480 https://tube-arts-lettres-sciences-humaines.apps.education.fr/download/streaming-playlists/hls/videos/a4b526e7-18c9-49f6-b414-f4019b5de701-480-fragmented.mp4
+chosen=https://tube-arts-lettres-sciences-humaines.apps.education.fr/static/streaming-playlists/hls/a4b526e7-18c9-49f6-b414-f4019b5de701/16205770-5111-43e6-b1e9-6c863dc182c7-720-fragmented.mp4
+film http=200 bytes=34252537
+film ok bytes=36472063 1280,720  291.905000 

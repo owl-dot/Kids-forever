@@ -1,0 +1,24 @@
+META name=Tusky Tale by Noody - Handdrawn Animation Short HD | by=angie@aperi.tube | channel=Les sélections d'Angie | lic=Attribution | published=2021-06-30T07:42:56.492Z | desc=A story about a narwhal who loses the most important thing in his life.
+
+An animation short film by 
+Kerstin Buzelan a.k.a. Noody 
+
+My website: www.noody.de
+Instagram: https://www.instagram.com/noodydraws/
+Facebook: https://www.facebook.com/noodydraws/
+Twitter: https://twitter.com/noodydraws/
+
+Music by 
+Simon Osterhold and Clemens Wenger
+
+Under the Supervision of
+Prof Robert Rose
+Un
+1080 https://aperi.tube/download/streaming-playlists/hls/videos/51357e20-c880-4dc6-9912-451b931f34f7-1080-fragmented.mp4
+720 https://aperi.tube/download/streaming-playlists/hls/videos/51357e20-c880-4dc6-9912-451b931f34f7-720-fragmented.mp4
+480 https://aperi.tube/download/streaming-playlists/hls/videos/51357e20-c880-4dc6-9912-451b931f34f7-480-fragmented.mp4
+360 https://aperi.tube/download/streaming-playlists/hls/videos/51357e20-c880-4dc6-9912-451b931f34f7-360-fragmented.mp4
+240 https://aperi.tube/download/streaming-playlists/hls/videos/51357e20-c880-4dc6-9912-451b931f34f7-240-fragmented.mp4
+chosen=https://aperi.tube/static/streaming-playlists/hls/51357e20-c880-4dc6-9912-451b931f34f7/51357e20-c880-4dc6-9912-451b931f34f7-1080-fragmented.mp4
+film http=200 bytes=38147533
+film ok bytes=14251739 1280,720  150.767007 
