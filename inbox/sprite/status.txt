@@ -1,0 +1,5 @@
+804 https://video.blender.org/download/web-videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-804.mp4
+720 https://video.blender.org/download/web-videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-720.mp4
+chosen=https://video.blender.org/object-storage/web_videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-804.mp4
+film http=200 bytes=110581245
+film ok bytes=87663713 1280,536  629.887007 
