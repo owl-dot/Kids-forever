@@ -1,0 +1,40 @@
+SEPIA host=video.blender.org id=5ruRYckTcQMTMQvyqMnVsr dur=150 lic=Attribution views=1196 Caminandes 3: Llamigos - Funny 3D Animated Short
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mkDHTuAytuEhVXohhyJJm2 dur=292 lic=Attribution views=116 La Révolution des Crabes - Court métrage d'animation - de Arthur de Pins
+SEPIA host=video.infosec.exchange id=xtR1k1oJiqfvbLX84FNcNV dur=461 lic=Public Domain Dedication views=13 Steamboat Willie (1928)
+SEPIA host=vod.newellijay.tv id=1pnqvcNmyEcFs3wQYdmqWt dur=502 lic=Public Domain Dedication views=18 Superman - Terror On The Midway
+SEPIA host=vod.newellijay.tv id=aGprMCMmnZEXvTxds7HHM5 dur=610 lic=Public Domain Dedication views=14 Moonbird (1959)
+SEPIA host=vod.newellijay.tv id=oVDLKqkUADZ1tnLX5XqyXe dur=355 lic=Public Domain Dedication views=44 Taxi-Turvy (1954) - Popeye The Sailor
+SEPIA host=vod.newellijay.tv id=h3iXNB6aDgrXakh9wAN6px dur=455 lic=Public Domain Dedication views=28 Doggone Tired (1949)
+SEPIA host=vod.newellijay.tv id=8n6th4wCPz7gMb8DHd6DAk dur=370 lic=Public Domain Dedication views=24 The Paneless Window Washer (1937) - Popeye the Sailor
+SEPIA host=vod.newellijay.tv id=epB27gizi3XmPwz16kqxpq dur=586 lic=Attribution views=15 Puss in Boots (1922) - Walt Disney
+SEPIA host=vod.newellijay.tv id=5F528nJLUpDsVj9pQdyhsa dur=596 lic=Attribution views=9 Big Buck Bunny (Blender Open Movie)
+SEPIA host=vod.newellijay.tv id=p9si5vq1afkU1gtQeoKV43 dur=517 lic=Public Domain Dedication views=34 Superman  - The Arctic Giant
+SEPIA host=vod.newellijay.tv id=55KDmhmdYJKT8J7d5Yoty6 dur=436 lic=Public Domain Dedication views=21 A Date To Skate (1938) - Popeye
+SEPIA host=peertube.chuggybumba.com id=eEs4bpoYoJbPNR9XXGA414 dur=360 lic=Public Domain Dedication views=18 Disney present a Mickey Mouse sound cartoon: "Plane Crazy"
+SEPIA host=vod.newellijay.tv id=aWJyiYp86HfM62fDeAtUPp dur=365 lic=Public Domain Dedication views=15 I Never Changes My Altitude (1937)
+SEPIA host=vod.newellijay.tv id=mdgxYfrY1TVNdqVEFVehuR dur=469 lic=Public Domain Dedication views=10 Casper The Friendly Ghost - 'Boo Moon' (1953)
+SEPIA host=peertube.dngr.us id=4AJcYMxC99kuEC4AK5ZdFn dur=237 lic=Public Domain Dedication views=0 PRIVATE SNAFU "SPIES"  WWII CARTOON   CHUCK JONES  76164
+SEPIA host=peertube.wtf id=cjgXsvAPyhGB5e4TihfBKg dur=109 lic=Attribution views=3 A Day in the Life of an Office Worker 😫 | Funny Animation
+SEPIA host=peertube.dngr.us id=etBMFSNUF8LD7xTXirqanD dur=556 lic=Public Domain Dedication views=0 “HERITAGE” 1940S CIVICS, TOLERANCE, AND ANTI-TOTALITARIANISM CARTOON    SOCIAL GUIDANCE FILM 70094
+SEPIA host=vod.newellijay.tv id=5NUEsmsVU8NZT6rGmWrZFS dur=444 lic=Public Domain Dedication views=38 Puss n' Booty - Warner Brothers (1943)
+SEPIA host=video.liberta.vip id=6Kgt9ne1Hb8FUaHVM8e9MB dur=387 lic=Attribution views=2 What is the h-index and what are its limitations?
+SEPIA host=vod.newellijay.tv id=eVVMG6x7jRJidKCyZ78jR8 dur=212 lic=Public Domain Dedication views=48 Krazy Kat: Bugologist (1916)
+SEPIA host=video.edu.nl id=rnd8y7uxcDATqC8xnLxHA2 dur=635 lic=Attribution views=30 Big Buck Bunny 1080p 60fps
+SEPIA host=vod.newellijay.tv id=7jC8a4DYtskCugo26D5xir dur=627 lic=Public Domain Dedication views=20 Superman (The Mad Scientist) - (1941)
+SEPIA host=video.igem.org id=jaiD3jP4udhcZ57ycEHYF8 dur=103 lic=Attribution views=49 AFCM-Egypt: FROST: One Child’s Story with Atopic Dermatitis (2026)
+SEPIA host=peertube.dngr.us id=fKdWgQhtFVCRbryjPuYCqA dur=378 lic=Public Domain Dedication views=0 WWII CHUCK JONES CARTOON  "POINT RATIONING OF FOODS"  77354
+SEPIA host=peertube.dngr.us id=9ZLibwEJjDzHiCiuuSsEoQ dur=406 lic=Public Domain Dedication views=0 “BURY THE AXIS” 1943 LOU BUNIN STOP-MOTION ANIMATION WWII PROPAGANDA XD38894
+SEPIA host=peertube2.cpy.re id=caiPDfS11p1j21DmpoEsiT dur=596 lic=Attribution views=8175 Big Buck Bunny
+SEPIA host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB dur=105 lic=Attribution views=263 Fantasmagorie (1908) (first animated film)
+SEPIA host=video.blender.org id=dnayqfMS4PAE9pSZ3kyVUb dur=193 lic=Attribution views=1300 Glass Half - Blender animated cartoon
+SEPIA host=video.igem.org id=eeETV4X7RLGdt22XSRHQz8 dur=63 lic=Attribution views=13 HKU-HongKong: VEE Replication (2024) [English]
+SEPIA host=vod.newellijay.tv id=bHngdFKm7UVdMvCxvXUxcA dur=422 lic=Public Domain Dedication views=27 The Dinosaur and the Missing Link: A Prehistoric Tragedy
+SEPIA host=vid.northbound.online id=7m4n8zcoJQDNxxTLScMASU dur=508 lic=Public Domain Dedication views=0 CraftingWorlds.com: Changed by The Godfather
+SEPIA host=vod.newellijay.tv id=hkzhkWJN38R46thKtt7dmX dur=214 lic=Public Domain Dedication views=13 The New Three Stooges - The Big Wind Bag
+SEPIA host=aperi.tube id=dGyfbw4rHA5GyGtHoBNEF6 dur=373 lic=Attribution views=76 (OO) -animated movie by Seoro Oh
+SEPIA host=tube-langues-vivantes.apps.education.fr id=hPYa81nsE1nqe87AZKMh8i dur=445 lic=Attribution views=13 The Animated History of Australia
+SEPIA host=exquisite.tube id=jKkrSaQdBWDXjqj9AKqufB dur=129 lic=Attribution views=12 HOW DOES CAFFEINE WORK (animated explainer)
+SEPIA host=exquisite.tube id=6QHkG8vsgvetyP3e9HPBFx dur=154 lic=Attribution views=4 WHAT IS GOING ON IN THE TEENAGE BRAIN (animated explainer in danish)
+SEPIA host=exquisite.tube id=uq4FqJYAds9CW28f4a4xhd dur=96 lic=Attribution views=3 WHAT IS CRISPR (animated explainer)
+SEPIA host=exquisite.tube id=kL88PKpn4KS4tWvBzLou4b dur=201 lic=Attribution views=1 WHAT IS HERD IMMUNITY (animated explainer)
+SEPIA host=exquisite.tube id=uih93UCyj9SstmVHRU482f dur=125 lic=Attribution views=1 WHAT IS ANTIBIOTIC RESISTANCE (Part 1, animated explainer)

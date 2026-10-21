@@ -1,0 +1,40 @@
+SEPIA host=fedi.video id=cbQE3NRw76FayQCSdb14TU dur=137 lic=Attribution views=1484 What is Mastodon? (2018) (short animation explaining the Mastodon social network)
+SEPIA host=fedi.video id=q4BgjZ9auRqmtqRRdz9MuT dur=90 lic=Attribution views=923 Caminandes 1: Llama Drama (2013) (short comedy animation)
+SEPIA host=fedi.video id=gJwQQP9ybUyhBZcbtzinvA dur=338 lic=Public Domain Dedication views=220 The Skeleton Dance (1929) (short macabre Disney animation, first Silly Symphony cartoon)
+SEPIA host=video.igem.org id=jkkLJdyG9irUhvxSmKo4Z4 dur=120 lic=Attribution views=315 IISER-Pune-India: Animation project design (2023)
+SEPIA host=tube.tchncs.de id=2fAt7KEDcBZXGrxM3srWVB dur=95 lic=Attribution views=305 Trans USA 2019 inkl.  Route 66 (Animation)
+SEPIA host=video.blender.org id=tm5UQq6MLT5MmdbFLJzzSB dur=230 lic=Attribution views=218 Animation Workshop July 2023 - Recap
+SEPIA host=video.europalestine.com id=x9yhbnEjgKpShCdYLVykYR dur=97 lic=Attribution views=108 Animation Palestine Tour à Belfort
+SEPIA host=makertube.net id=191wEVK53tC9Qp2QzE7NDb dur=99 lic=Public Domain Dedication views=95 Cornifer - a Hollow Knight animation
+SEPIA host=aperi.tube id=b2ChBBmmRG5GRLG5wZpqTz dur=151 lic=Attribution views=85 Tusky Tale by Noody - Handdrawn Animation Short HD
+SEPIA host=video.igem.org id=49Pf1fXRMHswwWRkPwGxpS dur=93 lic=Attribution views=85 Beckman Coulter - Echo 525 Normalization and Pooling Animation
+SEPIA host=makertube.net id=fG4wQmm3cEmkUzv4ei4K1k dur=60 lic=Public Domain Dedication views=76 Shoreline - a rainworld downpour animation
+SEPIA host=indymotion.fr id=ataEC3rRq74e4XQ24hKkUt dur=98 lic=Attribution views=74 Animation « Mime Suiveur » | Teaser 2024
+SEPIA host=makertube.net id=hWMriNNwcRyRtaqzrzwseG dur=114 lic=Public Domain Dedication views=54 Haiku - a Hello World { Louie Zong } animation
+SEPIA host=indymotion.fr id=sxeK3EtB3WNGAmhxvyzdmp dur=127 lic=Attribution views=49 Animation « Statues Vivantes » | 2024
+SEPIA host=spectra.video id=bXVRR7x3rvV3rW1yJtnRU2 dur=68 lic=CC BY 4.0 views=41 Terminal-based animation (80x20, 8 color)
+SEPIA host=pony.tube id=4pqvap1fSPnBSNJRgEUuCZ dur=86 lic=Attribution views=37 Fallout: Equestria — Life in the Wasteland (Short Animation)
+SEPIA host=video.edu.nl id=imi7Ne3Fgz75xHBiXQ8wiV dur=132 lic=Attribution views=27 Animation Educational Interoperability
+SEPIA host=pony.tube id=nqQ3SSLSbWN4TdTW4ZeURg dur=181 lic=Attribution views=25 Animation Vault 1 (MLP Art Trim)
+SEPIA host=tube-enseignement-professionnel.apps.education.fr id=fMnBDVjmcqR6f1SFQA1kkq dur=202 lic=Attribution views=22 Animation TV - Self 18 NOV
+SEPIA host=makertube.net id=sfDjD1rTQLUgWLgNaPjdiD dur=306 lic=Attribution views=18 Cyriak's Animation mix neural-upscaled
+SEPIA host=tube-enseignement-professionnel.apps.education.fr id=3pjCxZn5su89EhgC3Ne31G dur=101 lic=Attribution views=11 Animation  comment sont contrôlés les aliments que nous consommons
+SEPIA host=tube-numerique-educatif.apps.education.fr id=aLqebXcyyRKTNrUGYiTji9 dur=126 lic=Attribution views=10 IOS11 -  StopMotion avec Animation en volume
+SEPIA host=indymotion.fr id=r3e9b9euN5Z352NPNo2E56 dur=170 lic=Attribution views=8 Animation « Statues Vivantes » | 2008
+SEPIA host=pony.tube id=smioPLKsAGuFsFPrx2gQx7 dur=511 lic=Attribution views=5 Animation Vault I - P2: The Forgotten Parts (2022)
+SEPIA host=peertube.dngr.us id=nymSb47hnwk4WYW7jKczSh dur=717 lic=Public Domain Dedication views=0 APOLLO DIGEST  LUNAR MISSION HIGHLIGHTS   ANIMATION OF SIMULATED MOON MISSION 71332
+SEPIA host=video.medienzentrum-harburg.de id=8MLaJguiC5NorowyU3S1bn dur=142 lic=CC BY 4.0 views=7 KCC26 - Laudation - Big Buck Bunny - Einen Animationsfilm vertonen
+SEPIA host=video.medienzentrum-harburg.de id=j6SEkCQwfpFMFCsEEyjtLK dur=634 lic=CC BY 4.0 views=3 KCC26 - Big Buck Bunny - Einen Animationsfilm vertonen (Gruppe B) - Hauptpreis 16 bis 20 Jahre
+SEPIA host=video.medienzentrum-harburg.de id=6dDjqn3jhANYxmgBB3A1Rt dur=636 lic=CC BY 4.0 views=3 KCC26 - Big Buck Bunny - Einen Animationsfilm vertonen (Gruppe A) - Hauptpreis 16 bis 20 Jahre
+SEPIA host=video.blender.org id=euzQiqvnhkHYKLETFpqoxp dur=180 lic=Attribution views=204 Keying Animation Updates in Blender 4.1
+SEPIA host=video.igem.org id=vLu8GTB1WF5BTAhzbzZkGk dur=69 lic=Attribution views=118 TUDelft: system animation (2022)
+SEPIA host=video.igem.org id=qprBGZQbutZNTk6L7nhLsW dur=134 lic=Attribution views=59 McMaster-Canada: Prototype Animation (2025) [English]
+SEPIA host=pony.tube id=a1nMdn7BjKYtnxsfvhKqFi dur=258 lic=Attribution views=38 _MLP ANIMATION_ by hotdiggedydemon Against The [SFM Ponies] by MrPonylover91 (2016) Reupload)
+SEPIA host=tube-numerique-educatif.apps.education.fr id=3idyvPqjfXk666x6bkqhnE dur=207 lic=Attribution views=25 Film animation Haïku écologie
+SEPIA host=video.edu.nl id=oiq4tiwga9jCtQQLZUTzR4 dur=116 lic=Public Domain Dedication views=17 English animation - project eduwallet
+SEPIA host=tube.futuretic.fr id=ugAP5wks7MK2z5mddLAd8i dur=339 lic=CC BY 4.0 views=2 Atelier animation - papier découpé
+SEPIA host=video.igem.org id=gDGsm1pjVrS3v6wQhm9CR3 dur=74 lic=Attribution views=1 UCSC: Full Production Animation (2026)
+SEPIA host=pony.tube id=j2BaAyhz3EWSH38myTHjEY dur=88 lic=Public Domain Dedication views=100 20251201 - My Little Pony Animation - Kimi Ni Mune Kyun
+SEPIA host=pony.tube id=46yQpHs67TJBgUZVCs4o53 dur=102 lic=Public Domain Dedication views=74 20260315 - My Little Pony Animation - I Remember When
+SEPIA host=diode.zone id=coK2apwsJqaYzR8LRu84Am dur=132 lic=Attribution views=58 [8-Bit Cover] (Animation Only) Opening Movie | Pokémon Diamond/Pearl
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=o9J993v4cVaCc3UT7eD8kL dur=124 lic=Attribution views=32 Film_d'animation_Léo_Lorgeoux
