@@ -1,0 +1,6 @@
+536 https://video.blender.org/download/web-videos/3eb93cab-79a2-4fd5-a636-d42e5c59ddea-536.mp4
+0 https://video.blender.org/download/web-videos/3eb93cab-79a2-4fd5-a636-d42e5c59ddea-0.mp4
+480 https://video.blender.org/download/streaming-playlists/hls/videos/3eb93cab-79a2-4fd5-a636-d42e5c59ddea-480-fragmented.mp4
+chosen=https://video.blender.org/object-storage/web_videos/6c79205c-bd3a-42b5-a8a2-ce7a2a166154-536.mp4
+film http=200 bytes=19490682
+film ok bytes=25478966 1280,536  236.657007 
