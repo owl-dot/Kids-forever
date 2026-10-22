@@ -1,0 +1,40 @@
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=5vUG8ohnvWEiHyqAnJEh3b dur=71 lic=Attribution views=57 Stop motion
+SEPIA host=tube-cycle-2.apps.education.fr id=bgQbWPMEY69YYTiwRw63JQ dur=194 lic=Attribution views=50 Stop motion
+SEPIA host=tube-numerique-educatif.apps.education.fr id=3Pq213mE1RyRCjSetXjpJG dur=68 lic=Attribution views=38 Stop Motion
+SEPIA host=tube-cycle-2.apps.education.fr id=su4hJBhsyWLcHGzxLWgXuY dur=68 lic=Attribution views=5 Stop Motion
+SEPIA host=tube-maternelle.apps.education.fr id=4J12LuVRjpPJFygewxcxxe dur=279 lic=Attribution views=461 Stop motion cycle 1 - La Chasse au caribou
+SEPIA host=tube-numerique-educatif.apps.education.fr id=3Ju6irB5oCt8kyPVK29R3U dur=90 lic=Attribution views=121 Stop motion 6eme
+SEPIA host=tube-cycle-2.apps.education.fr id=bspdL6rXnngB6xopJUesv8 dur=307 lic=Attribution views=30 Stop motion CE2
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=kb346UPwEmr9Bqxx4Eej5e dur=354 lic=Attribution views=26 Stop Motion - L'étoile de Mo - Classe de CE2 - EREA J. Brel - Arts plastiques
+SEPIA host=tube-numerique-educatif.apps.education.fr id=2u4igX4cWsccxoL4otndmz dur=177 lic=Attribution views=14 Stop-Motion ; Mettez de la couleur
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=7wL69tdKTyt4awqT4iM2nR dur=168 lic=Attribution views=11 Stop Motion - Chat Botté - interprété par les élèves d'Olivia - EREA Jacques Brel de Garches
+SEPIA host=tube-numerique-educatif.apps.education.fr id=ndUVV6VFwMB1ckjJXyhgY6 dur=406 lic=Attribution views=0 Stop motion : 5 astuces pour réaliser une animation
+SEPIA host=makertube.net id=ehfGiwBCCbJPk7HimW3TB6 dur=61 lic=Attribution views=19 cooganl - stop motion, crawling and quietly seething was the figure of the trees
+SEPIA host=tube-cycle-2.apps.education.fr id=bJPgjjBD85qYBbusEcS5Na dur=219 lic=Attribution views=190 GS CP stop motion
+SEPIA host=diode.zone id=5JkhzexQhEoQw2kggpHfcu dur=185 lic=Public Domain Dedication views=154 Quake software rendering: stop motion
+SEPIA host=tube-cycle-2.apps.education.fr id=1LP4didTLVzxnVQgXK8Umt dur=366 lic=Attribution views=92 gruffalo en stop motion cp les herbures
+SEPIA host=tilvids.com id=rqPRwWCckjEjYyTWPYtmDg dur=67 lic=Public Domain Dedication views=60 Tidying Up  Server Cabling (Stop Motion)
+SEPIA host=tube-numerique-educatif.apps.education.fr id=ed39TVTjHmSW4A6CxxGcgv dur=207 lic=Attribution views=43 TUTO: ANIMER EN STOP MOTION SANS MATOS !
+SEPIA host=tube-numerique-educatif.apps.education.fr id=hPdVJqj7dujU96B1pViv4F dur=310 lic=Attribution views=29 Faire un film en stop motion : le tuto de Michel Gondry
+SEPIA host=tube-numerique-educatif.apps.education.fr id=3D6s1HmPjF1V75zBkaAm3b dur=345 lic=Attribution views=24 Le monde merveilleux du stop-motion avec Victor Haegelin alias Patagraph #cultureprime
+SEPIA host=tube-numerique-educatif.apps.education.fr id=tLH8szzLJX5LLeYuL2mQrG dur=96 lic=Attribution views=18 Collywood - Exercice Stop motion
+SEPIA host=tube-action-educative.apps.education.fr id=9F35YLBpBkYE4LbuokLQtV dur=120 lic=Public Domain Dedication views=10 Deviens le Héros stop motion Flexanville 2024.2025 (1)
+SEPIA host=tube-numerique-educatif.apps.education.fr id=n7CrG1RRu9mmo9duVNTkoR dur=308 lic=Attribution views=3 LE TEMPS DES LILAS - Film en Stop Motion
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=oxEz269W2hxWU2phaZbQyb dur=327 lic=Attribution views=10 Faire un film avec l’application Stop Motion, avec Wiam et Raphaël
+SEPIA host=peertube.dngr.us id=9ZLibwEJjDzHiCiuuSsEoQ dur=406 lic=Public Domain Dedication views=0 “BURY THE AXIS” 1943 LOU BUNIN STOP-MOTION ANIMATION WWII PROPAGANDA XD38894
+SEPIA host=vod.newellijay.tv id=bHngdFKm7UVdMvCxvXUxcA dur=422 lic=Public Domain Dedication views=27 The Dinosaur and the Missing Link: A Prehistoric Tragedy
+SEPIA host=vod.newellijay.tv id=fKE196fExT86VrXYWo7csk dur=419 lic=Public Domain Dedication views=28 Mary and Gretel (1916)
+SEPIA host=medias.pingbase.net id=8XiU5PDt6G92UhydQi2pku dur=151 lic=Attribution views=86 L'incroyable halloween de sacha - Court-métrage réalisé lors de Fablab-Junior - Octobre 2019
+SEPIA host=tube-maternelle.apps.education.fr id=fR7kjhQtBjFJvZTAgAvLNr dur=305 lic=Attribution views=70 La plage
+SEPIA host=tube-maternelle.apps.education.fr id=qkBmJXgLRpzB6sazK6RCuK dur=366 lic=Attribution views=49 Le château
+SEPIA host=video.dresden.network id=uXkfeBGPMx2gXTZKRDDS5p dur=85 lic=Attribution views=18 Sukuma Award - Tischlein teile Dich
+SEPIA host=tube-numerique-educatif.apps.education.fr id=aLqebXcyyRKTNrUGYiTji9 dur=126 lic=Attribution views=10 IOS11 -  StopMotion avec Animation en volume
+SEPIA host=tube-cycle-2.apps.education.fr id=5CQNvUbeyL1MayBgh8sywU dur=237 lic=Attribution views=15 Il est super, mon slip !
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=4CtRrGk2etJ38bo4zPDh75 dur=365 lic=Attribution views=13 Dessine moi un ailleurs
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=s1CTVmPjzv2HAeHhW5psCB dur=240 lic=Attribution views=0 Dessine moi un ailleurs
+SEPIA host=tube-maternelle.apps.education.fr id=7fixiKNPcbq2eVCRr7G6Bp dur=118 lic=Attribution views=42 La graine 002
+SEPIA host=pony.tube id=2VhJBPZSVzdZkWevQfBGQJ dur=117 lic=Public Domain Dedication views=169 Pony Life [SME01] - Festa da Poção
+SEPIA host=tube-action-educative.apps.education.fr id=2Y8PcMJ49tD2qDgFaPHfa9 dur=124 lic=Attribution views=88 Ovni STI2D
+SEPIA host=pony.tube id=niPvHxRqKcM6YrXdCAv9A1 dur=174 lic=Public Domain Dedication views=59 A Poção Que Não Deu Certo (Especial com Play-Doh)
+SEPIA host=pony.tube id=q4B16mdLdwoRys2n99BPEu dur=116 lic=Public Domain Dedication views=47 Pony Life [SME04] - Cartão de Dia dos Namorados
+SEPIA host=pony.tube id=sMrRgxeZazBm4KNgJw2SgK dur=124 lic=Public Domain Dedication views=46 Pony Life [SME02] - Batalha dos Bolos
