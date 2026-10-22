@@ -1,0 +1,13 @@
+META name=Mary and Gretel (1916) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2022-10-25T23:19:10.371Z | desc=Mary and Gretel meet a fairy who promises them long life as long as they don't cut certain flowers.
+FULLDESC=Mary and Gretel meet a fairy who promises them long life as long as they don't cut certain flowers.
+1080 https://vod.newellijay.tv/download/videos/777857d9-99bc-4678-a727-4563387ef913-1080.mp4
+720 https://vod.newellijay.tv/download/videos/777857d9-99bc-4678-a727-4563387ef913-720.mp4
+360 https://vod.newellijay.tv/download/videos/777857d9-99bc-4678-a727-4563387ef913-360.mp4
+144 https://vod.newellijay.tv/download/videos/777857d9-99bc-4678-a727-4563387ef913-144.mp4
+1080 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/777857d9-99bc-4678-a727-4563387ef913-1080-fragmented.mp4
+720 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/777857d9-99bc-4678-a727-4563387ef913-720-fragmented.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/777857d9-99bc-4678-a727-4563387ef913-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/777857d9-99bc-4678-a727-4563387ef913-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/777857d9-99bc-4678-a727-4563387ef913/ed016fd7-1348-40f2-8ab4-b017bc86c634-1080-fragmented.mp4
+film http=200 bytes=104892745
+film ok bytes=80097949 1280,934  419.133333 

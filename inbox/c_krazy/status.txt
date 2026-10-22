@@ -1,0 +1,17 @@
+META name=Krazy Kat: Bugologist (1916) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2025-01-01T05:06:29.174Z | desc=Krazy Kat: Bugologist is a short animated film featuring the classic characters Krazy Kat and Ignatz Mouse. The Krazy Kat comic strip, created by George Herriman, was first published in 1913 and gained a cult following for its innovative storytelling and unique art style. The strip's unconventional narrative structure, poetic language, and surreal humor set it apart from other comic strips of the 
+FULLDESC=Krazy Kat: Bugologist is a short animated film featuring the classic characters Krazy Kat and Ignatz Mouse. The Krazy Kat comic strip, created by George Herriman, was first published in 1913 and gained a cult following for its innovative storytelling and unique art style. The strip's unconventional narrative structure, poetic language, and surreal humor set it apart from other comic strips of the time.
+
+In Krazy Kat: Bugologist, Krazy Kat and Ignatz Mouse find themselves in the woods, where they are studying bugs. During their exploration, they come across a sleeping bee and an angry elephant. This encounter leads to a series of comedic and unpredictable events, as Krazy Kat and Ignatz navigate the challenges of the wilderness while maintaining their curious and carefree attitudes.
+
+Kr
+1080 https://vod.newellijay.tv/download/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-1080.mp4
+720 https://vod.newellijay.tv/download/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-720.mp4
+360 https://vod.newellijay.tv/download/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-360.mp4
+144 https://vod.newellijay.tv/download/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-144.mp4
+1080 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-1080-fragmented.mp4
+720 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-720-fragmented.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/70ce5ecb-2c8b-4457-b2a0-c4da758a16c1/14e732d3-4af3-418a-bddf-93a1c83b3dc5-1080-fragmented.mp4
+film http=200 bytes=88858277
+film ok bytes=41229210 1280,960  212.416667 
