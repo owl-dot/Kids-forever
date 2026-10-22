@@ -1,0 +1,11 @@
+META name=Odus and The Moon | by=Thomas Midena@codec.au | channel=Thoroughmas | lic=Attribution | published=2025-11-27T22:21:01.468Z | desc=A fairy tale of stellar proportions.
+
+Music by Peder B. Helland: 
+"Dawn of Hope" - http://youtu.be/KNT3l_KT2nY
+"Post War" - http://youtu.be/9ZJMgtVVmD0
+1080 https://codec.au/download/web-videos/6dc67c95-b547-46db-bb75-6aec22b80774-1080.mp4
+1080 https://codec.au/download/streaming-playlists/hls/videos/6dc67c95-b547-46db-bb75-6aec22b80774-1080-fragmented.mp4
+480 https://codec.au/download/streaming-playlists/hls/videos/6dc67c95-b547-46db-bb75-6aec22b80774-480-fragmented.mp4
+chosen=https://peertube-media.s3.ap-southeast-syd.io.cloud.ovh.net/streaming-playlists/hls/6dc67c95-b547-46db-bb75-6aec22b80774/3e69f803-dacc-4ab6-bd09-2ece576d3adf-1080-fragmented.mp4
+film http=200 bytes=39002471
+film ok bytes=28085717 1280,720  248.171000 

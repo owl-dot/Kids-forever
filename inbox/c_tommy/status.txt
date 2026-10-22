@@ -1,0 +1,20 @@
+META name=The Story of Tommy Trimble | by=Phil. Shapiro@makertube.net | channel=Phil Shapiro octave ukulele videos | lic=Attribution | published=2025-08-16T00:17:44.107Z | desc=A whimsical story, drawn using Inkscape and animated using Animatron.com 
+ 
+Drawing, animation and narration by Taylor Jansen
+https://twitter.com/shmallish
+
+See also The Making of Tommy Trimble
+https://www.youtube.com/watch?v=CQCAMtcQXew
+
+ 
+Bonus links - 
+
+http://philshapirochatgptexplorations.blogspot.com
+
+Can Inkscape reduce the number of incarcerated people?
+ http://opensource.com/life/13/1/ink
+1080 https://makertube.net/download/streaming-playlists/hls/videos/b8aa1cb7-abbf-4480-add7-af4bbd64341f-1080-fragmented.mp4
+720 https://makertube.net/download/streaming-playlists/hls/videos/b8aa1cb7-abbf-4480-add7-af4bbd64341f-720-fragmented.mp4
+chosen=https://media.makertube.net/streaming-playlists/hls/b8aa1cb7-abbf-4480-add7-af4bbd64341f/991fa5f0-88a1-4218-99e0-b686cdf2dd84-1080-fragmented.mp4
+film http=200 bytes=23354019
+film ok bytes=16220844 1280,720  257.729000 

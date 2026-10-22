@@ -1,0 +1,15 @@
+META name=Fantasmagorie (1908) (first animated film) | by=Fedi.Video on PeerTube@fedi.video | channel=Animation | lic=Attribution | published=2023-12-07T00:35:04.164Z | desc=A short animation, considered by many to be the first animated film. Made by Émile Cohl in France in 1908.
+
+More info about the film:
+https://en.wikipedia.org/wiki/Fantasmagorie_(film)
+The visuals of "Fantasmagorie" (1908) are in the public domain.
+
+Music:
+"Hand Trolley" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 Licence
+http://creativecommons.org/
+480 https://fedi.video/download/streaming-playlists/hls/videos/fdd20300-4bcb-462f-8343-1f1a183c950f-480-fragmented.mp4
+240 https://fedi.video/download/streaming-playlists/hls/videos/fdd20300-4bcb-462f-8343-1f1a183c950f-240-fragmented.mp4
+chosen=https://fedi.video/static/streaming-playlists/hls/fdd20300-4bcb-462f-8343-1f1a183c950f/4b72b412-998a-48f0-9010-caf4d2a12d13-480-fragmented.mp4
+film http=200 bytes=8392816
+film ok bytes=7899193 624,480  105.040000 
