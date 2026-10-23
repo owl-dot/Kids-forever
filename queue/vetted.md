@@ -8,6 +8,8 @@ Orijinal ses: filmde sonradan eklenmiş modern müzik varsa SESİ TAMAMEN SİL (
 - Pebble (Pavanello, CC BY) – yüklendi
 - Glass Half, Coffee Run, Wing It, Spring, Caminandes 1/3, Singularity, Big Buck Bunny – yüklendi
 
+- Fantasmagorie (1908, Cohl, PD) – KULLANILIYOR 23 Eki (kareler uygun, orijinal ses silinir)
+
 ## ADAY (kareleri henüz İNCELENMEDİ; seçersen incele)
 - Fantasmagorie (1908, Émile Cohl, PD) host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB, 105 sn, 624x480, siyah-beyaz, soyut; müziği Kevin MacLeod CC BY (sesi sil)
 - The Dinosaur and the Missing Link (1915, PD) host=vod.newellijay.tv id=bHngdFKm7UVdMvCxvXUxcA, ~7 dk
