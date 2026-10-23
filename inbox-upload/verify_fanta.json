@@ -1,0 +1,20 @@
+{
+ "name": "verify_fanta",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/YnW0QC-svE0/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/YnW0QC-svE0/maxresdefault.jpg",
+  "title": "Çizgi Çocuk'un Büyülü Maceraları 🎩🐘🐴 | Türkçe Çizgi Film"
+ }
+}
