@@ -1,0 +1,19 @@
+{
+ "name": "short_wing",
+ "video_id": "F6cXPW12spc",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": true,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/F6cXPW12spc/default.jpg",
+  "thumb_max": null,
+  "title": "Kırmızı Düğmeye Basarsan? 🚀🐶🐱 #Shorts"
+ },
+ "ok": true
+}
