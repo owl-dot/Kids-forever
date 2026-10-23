@@ -37,6 +37,25 @@ try:
         res["verify"] = verify(vid); res["description"] = sn["description"][:600]
         done({"ok": u.status_code == 200})
         sys.exit(0)
+    if req.get("stats"):
+        ch = requests.get("https://www.googleapis.com/youtube/v3/channels?part=statistics,contentDetails&mine=true", headers=H).json()
+        c = ch["items"][0]; up = c["contentDetails"]["relatedPlaylists"]["uploads"]
+        ids = []; tok = ""
+        while True:
+            pl = requests.get("https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=" + up + tok, headers=H).json()
+            ids += [i["contentDetails"]["videoId"] for i in pl.get("items", [])]
+            if not pl.get("nextPageToken"): break
+            tok = "&pageToken=" + pl["nextPageToken"]
+        vids = []
+        for k in range(0, len(ids), 50):
+            v = requests.get("https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status&id=" + ",".join(ids[k:k+50]), headers=H).json()
+            for it in v.get("items", []):
+                st = it.get("statistics", {})
+                vids.append({"id": it["id"], "title": it["snippet"]["title"], "published": it["snippet"]["publishedAt"][:10],
+                             "views": st.get("viewCount"), "likes": st.get("likeCount"), "comments": st.get("commentCount"),
+                             "privacy": it["status"]["privacyStatus"]})
+        done({"ok": True, "channel": c["statistics"], "videos": vids})
+        sys.exit(0)
     if req.get("verify_id"):
         if req.get("fetch_thumb"):
             os.makedirs("inbox-upload", exist_ok=True)
