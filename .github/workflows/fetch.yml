@@ -55,11 +55,12 @@ jobs:
               yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]" --merge-output-format mp4 -o /tmp/film_raw.mp4 "$yt" >> "$st" 2>&1 && film="file:///tmp/film_raw.mp4" && echo "yt ok" >> "$st" || echo "yt failed" >> "$st"
             fi
             if [ -n "$film" ]; then
+              mr=$(jq -r '.maxrate // "1500k"' "$req")
               code=$(curl -sSL -A "Mozilla/5.0" -o /tmp/film_raw -w '%{http_code}' "$film" || echo curlfail)
               [ "${film#file://}" != "$film" ] && code=200
               echo "film http=$code bytes=$(stat -c%s /tmp/film_raw 2>/dev/null || echo 0)" >> "$st"
               if [ "$code" = "200" ]; then
-                ffmpeg -nostdin -loglevel error -y -i /tmp/film_raw -vf "scale='min(1280,iw)':-2" -c:v libx264 -crf 23 -maxrate 1500k -bufsize 3000k -preset medium -pix_fmt yuv420p -c:a aac -b:a 160k -movflags +faststart "inbox/$name/film.mp4" 2>> "$st" \
+                ffmpeg -nostdin -loglevel error -y -i /tmp/film_raw -vf "scale='min(1280,iw)':-2" -c:v libx264 -crf 23 -maxrate $mr -bufsize $((${mr%k}*2))k -preset medium -pix_fmt yuv420p -c:a aac -b:a 160k -movflags +faststart "inbox/$name/film.mp4" 2>> "$st" \
                   && echo "film ok bytes=$(stat -c%s inbox/$name/film.mp4) $(ffprobe -v error -show_entries format=duration:stream=width,height -of csv=p=0 inbox/$name/film.mp4 | tr '\n' ' ')" >> "$st" || echo "film ffmpeg failed" >> "$st"
               fi
             fi
