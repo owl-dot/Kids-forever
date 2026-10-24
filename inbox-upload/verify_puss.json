@@ -1,0 +1,20 @@
+{
+ "name": "verify_puss",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/gvlrSMR6dak/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/gvlrSMR6dak/maxresdefault.jpg",
+  "title": "🐱 Çizmeli Kedi Kömür ve Boğa Gösterisi (1922) | Türkçe Çizgi Film"
+ }
+}
