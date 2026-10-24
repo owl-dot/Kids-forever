@@ -1,0 +1,11 @@
+META name=Puss in Boots (1922) - Walt Disney | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Attribution | published=2023-04-02T17:46:07.091Z | desc=Puss in Boots is a 1922 animated short film directed by Walt Disney, based on the book by Charles Perrault. The film follows a young man and his cat as they try to win the hand of the king's daughter by staging a bullfighting spectacle. With anarchic humor and visual gags, the film is representative of the 1920s Disney-produced films and relies on technology to help the characters succeed. While t
+FULLDESC=Puss in Boots is a 1922 animated short film directed by Walt Disney, based on the book by Charles Perrault. The film follows a young man and his cat as they try to win the hand of the king's daughter by staging a bullfighting spectacle. With anarchic humor and visual gags, the film is representative of the 1920s Disney-produced films and relies on technology to help the characters succeed. While the film departs from the traditional fairy tale, it is a fun and entertaining watch, showcasing Disney's early animation techniques.
+720 https://vod.newellijay.tv/download/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-720.mp4
+360 https://vod.newellijay.tv/download/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-360.mp4
+144 https://vod.newellijay.tv/download/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-144.mp4
+720 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-720-fragmented.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/6c927d96-97f0-4f5a-afec-76e3330d1b3a-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/6c927d96-97f0-4f5a-afec-76e3330d1b3a/36adb943-048f-4d21-b3af-2dc0eacff46c-720-fragmented.mp4
+film http=200 bytes=143857752
+film ok bytes=76247758 960,720  586.300000 
