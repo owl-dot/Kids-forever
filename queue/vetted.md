@@ -12,8 +12,8 @@ Orijinal ses: filmde sonradan eklenmiş modern müzik varsa SESİ TAMAMEN SİL (
 
 ## ADAY (kareleri henüz İNCELENMEDİ; seçersen incele)
 - Fantasmagorie (1908, Émile Cohl, PD) host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB, 105 sn, 624x480, siyah-beyaz, soyut; müziği Kevin MacLeod CC BY (sesi sil)
-- The Dinosaur and the Missing Link (1915, PD) host=vod.newellijay.tv id=bHngdFKm7UVdMvCxvXUxcA, ~7 dk
 - Puss in Boots (1922, Laugh-O-Gram, gerçekte PD) host=vod.newellijay.tv id=epB27gizi3XmPwz16kqxpq, ~9,5 dk (uzun: crf 25 ve dosya < 90 MB kontrol)
+- The Dinosaur and the Missing Link (1915) – ELENDİ (öldürme/ölü beden sahneleri, çocuğa uygun değil)
 - Mary and Gretel (1916) – ELENDİ (karanlık, içki/baş kesme ima)
 - Odus and the Moon – ELENDİ (şiddet/patlama); Tusky Tale, La Révolution des Crabes – ELENDİ (yeniden yükleme, lisans güvenilmez)
 
