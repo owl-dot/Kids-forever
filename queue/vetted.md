@@ -10,9 +10,10 @@ Orijinal ses: filmde sonradan eklenmiş modern müzik varsa SESİ TAMAMEN SİL (
 
 - Fantasmagorie (1908, Cohl, PD) – YÜKLENDİ 23 Eki (kareler uygun, orijinal ses silinir)
 
+- Puss in Boots (1922, Disney Laugh-O-Gram, PD) – YÜKLENDİ 24 Eki (gvlrSMR6dak; requests'te "maxrate":"900k" gerekti)
+
 ## ADAY (kareleri henüz İNCELENMEDİ; seçersen incele)
 - Fantasmagorie (1908, Émile Cohl, PD) host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB, 105 sn, 624x480, siyah-beyaz, soyut; müziği Kevin MacLeod CC BY (sesi sil)
-- Puss in Boots (1922, Laugh-O-Gram, gerçekte PD) host=vod.newellijay.tv id=epB27gizi3XmPwz16kqxpq, ~9,5 dk (uzun: crf 25 ve dosya < 90 MB kontrol)
 - The Dinosaur and the Missing Link (1915) – ELENDİ (öldürme/ölü beden sahneleri, çocuğa uygun değil)
 - Mary and Gretel (1916) – ELENDİ (karanlık, içki/baş kesme ima)
 - Odus and the Moon – ELENDİ (şiddet/patlama); Tusky Tale, La Révolution des Crabes – ELENDİ (yeniden yükleme, lisans güvenilmez)
