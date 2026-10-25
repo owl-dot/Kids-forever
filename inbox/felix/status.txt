@@ -1,0 +1,9 @@
+META name=1924 FELIX THE CAT CARTOON  " FELIX OUT OF LUCK " (SILENT FILM) XD10654c | by=amal@peertube.dngr.us | channel=Historical Archive | lic=Public Domain Dedication | published=2020-01-01T00:00:00.000Z | desc=Want to support this channel and help us preserve old films? Visit https://www.patreon.com/PeriscopeFilm
+Browse our products on Amazon: https://amzn.to/2YILTSD
+
+"Felix Out of Luck" is a 1924 Felix the Cat cartoon, directed by Otto Messmer and produced by Pat Sullivan. This version is silent and was created for home use. The plot centers around a confident yet hungry Felix, who believes he has lunc
+0 https://peertube.dngr.us/download/web-videos/e06681e3-9ab8-4d30-86f3-1faa4dc64026-0.mp4
+480 https://peertube.dngr.us/download/streaming-playlists/hls/videos/e06681e3-9ab8-4d30-86f3-1faa4dc64026-480-fragmented.mp4
+chosen=https://peertube.dngr.us/static/streaming-playlists/hls/e06681e3-9ab8-4d30-86f3-1faa4dc64026/24d3e77d-96dd-4587-a3c8-50f8ebb31528-480-fragmented.mp4
+film http=200 bytes=25104935
+film ok bytes=15740604 854,480  230.426000 
