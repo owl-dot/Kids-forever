@@ -1,0 +1,14 @@
+META name=It's TV Time! — Maimy & Stash Club | by=Vint Prox@kviz.leemoon.network | channel=Vint Sing | lic=Attribution | published=2026-05-19T11:38:07.921Z | desc=Let's do TV Time and Deltarune some justice with this montage! It's a bit happier than the original 3D animation and got lyrics.
+
+Song and Video 1: [Maimy & Stash Club](https://www.youtube.com/watch?v=3gKiUkRtX88)
+3D Animated Video 2: [marineflames](https://www.youtube.com/watch?v=V89Dy4LCKI0)
+Original Composition: [Toby Fox](https://www.youtube.com/watch?v=F2PJbTuZlTU)
+Karaoke Montage:  [Vin
+0 https://kviz.leemoon.network/download/web-videos/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7-0.mp4
+1080 https://kviz.leemoon.network/download/streaming-playlists/hls/videos/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7-1080-fragmented.mp4
+720 https://kviz.leemoon.network/download/streaming-playlists/hls/videos/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7-720-fragmented.mp4
+480 https://kviz.leemoon.network/download/streaming-playlists/hls/videos/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7-480-fragmented.mp4
+0 https://kviz.leemoon.network/download/streaming-playlists/hls/videos/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7-0-fragmented.mp4
+chosen=https://kviz.leemoon.network/static/streaming-playlists/hls/4d7ab59e-c4f2-4fd4-aaac-9e15b3af38e7/a9923c5a-db3e-4244-bd88-9e2ebb650106-1080-fragmented.mp4
+film http=200 bytes=53229606
+film ok bytes=32903751 1280,720  171.285000 
