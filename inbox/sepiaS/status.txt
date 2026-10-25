@@ -1,0 +1,40 @@
+SEPIA host=vod.newellijay.tv id=5F528nJLUpDsVj9pQdyhsa dur=596 lic=Attribution views=9 Big Buck Bunny (Blender Open Movie)
+SEPIA host=video.blender.org id=5ruRYckTcQMTMQvyqMnVsr dur=150 lic=Attribution views=1218 Caminandes 3: Llamigos - Funny 3D Animated Short
+SEPIA host=kviz.leemoon.network id=ayUZRBwQR2daQ18Q91YWiV dur=171 lic=Attribution views=22 It's TV Time! — Maimy & Stash Club
+SEPIA host=exquisite.tube id=r1h3DZGyRxxXbY4CxYfgXJ dur=129 lic=Attribution views=4 WHAT IS THE GLYMPHATIC SYSTEM?
+SEPIA host=exquisite.tube id=6QHkG8vsgvetyP3e9HPBFx dur=154 lic=Attribution views=4 WHAT IS GOING ON IN THE TEENAGE BRAIN (animated explainer in danish)
+SEPIA host=exquisite.tube id=uq4FqJYAds9CW28f4a4xhd dur=96 lic=Attribution views=3 WHAT IS CRISPR (animated explainer)
+SEPIA host=clip.place id=nkRgeiU8HKB5e35NUZaXDt dur=258 lic=Attribution views=2 J-pop 3D animation film 4
+SEPIA host=clip.place id=uA3t1fBS59c2PSzwmxtvWz dur=199 lic=Attribution views=1 J-pop 3D animation video 3
+SEPIA host=diode.zone id=ivhquuMNCE2528uVt2KnYM dur=505 lic=Attribution views=231 An Early View from the Tuco Flyer 3D Printed Camera Robot
+SEPIA host=makertube.net id=12dC1vzs57VYLXYzhzYEzH dur=186 lic=Attribution views=206 3D-Printable Dead Man Switch (Prototype Demo 2024.05)
+SEPIA host=diode.zone id=3pSLULY1yKRN6cbaYq672C dur=250 lic=Attribution views=66 Block Printing on Sticky Notes with a 3D Printed Jig
+SEPIA host=film.k-prod.fr id=wV6ESbdPEUMzr3f4rTn3nj dur=75 lic=Attribution views=49 KLAB | Incrustation bâtiment 3D
+SEPIA host=toobnix.org id=g9K5YyAj15GSS4yS1zss1J dur=245 lic=Attribution views=48 3D Kinetic Energy - Engineering Dynamics
+SEPIA host=makertube.net id=vcwNm7oyaQr8yBsaXEcv5G dur=523 lic=Attribution views=42 Manyfold: Federating 3D Models @ FOSDEM 2025
+SEPIA host=makertube.net id=e4ouBP66cLFnDK3othLihp dur=111 lic=Attribution views=40 3D printable very accurate joystick - overview
+SEPIA host=peertube.wtf id=hRcD6S5gFGELKoqC9i9uwT dur=426 lic=Attribution views=40 Fifo's Night - An Excellent (Free) 3D Platformer
+SEPIA host=diode.zone id=b8UvpocmZX4yqmpHVPYNrP dur=222 lic=Attribution views=34 I 3D Printed an Uno Reverse Card
+SEPIA host=spectra.video id=td9KPNtAri9Sx5y7rNi5H5 dur=345 lic=CC BY 4.0 views=18 why i swtich from 3d vtuber to a PNG
+SEPIA host=video.katehildenbrand.com id=f1bt22YXta1u8k9UktzYUA dur=528 lic=Attribution views=18 I wish it was about color #064 (3D-printed bird house)
+SEPIA host=peertube.pcservice46.fr id=jrxu1vVw1tqtcKgGMQEdHs dur=386 lic=Attribution views=18 Looking Glass, la 3D complète, c'est pas le pied !
+SEPIA host=video.hardlimit.com id=cfVbaJJkg1BLeRneKDRn3y dur=121 lic=Attribution views=15 [3D Print] | SumoBot Chassis
+SEPIA host=nightshift.minnix.dev id=3VbQVmqEYAMz6B5N17HbwT dur=424 lic=Public Domain Dedication views=12 3D Printed Server Rack Part 2! - Lugcast Clips Ep 260
+SEPIA host=peer.raise-uav.com id=oXrNvhKUh4o2AQQQV8hvqA dur=61 lic=Attribution views=8 3D-printing a vinyl record stand on the mighty ALAXIS printer.
+SEPIA host=nightshift.minnix.dev id=4Z2bZRYMtykYzpeifRFNwc dur=358 lic=Public Domain Dedication views=7 3D Printed Teeth - Lugcast Clips Ep 255
+SEPIA host=video.hardlimit.com id=2Mf3JrWgDfr6UDPLTCkrc2 dur=159 lic=Attribution views=7 [3D Print] | Shallow AC Outlet Box
+SEPIA host=videos.qwast-gis.com id=8PZS7Ni98ygVzFCDQE9bBW dur=382 lic=Attribution views=6 Storytelling with Interactive 3D Presentations using Cesium Stories
+SEPIA host=tube.nuxnik.com id=jhhzYofRfLsfShKTNauu33 dur=454 lic=Public Domain Dedication views=6 FPV 3D Printed Goggle Battery Pack
+SEPIA host=peertube.uno id=jwF67JFFnhd3gRgsu3YDfk dur=87 lic=Attribution views=4 3D Fairy Costume, come l'ho creato
+SEPIA host=makertube.net id=hYRn2GhryQLHCFgdxk7LEG dur=311 lic=Public Domain Dedication views=3 robohand 3d modelling timelapse (2014)
+SEPIA host=video.igem.org id=eAscryR1MQLPFhgMKdznGh dur=154 lic=Attribution views=3 ECUST: 1L Tank Filling VOF Simulation — 3D Exterior View (2026)
+SEPIA host=makertube.net id=fEzc9sCjv4ig6QbecrVXe2 dur=64 lic=Attribution views=1 final educational 3d project (2014)
+SEPIA host=apertatube.net id=4xups9UTt7H8VvKKSAdp2H dur=109 lic=Attribution views=1 OSE 3D Printer Workshop Timelapse 2018-06-02
+SEPIA host=tube-cycle-2.apps.education.fr id=asGQWKChyB62U1C8GfCCVU dur=191 lic=Attribution views=0 3D Shapes Song | Shapes for kids | The Singing Walrus
+SEPIA host=diode.zone id=3jLZTwT8x9TETK7ogBe1GL dur=127 lic=Public Domain Dedication views=51 Schlorpin' - 3D Block-Pusher (Solutions)
+SEPIA host=video.blender.org id=7EPiUDq1LqoUhTGvmwTBAR dur=206 lic=Attribution views=28 New 3D Cursor - Blender 2.8 Code Quest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=28efWAwjssSPZxH7gXzwRf dur=373 lic=Attribution views=11 Lutece 3D
+SEPIA host=peertube.arch-linux.cz id=c5mYGyZP36emxP1k8PDvrp dur=119 lic=Attribution views=10 Darkenstein 3D - Official Launch Trailer
+SEPIA host=peertube.lyclpg.itereva.pf id=sWSFpUfCXBKbuzC16Vcqpe dur=208 lic=Attribution views=7 DNA replication - 3D
+SEPIA host=peervideo.ru id=qzjpTSf814k5N9AxbTjMkC dur=324 lic=Attribution views=3 Easy 3d Text Effects -  Inkscape Tutorials
+SEPIA host=makertube.net id=vumpAcSVcaRi7EArv65duo dur=94 lic=Public Domain Dedication views=2 Simple 3D scatterplot using Google Tango

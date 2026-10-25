@@ -1,0 +1,40 @@
+SEPIA host=aperi.tube id=b2ChBBmmRG5GRLG5wZpqTz dur=151 lic=Attribution views=85 Tusky Tale by Noody - Handdrawn Animation Short HD
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mkDHTuAytuEhVXohhyJJm2 dur=292 lic=Attribution views=124 La Révolution des Crabes - Court métrage d'animation - de Arthur de Pins
+SEPIA host=video.blender.org id=dnayqfMS4PAE9pSZ3kyVUb dur=193 lic=Attribution views=1316 Glass Half - Blender animated cartoon
+SEPIA host=makertube.net id=tihdkkgvmKHsxkr9QgJHYe dur=308 lic=Attribution views=135 Short film - Pebble
+SEPIA host=dalliance.network id=8UciLiXuCYvvFtE6hS6WBB dur=325 lic=Attribution views=5 Observers Episode Two: Short Squeeze
+SEPIA host=peertube.dngr.us id=7QJ5RVSmS7ZjiYYfVsfCeq dur=395 lic=Public Domain Dedication views=0 CHEVROLET TURBOGLIDE PROMOTIONAL FILM BY JAM HANDY  87404
+SEPIA host=vod.newellijay.tv id=8n6th4wCPz7gMb8DHd6DAk dur=370 lic=Public Domain Dedication views=24 The Paneless Window Washer (1937) - Popeye the Sailor
+SEPIA host=video.infosec.exchange id=xtR1k1oJiqfvbLX84FNcNV dur=461 lic=Public Domain Dedication views=13 Steamboat Willie (1928)
+SEPIA host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB dur=105 lic=Attribution views=263 Fantasmagorie (1908) (first animated film)
+SEPIA host=peertube.dngr.us id=wL7mGqv4JAFmMx5qEuhHPq dur=315 lic=Public Domain Dedication views=0 NASA APOLLO DIGEST   PROJECT APOLLO  LUNAR MODULE 78094
+SEPIA host=tilvids.com id=uASEWwKYz9wyMxhxV7mbga dur=505 lic=Attribution views=45 An introduction to Parliament
+SEPIA host=peertube.dngr.us id=9ZLibwEJjDzHiCiuuSsEoQ dur=406 lic=Public Domain Dedication views=0 “BURY THE AXIS” 1943 LOU BUNIN STOP-MOTION ANIMATION WWII PROPAGANDA XD38894
+SEPIA host=peertube.dngr.us id=tXTQJ5GnqpCGb7NkSH7FcL dur=168 lic=Public Domain Dedication views=1 16MM HOME MOVIES - American 1940s Wedding Reception , Cleveland Ohio 3329
+SEPIA host=peertube.dngr.us id=cJ8jjyqEr9qMVKgpm3sFXe dur=280 lic=Public Domain Dedication views=0 NASA APOLLO PROGRAM  SATURN V ROCKET SECOND STAGE  80004
+SEPIA host=peertube.dngr.us id=hmkwNMffsagnY9T1NCKmYx dur=231 lic=Public Domain Dedication views=0 Admiral Richard Byrd Crashes Plane Near Paris & South Pole 1928 84710e HD
+SEPIA host=peertube.dngr.us id=2rRTMxMcznsyiejBGTYSbg dur=313 lic=Public Domain Dedication views=0 1950s AVIATION HIGHLIGHTS  B-36, B-47, USS ESSEX  27904
+SEPIA host=peertube.dngr.us id=4PbEmGZy1vwYkvTWUVgRy8 dur=524 lic=Public Domain Dedication views=0 REPUBLIC AVIATION SD-3 SNOOPER DRONE FLIGHT TEST PROGRAM FILM PART 2  54484
+SEPIA host=peertube.dngr.us id=9VgjZcMiYGxu1eEvvokiaj dur=567 lic=Public Domain Dedication views=0 Aerial Stunt Men Daredevils of the Skies! - Stuntmen Stunt Pilots & Barnstormers 22840 HD
+SEPIA host=peertube.dngr.us id=mt8qrd94eZUCEjp2gXqh9j dur=339 lic=Public Domain Dedication views=0 TOUCHING PORT HERE AND THERE  HONOLULU HAWAII 1920s 31990 HD
+SEPIA host=peertube.dngr.us id=4z1c874gwxdbCc9QxdrjPU dur=124 lic=Public Domain Dedication views=0 LOVE FIELD DALLAS TEXAS AIRPORT TERMINAL & DC-2 ARRIVAL 1940s  HOME MOVIE
+SEPIA host=peertube.dngr.us id=8tyfR7RhoG8bQEjn78fhdz dur=79 lic=Public Domain Dedication views=0 LOVE FIELD DALLAS TEXAS AIRPORT TERMINAL HOME MOVIE 3470
+SEPIA host=fedi.video id=gJwQQP9ybUyhBZcbtzinvA dur=338 lic=Public Domain Dedication views=220 The Skeleton Dance (1929) (short macabre Disney animation, first Silly Symphony cartoon)
+SEPIA host=pony.tube id=4pqvap1fSPnBSNJRgEUuCZ dur=86 lic=Attribution views=37 Fallout: Equestria — Life in the Wasteland (Short Animation)
+SEPIA host=fedi.video id=cbQE3NRw76FayQCSdb14TU dur=137 lic=Attribution views=1484 What is Mastodon? (2018) (short animation explaining the Mastodon social network)
+SEPIA host=peertube.chuggybumba.com id=xnwaNgQrspWtRoVXR6tgyw dur=461 lic=Public Domain Dedication views=13 Mickey Mouse - The Karnival Kid (1929)
+SEPIA host=diler.tube id=1h2oz9n6a5JGeZTp3uXoEw dur=186 lic=CC BY 4.0 views=0 STEM - What is it and why is it important?
+SEPIA host=diler.tube id=wJBfoBGxkWiY4w8CL1PLqB dur=71 lic=CC BY 4.0 views=0 Weathering and Erosion with Noongar Translations
+SEPIA host=fedimovie.com id=dhEfyFGZuwKtESXfPYuefT dur=81 lic=Attribution views=12 ミクロラスボラ・ハナビの浮世絵 Procreate drawing UKIYOE Microrasbora Galaxy
+SEPIA host=fedi.video id=q4BgjZ9auRqmtqRRdz9MuT dur=90 lic=Attribution views=924 Caminandes 1: Llama Drama (2013) (short comedy animation)
+SEPIA host=video.blender.org id=5ruRYckTcQMTMQvyqMnVsr dur=150 lic=Attribution views=1218 Caminandes 3: Llamigos - Funny 3D Animated Short
+SEPIA host=diode.zone id=vbvbeVTvPVpjyiYr563AD8 dur=89 lic=Public Domain Dedication views=7 Des Discours
+SEPIA host=makertube.net id=djpgyzPhz1hGjeh8ujnBtq dur=89 lic=Public Domain Dedication views=3 Des Discours
+SEPIA host=peertube.wtf id=cjgXsvAPyhGB5e4TihfBKg dur=109 lic=Attribution views=3 A Day in the Life of an Office Worker 😫 | Funny Animation
+SEPIA host=pony.tube id=ncACvstscYFcjMHrHHxZnP dur=111 lic=Attribution views=460 SSL02 Cum 1080p
+SEPIA host=vod.newellijay.tv id=3Yjk7xT7XCfpmvjCxW7U8m dur=347 lic=Public Domain Dedication views=38 Alice Wins the Derby - Alice Comedies (1925)
+SEPIA host=vod.newellijay.tv id=rKsXgSanQxqBrApoEWMLHF dur=375 lic=Public Domain Dedication views=5 Alice the Whaler - Alice Comedies (1927)
+SEPIA host=tilvids.com id=bhWvDpqb9iBSUUvZMzNKof dur=386 lic=Attribution views=4 The Battle of Midway - Navy History Explained
+SEPIA host=pony.tube id=ePSogDuyWpzeRd9crUpyWW dur=137 lic=Attribution views=117 EQG2 Shorts Pinkie on the One
+SEPIA host=pony.tube id=4q7M6E3PtCSUeSETGdd29D dur=138 lic=Attribution views=77 EQG2 Shorts Guitar Centered
+SEPIA host=pony.tube id=r7GuKbA2MQ84HpURiENHDW dur=140 lic=Attribution views=73 EQG2 Shorts A Case for the Bass
