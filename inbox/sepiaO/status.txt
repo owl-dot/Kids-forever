@@ -1,0 +1,40 @@
+SEPIA host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB dur=105 lic=Attribution views=263 Fantasmagorie (1908) (first animated film)
+SEPIA host=peertube.dngr.us id=59qF4SWjaZF6o8XniizVRh dur=529 lic=Public Domain Dedication views=0 1920s FORD TRIMOTOR FLIGHT OVER MANHATTAN & CHICAGO AIR RACES 1928 70084
+SEPIA host=peertube.dngr.us id=u3NgCY5ZLbA6fB4UAyShjB dur=372 lic=Public Domain Dedication views=0 NORTH AMERICAN AVIATION  F-100C SUPER SABRE CRASH @ EDWARDS AIR FORCE BASE  BOB HOOVER  88804a
+SEPIA host=peertube.dngr.us id=4z1c874gwxdbCc9QxdrjPU dur=124 lic=Public Domain Dedication views=0 LOVE FIELD DALLAS TEXAS AIRPORT TERMINAL & DC-2 ARRIVAL 1940s  HOME MOVIE
+SEPIA host=peertube.dngr.us id=3bHiwMZ23KEPvGFefpVbAC dur=872 lic=Public Domain Dedication views=0 WORLD WAR I AVIATION  LAFAYETTE ESCADRILLE PLANE & PILOT FILMS 89984
+SEPIA host=peertube.dngr.us id=8tyfR7RhoG8bQEjn78fhdz dur=79 lic=Public Domain Dedication views=0 LOVE FIELD DALLAS TEXAS AIRPORT TERMINAL HOME MOVIE 3470
+SEPIA host=peertube.dngr.us id=oWV1bZrMvTxwca1YN7fNPB dur=662 lic=Public Domain Dedication views=0 " WWI  PILOT TRAINING " WORLD WAR ONE  U.S. ARMY AIR SERVICE AVIATION GROUND SCHOOL  XD31021
+SEPIA host=peertube.dngr.us id=xbFo5eDSpbxrKdnHYdzq3M dur=830 lic=Public Domain Dedication views=0 25TH ANNIVERSARY OF NORTH AMERICAN AVIATION / ROCKWELL  PROJECT APOLLO (SILENT) GG46045
+SEPIA host=peertube.dngr.us id=9uayyfwgqJ5JnJj5PQL7VZ dur=811 lic=Public Domain Dedication views=0 NORTH AMERICAN AVIATION F-100 SUPER SABRE PROMO FILM  AIR STRIKES IN VIETNAM 88934
+SEPIA host=peertube.dngr.us id=3FvGWMhbgmsNmHuYbxYxDz dur=264 lic=Public Domain Dedication views=0 NORTH AMERICAN AVIATION F-100 / SABRELINER PROTOTYPE  88804b
+SEPIA host=peertube.dngr.us id=5CkTSbByY5Nx5iKK5iEk1t dur=454 lic=Public Domain Dedication views=0 REPUBLIC AVIATION SD-3 SNOOPER DRONE FLIGHT TEST PROGRAM FILM PART 1 79204
+SEPIA host=peertube.dngr.us id=oH8aiRLyWJBLdUGmafwSUn dur=260 lic=Public Domain Dedication views=0 NORTH AMERICAN AVIATION T-2 BUCKEYE JET TRAINER    EJECTION SEAT TEST   88804c
+SEPIA host=peertube.dngr.us id=mtQTMThq5cohvNMqNPCW4Q dur=620 lic=Public Domain Dedication views=0 U.S. ARMY & U.S. COAST GUARD HELICOPTER & AIRPLANE CRASH REEL (SILENT FOOTAGE)  XD14124
+SEPIA host=peertube.dngr.us id=92ze9Vs4yeKyR4xJEgAQ8W dur=457 lic=Public Domain Dedication views=0 DIRIGIBLE / ZEPPELIN / HINDENBURG HISTORIC FOOTAGE 82502B
+SEPIA host=peertube.dngr.us id=1bXMhU5c4w2bt9Bq2Vj8A8 dur=770 lic=Public Domain Dedication views=0 NORTH AMERICAN ROCKWELL OV-10 BRONCO, A-5 VIGILANTE, T-2 BUCKEYE 46684
+SEPIA host=peertube.dngr.us id=rZnNu2iTuNhUgkfoFZxpQb dur=453 lic=Public Domain Dedication views=0 F. TRUBEE DAVISON / MILLIONAIRE'S UNIT  WWI  STOCK FOOTAGE 34854
+SEPIA host=peertube.dngr.us id=hmkwNMffsagnY9T1NCKmYx dur=231 lic=Public Domain Dedication views=0 Admiral Richard Byrd Crashes Plane Near Paris & South Pole 1928 84710e HD
+SEPIA host=makertube.net id=4bqYXnHA2MTzD1GZagr3xd dur=323 lic=Attribution views=5 Silent
+SEPIA host=makertube.net id=tSpFoCjKHnkbu1so6bQSDu dur=285 lic=Attribution views=38 Silent Night
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=9JPzyMHTzZTEsZiF817v4R dur=378 lic=Attribution views=24 Silent Night - ALTO II | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=a9rfBaPmuHfrpHUYDWBfL5 dur=378 lic=Attribution views=19 Silent Night - TENOR I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mk737z75DqXoLpU36nLYi6 dur=379 lic=Attribution views=16 Silent Night - BASS II | Arr Dan Forrest
+SEPIA host=makertube.net id=ajgZLbG9jBj4v5GNCF31CQ dur=348 lic=Public Domain Dedication views=14 Silent Borders
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=2by6BQyEHFdiJifzz76cr3 dur=378 lic=Attribution views=10 Silent Night - ALTO I | Arr Dan Forrest
+SEPIA host=diode.zone id=eLpUWN4DVa2UcPvc5uuZoM dur=121 lic=Attribution views=7 Silent Struggle: A Shadow's Journey
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=dMb1tJqGCnGgAwHCmir9Me dur=379 lic=Attribution views=5 Silent Night - SOPRANO I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=r4pUfiZ2xbvYeckGjmFnRB dur=379 lic=Attribution views=4 Silent Night - BASS I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=ttmNnECKrrorfk8tg82hRJ dur=379 lic=Attribution views=3 Silent Night - PIANO ACCOMPANIMENT | Arr Dan Forrest
+SEPIA host=my-sunshine.video id=wrU9xRq6z49xCAY4kNY9ym dur=200 lic=Attribution views=2 "Silent Love, Anonymous"
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=f9tLSVCLm2p5GGz2vQZkUj dur=379 lic=Attribution views=2 Silent Night - SOPRANO II | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=82Hsd3UUFLLvrSfajgWJi8 dur=379 lic=Attribution views=2 Silent Night - SSAATTBB with PIANO | Arr Dan Forrest
+SEPIA host=peertube.dngr.us id=r9kr4h1AxfSXVLfF9eALoC dur=233 lic=Public Domain Dedication views=0 "THE WORLD OF TOMORROW"  1939 OPENING OF NEW YORK WORLD'S FAIR  (SILENT FILM)  89644
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=orHh4Lu9v8xKw6PG5GHGx7 dur=378 lic=Attribution views=0 Silent Night - TENOR II | Arr Dan Forrest
+SEPIA host=peertube.dngr.us id=qoh9afrpSegkiTkbjfc88A dur=766 lic=Public Domain Dedication views=0 SILENT NIGHT: THE STORY OF THE CHRISTMAS CAROL  1953 EDUCATIONAL FILM AUSTRIA XD49984
+SEPIA host=peertube.dngr.us id=6frLWZB4KykVJUTWpuJV32 dur=834 lic=Public Domain Dedication views=0 INVASION OF THE RYUKUS & BATTLE OF OKINAWA  SILENT WWII FOOTAGE  20404
+SEPIA host=toobnix.org id=oJ5MRUX3xxnhJVtUS3cNDY dur=164 lic=Attribution views=21 TI Silent 707 to IBM PC 5150 via local line simulator
+SEPIA host=tube.tchncs.de id=mHdtu8Xx1rGMFs3NEhdwdt dur=95 lic=Attribution views=19 The Silent Edit
+SEPIA host=peertube.dngr.us id=9NvxuEohwXD26zhX4wua1g dur=646 lic=Public Domain Dedication views=1 1940s SILENT FILM   GREAT LAKES ORE CARRIERS, PASSENGER STEAMERS & CARGO SHIPS 88224
+SEPIA host=peertube.dngr.us id=vs4RJn9342u2UMYLHtnrwx dur=698 lic=Public Domain Dedication views=1 I.B.M. MISSILE GUIDANCE COMPUTER SYSTEM FOR TITAN II ICBM FILM FOOTAGE (SILENT)  49994
+SEPIA host=video.triplea.fr id=fA8RFxeMNzUQd3Eoo79E7K dur=127 lic=Public Domain Dedication views=0 Digimind & Silent - Terraformers

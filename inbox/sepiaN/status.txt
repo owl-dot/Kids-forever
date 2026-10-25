@@ -1,0 +1,40 @@
+SEPIA host=vod.newellijay.tv id=rKsXgSanQxqBrApoEWMLHF dur=375 lic=Public Domain Dedication views=5 Alice the Whaler - Alice Comedies (1927)
+SEPIA host=vod.newellijay.tv id=3Yjk7xT7XCfpmvjCxW7U8m dur=347 lic=Public Domain Dedication views=38 Alice Wins the Derby - Alice Comedies (1925)
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=nRduNoR7rDurTqkWTnDLbc dur=172 lic=Attribution views=75 ALICE QUI ? La pionnière du cinéma
+SEPIA host=tube-cycle-2.apps.education.fr id=sGXtyGpPrW66QFSnfnKoVF dur=171 lic=Attribution views=39 Alice au pays des merveilles texte 1 et 2
+SEPIA host=tube-cycle-2.apps.education.fr id=6yr6PjBR5g7WdWuS25vYAc dur=248 lic=Attribution views=26 Alice Guy. La Course à la saucisse (1907)
+SEPIA host=tube-cycle-2.apps.education.fr id=3mmk4YvKppBCFZUq3ifYMr dur=206 lic=Attribution views=10 Alice au pays des merveilles Texte 4
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=2YmAXHQ9R6TKa2Jh4PWwoa dur=411 lic=Attribution views=7 Alice au pays des merveilles - Le terrier
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=j8rSDmPNiGPSXD2dJxFTXn dur=152 lic=Attribution views=6 Alice-et-Mathilde-6A_1_
+SEPIA host=tube-langues-vivantes.apps.education.fr id=hTD5fse9e9gLriTg3aXsCh dur=102 lic=Attribution views=4 Alice in Wonderland - BBC LEARNING - The caterpillar as...as
+SEPIA host=peertube.in.ua id=t5FkwoGMpYr1gosF3mF4ta dur=262 lic=Attribution views=3 Alice Ni Sayonara from Vocaloid   UKR cover by Delvirta
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=dHztBpDAMLEVSuxWY4riyF dur=94 lic=Attribution views=3 Alice - aphrodite
+SEPIA host=peertube.dngr.us id=kKvmX9oKcb2pdqAb3Y6t4B dur=877 lic=Public Domain Dedication views=2 ALICE'S AMAZING BIRTHDAY PARTY w/ MAGIC SHOW  1956 HOME MOVIE  GG27815
+SEPIA host=tube-langues-vivantes.apps.education.fr id=txo9eGsj7KyUW11Y2eFyXA dur=113 lic=Attribution views=0 Alice Enzo
+SEPIA host=peertube.dngr.us id=oYdoK9Kb63sMi1hPDKpPiR dur=459 lic=Public Domain Dedication views=0 "ALICE IN WONDERLAND"  SILENT JOAN BENNETT SHORT MUSICAL FILM  LEWIS CARROLL XD60354
+SEPIA host=tube-langues-vivantes.apps.education.fr id=kSvCqVW1rboe9kKsNvAnPL dur=122 lic=Attribution views=0 5ème Alice (Disney) Down the Rabbit Hole
+SEPIA host=tube-langues-vivantes.apps.education.fr id=tdqfFzhsz1FJMqzffU9Akg dur=73 lic=Attribution views=20 yasmine alice lan
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=n1VBgCroRiR8REZFK1K8db dur=64 lic=Attribution views=7 Deflagration - Alice et Lola
+SEPIA host=tube-maternelle.apps.education.fr id=eAw1HrsR3CTYBfwASUENnb dur=113 lic=Attribution views=6 Vacances Alice P3
+SEPIA host=tube-langues-vivantes.apps.education.fr id=sUsDb8UgN6MWsedssD17Eo dur=105 lic=Attribution views=4 5è Alice In Wonderland   Clip Alice Falls Into a Rabbit Hole 2010   HD
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=i2tuxR9eqbqZBcBaYBB96e dur=109 lic=Attribution views=28 Capucine et Alice présentent la déchetterie de Cormeilles
+SEPIA host=video.hardlimit.com id=bEMjKQTMeQndh7Jp43XVtj dur=438 lic=Public Domain Dedication views=14 [FAQ] Bob y Alice hablan sobre SNH: "Tus datos. Nuestro futuro!"
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=rY7E5MXZhAMpGByK4hp58o dur=144 lic=Attribution views=11 spéciale lecture Alice, Pauline et Océane
+SEPIA host=makertube.net id=8ei7pQk5zo3CkThdrm4xa9 dur=207 lic=Attribution views=6 Go Ask Alice
+SEPIA host=peertube.wtf id=ruKa3kzsbfAA3hg84GVwRU dur=178 lic=Attribution views=2 Paperboy 64 Alice's RV Haven 16625 Points
+SEPIA host=video.hardlimit.com id=fs2NKzCCybNYcvJ23aoD6Q dur=67 lic=Attribution views=1 Jean sent Alice to confinement
+SEPIA host=video.triplea.fr id=4C898iMUWDPfQ9HTVoaaXn dur=117 lic=Public Domain Dedication views=1 Ephidrena & Scarab - Alice Copper
+SEPIA host=video.hardlimit.com id=2uCsMwiFqk6GwK7C6Ludc7 dur=401 lic=Public Domain Dedication views=0 [THS] Bob y Alice resumen el Podcast: "Hackers, Ética, Libertad y Transparencia"
+SEPIA host=tube-cycle-2.apps.education.fr id=2b9QCeQ2HxfEJfQsMetPgR dur=394 lic=Attribution views=0 Paulette MARCHAL - Alice GEORGEL
+SEPIA host=video.triplea.fr id=sheaFbCCY7VSQyqw1ytrCN dur=96 lic=Public Domain Dedication views=0 Kooma - Looking for Alice
+SEPIA host=vod.newellijay.tv id=wc2qLPEtBQxukC4s2zT9kh dur=297 lic=Public Domain Dedication views=101 The Race for the Sausage - Alice Guy - 1907
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=xvxWg43WNu4u42sPS5ekNa dur=230 lic=Attribution views=3 Wondrous Love - ALTO | Arr Alice Parker and Robert Shaw
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=1cBiTcLXrgVmdp88JfpmDc dur=230 lic=Attribution views=2 Wondrous Love - SOPRANO | Arr Alice Parker and Robert Shaw
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=9bK71X99GRcT1nphESG9N6 dur=230 lic=Attribution views=0 Wondrous Love - BASS | Arr Alice Parker and Robert Shaw
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=moj3jg9tzPhYgEo48uchbB dur=229 lic=Attribution views=0 Wondrous Love - TENOR | Arr Alice Parker and Robert Shaw
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=p1M1eU1yXCEpQukaT8mFbG dur=232 lic=Attribution views=0 Wondrous Love - SATB | Arr Alice Parker and Robert Shaw
+SEPIA host=tube-enseignement-professionnel.apps.education.fr id=fGJkqe1BHekH8EKyntT23f dur=91 lic=Attribution views=7 CGM 2026 _ L'ouverture d'une bouteille de vin blanc_ Alice
+SEPIA host=tube-action-educative.apps.education.fr id=vFe5DxGwiwabB9nF5g2nGv dur=459 lic=Attribution views=3 PODCAST L-HISTOIRE DU FILM - GREEN BOOK - ELISA- FLORA ET ALICE (1)
+SEPIA host=p.eertu.be id=vzukTqdTRV6TSt2aVG77wc dur=566 lic=CC BY 4.0 views=3 DJ Jurgen pres. Alice Deejay - Better off Alone (Mark van Dale & Enrico Remix)
+SEPIA host=urbanists.video id=22VMDJgerViK5Hb5wGm2Gq dur=734 lic=Attribution views=2 Rapid Disaster Mapping for Playgrounds： Turning Geospatial Data into Recovery Priorities ~ Alice Lee
+SEPIA host=tube-cycle-2.apps.education.fr id=qFwjo9rsi29VxsABodkPVM dur=890 lic=Attribution views=42 05/06 AM - Ecole élém. Vaillant - Creil - "Mission contes pour Alice" - CP Mme Bakour
