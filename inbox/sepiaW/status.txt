@@ -1,0 +1,40 @@
+SEPIA host=video.blender.org id=8KerEHuf8qyGtCVoAoEdzQ dur=237 lic=Attribution views=304 HERO – Blender Grease Pencil Showcase
+SEPIA host=video.blender.org id=5ruRYckTcQMTMQvyqMnVsr dur=150 lic=Attribution views=1218 Caminandes 3: Llamigos - Funny 3D Animated Short
+SEPIA host=videos.domainepublic.net id=it2gSEeosdSsCebqCuH8Tg dur=237 lic=Attribution views=81 Hero
+SEPIA host=peertube.pcservice46.fr id=cp48fYr51AkRvsw41veLQ4 dur=203 lic=Attribution views=36 "Hero Fantasy : The King's Sword" pour Atari ST
+SEPIA host=peertube.pcservice46.fr id=ipipJVbdGr7QnAkP7tZFpb dur=236 lic=Attribution views=33 "Hero Fantasy : The King's Sword", un aperçu rapide
+SEPIA host=video.igem.org id=98WwhBqHDyRdjsi3oNY6kK dur=121 lic=Attribution views=43 Bologna: HERO – Turning Pollution into Production (2025) - Project Promotion [English]
+SEPIA host=tube.thechangebook.org id=nif2AnwufuGYNX2Jzoe3Qo dur=284 lic=Attribution views=37 06-Héro Écho - Amazones
+SEPIA host=tube-langues-vivantes.apps.education.fr id=ahb9puR46NsNpFd1Rg7kg2 dur=190 lic=Attribution views=29 The Hero's Journey according to Joseph Campbell - video by Matthew Winkler and Kirill Yeretsky
+SEPIA host=spectra.video id=3Fu9JCkKm2nvNNyy3CizUX dur=202 lic=CC BY 4.0 views=5 Warehouse Hero
+SEPIA host=peertube.pcservice46.fr id=x8EJJQzrY7TKAxzMcHobGD dur=183 lic=Attribution views=54 Un aperçu de "Hero Fantasy : The King's Sword" pour l'Oric Atmos
+SEPIA host=video.igem.org id=kN21PiRTsGDbUxeAoW5otU dur=148 lic=Attribution views=26 ULethbridge: Home hero (2026)
+SEPIA host=kino.kompot.si id=h3dX8CG8tbTUiR4a1WtT2g dur=300 lic=Public Domain Dedication views=8 NEW DOCUMENTARY - The Hero of 7/11
+SEPIA host=video.igem.org id=b7QN63CsCiNKwRQEdLBZpt dur=176 lic=Attribution views=4 HongKong-PuiChing: Calcium Hero - An Educational Short Film (2026) [Chinese]
+SEPIA host=tube-institutionnel.apps.education.fr id=eAS8uhFLzwubmF9yjNUwXJ dur=106 lic=Attribution views=4 critiques_litteraires_1agora_my hero academia
+SEPIA host=peertube.uno id=o15Ry8KeRkH98khzhMKtxe dur=229 lic=Public Domain Dedication views=1 WORKING CLASS HERO FELIX MARITANO
+SEPIA host=peertube.dngr.us id=pzEuywUP56mbuuTmNydRSF dur=459 lic=Public Domain Dedication views=1 ADMIRAL DEWEY HERO OF MANILA BAY PART 2 - Newsreel 2012
+SEPIA host=peertube.dngr.us id=wwjuMirFXo7NLFYu77FUrQ dur=563 lic=Public Domain Dedication views=0 ADMIRAL DEWEY HERO OF MANILA BAY PART 1 - Newsreel 2012
+SEPIA host=diode.zone id=iy9V5MCiFYDr3MbZLjyGVg dur=109 lic=Attribution views=9 HTTPS://001 How to Change Hero in Overwatch
+SEPIA host=makertube.net id=mGEUG6b9acmzWnqyKmG8x9 dur=109 lic=Attribution views=4 HTTPS://001 How to Change Hero in Overwatch
+SEPIA host=video.triplea.fr id=bQ7spg4xEs6JLpMduAoj3v dur=229 lic=Public Domain Dedication views=0 Pépé Production - The Adventures of Retrobob Hero
+SEPIA host=video.hardlimit.com id=n6UM9uzidhEgFtYjUEunZH dur=61 lic=Attribution views=0 [Arknights: Endfield | Cutscenes] The Red Caped Hero
+SEPIA host=video.igem.org id=uqDfnw1zWokFfYEJXB4F7u dur=112 lic=Attribution views=36 HKUST: Slupeer, a hero against cadmium (2025) - Project Promotion [English]
+SEPIA host=video.hardlimit.com id=amRBpWsxdRD91ZYkZDEQUK dur=199 lic=Attribution views=10 Leon S. Kennedy | Hero (Resident Evil Edit)
+SEPIA host=peertube.dngr.us id=nceentU4FrpvZR8DoRSz8y dur=442 lic=Public Domain Dedication views=0 1930s SILENT JAPANESE NEWSREEL   TRIBUTE TO FLEET ADMIRAL HEIHACHIRO TOGO HERO OF TSUSHIMA 42084
+SEPIA host=clip.place id=u5NtZfP5VWXJnkwKaxKnHg dur=657 lic=Public Domain Dedication views=3 (HoMM3B) Full Test. part 4. Watchtower. Neutrals, 2nd hero.
+SEPIA host=spook.tube id=8T8f84vwzSYDPLYgdPCmyp dur=90 lic=Public Domain Dedication views=9 aventure héroique
+SEPIA host=tube.fede.re id=gERAuEayXkcm3kAwVXqHPD dur=78 lic=Attribution views=10 Season 13 Trailer: Last Week Tonight with John Oliver (HBO)
+SEPIA host=clip.place id=pV688bAMiopf2LdX4LPsPg dur=413 lic=Public Domain Dedication views=4 (HoMM3B) Full Test. Part 2. Heroes. Starting Resources. Map Objects.
+SEPIA host=spook.tube id=gA2a6fkaRxmPkJ2YgnX7fd dur=91 lic=Public Domain Dedication views=14 starfish and soundboard
+SEPIA host=tube-langues-vivantes.apps.education.fr id=gUbXeNiByxaxi9Gb6iMJMS dur=284 lic=Attribution views=7 Ruby Bridges for Kids
+SEPIA host=friprogramvarusyndikatet.tv id=x7eJxWEH6iYT8LhUm9ZT8n dur=596 lic=Attribution views=0 Free Software on macOS? - Interview with René de Hesselle
+SEPIA host=video.igem.org id=mEnesBqGNEh5mBFwVoLjkA dur=116 lic=Attribution views=37 Tongji-China: Mars Expedition: The Crayfish Legend (2025) - Project Promotion [English]
+SEPIA host=diode.zone id=k41tanDvk7mfXCy8pZ6ocy dur=677 lic=Attribution views=13 Overwatch: Introducing Zelda
+SEPIA host=diode.zone id=jsFJGvwWrHY6TR3qymAA52 dur=623 lic=Attribution views=7 Overwatch: Introducing Ganondorf
+SEPIA host=makertube.net id=f3oJLwmHqCREYd6ZGNnFPg dur=677 lic=Attribution views=5 Overwatch: Introducing Zelda
+SEPIA host=makertube.net id=7dWVeRQKqBh8PJrC1H88rZ dur=623 lic=Attribution views=2 Overwatch: Introducing Ganondorf
+SEPIA host=vid.northbound.online id=2r8EfCxgUPTiLBPTUoKE6X dur=84 lic=Public Domain Dedication views=0 Paladin kills Vaelastrasz the Corrupt by Caligari
+SEPIA host=video.igem.org id=4SJCKyj9cUF5ghd9Apr4Ko dur=108 lic=Attribution views=252 Brno_Czech_Republic: CYANOTRAP (2020) - Project Promotion [English]
+SEPIA host=spectra.video id=fXJDR56pnhjRQLp9jZGaSa dur=118 lic=CC BY 4.0 views=20 Inventory-tetris autobattler prototype
+SEPIA host=fair.tube id=5EPtPah1syfZ3Wx7LK4SF1 dur=507 lic=CC BY 4.0 views=19 Berlin Sternfahrt 2026

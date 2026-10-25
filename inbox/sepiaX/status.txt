@@ -1,0 +1,40 @@
+SEPIA host=videos.domainepublic.net id=tFrTHWaqWa8Pxv4NgAEB8J dur=232 lic=Attribution views=179 Agent 327 : Opération barbershop
+SEPIA host=tube-numerique-educatif.apps.education.fr id=pZfYf8mQ7AU8D18xLx11DB dur=214 lic=Public Domain Dedication views=22 3 méthodes pour récupérer du contenu généré par un agent conversationnel
+SEPIA host=tube-numerique-educatif.apps.education.fr id=iV8uUA4nhpMgUdpyk8trAS dur=116 lic=Attribution views=15 Agent de sécurité
+SEPIA host=tube-enseignement-professionnel.apps.education.fr id=5vScXiSZLxH7XJCrztsZzM dur=118 lic=Attribution views=4 Agent exploitation et conducteur routier SEPA PAul Riquet
+SEPIA host=blurt.media id=cW97phBdTEo65ercyYFsNV dur=250 lic=Attribution views=2 Agent Zero Downtime (The CI_CD Spy) Male Version
+SEPIA host=cuddly.tube id=3igmCTzWudCDfiF6TcjLp4 dur=201 lic=Attribution views=0 Agent Stoic
+SEPIA host=video.igem.org id=aXY81vaU8u6uMNqMTYQVG7 dur=118 lic=Attribution views=22 Bulgaria: CADABRA - Cleaning Agent Developed For Antibiotic Resistance Annihilation (2022) - Project Promotion [English]
+SEPIA host=tube-enseignement-professionnel.apps.education.fr id=6By7ZsUnXANCHyQGWJvip3 dur=492 lic=Public Domain Dedication views=21 TUTO visio agent
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=hg5Jcbr6c5pm13vKpdhM4g dur=216 lic=Attribution views=20 Interview de Mohamed agent
+SEPIA host=tube-action-educative.apps.education.fr id=ugtyjvHurg9wuqui347rc5 dur=300 lic=Attribution views=19 💛 CAP AAGA : Agent Accompagnant au Grand Âge 👵
+SEPIA host=video.igem.org id=h5k3jzGqTm4mZFUMCDDtt8 dur=686 lic=Attribution views=15 Bulgaria: CADABRA - Cleaning Agent Developed for AntiBiotic Resistance Annihilation (2023) - Team Presentation [English]
+SEPIA host=video.igem.org id=nTkFuSGDJjk6FXptJ4PiJY dur=118 lic=Attribution views=15 Bulgaria: CADABRA - Cleaning Agent Developed for AntiBiotic Resistance Annihilation (2023) - Project Promotion [English]
+SEPIA host=vid.northbound.online id=9KyoQ212H76VmbhpjcsGWV dur=68 lic=Attribution views=13 GURD-192-LITE: KI-Agent für Gefährdungsbeurteilung
+SEPIA host=video.qlub.social id=5uXi5DYA6E4KpLc4HD6Fey dur=85 lic=Attribution views=3 Morphe : l’agent IA qui capture et structure le savoir-faire critique de vos employés
+SEPIA host=video.igem.org id=8h2DXXEHkovCZecHLLLMF5 dur=115 lic=Attribution views=1 Bulgaria: CADABRA - Cleaning Agent Developed for AntiBiotic Resistance Annihil... (2023) - Project Promotion [Bulgarian]
+SEPIA host=video.igem.org id=djo3ZMKp9m3GDgee1hhrGZ dur=111 lic=Attribution views=18 Duesseldorf: Fungilyzer: Building a biological fertilizing agent (2023) - Project Promotion [English]
+SEPIA host=video.igem.org id=fhYEmXvUnE3gMno4bCXr87 dur=688 lic=Attribution views=10 Root Rot Nemesis: A Novel Agricultural Microbial Agent
+SEPIA host=video.igem.org id=q5wLfcWCvzYQcATkPXxb1r dur=81 lic=Attribution views=7 SCUT-CHINA-L: Software AI Agent Q&A Demonstration Q3 (2025) [English]
+SEPIA host=video.igem.org id=vWQS1UG4C49YMT1CKjgVQn dur=78 lic=Attribution views=6 SCUT-CHINA-L: Software AI Agent Q&A Demonstration Q2 (2025) [English]
+SEPIA host=video.igem.org id=eQn4oGW16LphDWKkZCP9sr dur=81 lic=Attribution views=5 SCUT-CHINA-L: Software AI Agent Q&A Demonstration Q4 (2025) [English]
+SEPIA host=peertube.uno id=335949Rj1ig8Wtrjj8NoKu dur=219 lic=Attribution views=1 Nobody's Front Row — Jam (AI agent, original song)
+SEPIA host=peertube.dngr.us id=6RG4k6THWCKynb2JgZc7oL dur=217 lic=Public Domain Dedication views=0 SPRAYING DEFOLIANT VIETNAM WAR RAW FOOTAGE  AGENT ORANGE  OPERATION RANCH HAND  83655
+SEPIA host=peertube.dngr.us id=dWTRtsk5VLnUe1B9aq6ZiU dur=73 lic=Public Domain Dedication views=0 1960s CHEX CEREAL TV COMMERCIAL  SECRET AGENT KIT   RICE CHEX, WHEAT CHEX, CORN CHEX   XD30652e
+SEPIA host=video.igem.org id=qTnoVpTASS23YzhziTWo8G dur=120 lic=Attribution views=693 Uprize-I: Root Rot Nemesis: A Novel Agricultural Microbial Agent (2025) - Project Promotion [English]
+SEPIA host=video.off-investigation.fr id=kAwZvpF6ktAG4gmNZqrbMP dur=322 lic=Public Domain Dedication views=45 "L'eurodéputé macroniste français Gilles Pargneaux est un agent du Maroc" (Ali Lmrabet 5/5)
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=tCQuYqJfetcCNLszqi4LiA dur=124 lic=Attribution views=28 Portraits du territoire,  Agent d’accueil France Services
+SEPIA host=video.liberta.vip id=ttjwpTmkNPUv4FV4UVzENG dur=95 lic=Attribution views=7 Témoignage d'Olivier Pellan, agent d'assurance à Mordelles - Réunion publique du 29 janvier 2026
+SEPIA host=video.igem.org id=kWyAq1tKmc8ZKxjp1cAk86 dur=120 lic=Attribution views=181 Bielefeld-CeBiTec: P.L.A.N.T. - Plantbased Ligand Activated Noxious agent Tracker (2021) - Project Promotion [English]
+SEPIA host=video.igem.org id=aMwNT6eBryGs8xG5avXD51 dur=119 lic=Attribution views=387 HUST-China: Mr.Tony (2021) - Project Promotion [English]
+SEPIA host=tube.io18.eu id=k75CjdrvfT9Cby9UzK1aiK dur=198 lic=Attribution views=0 Nextcloud Assistant 3.0: AI Agency for efficient collaboration
+SEPIA host=videos.devteams.at id=mk4HZayGMx9H6tbfCV5x6b dur=426 lic=Attribution views=15 ClaudeCode instances running in docker containers starting and stopping each other: General setup
+SEPIA host=peertube.mesnumeriques.fr id=nQgmiAimy7nhs8jCiCB9hh dur=184 lic=CC BY 4.0 views=30 EMMIE par Pretexx : une solution simple pour la génération des emplois opérationnels NexSIS
+SEPIA host=video.ut0pia.org id=7w1MC52iDtkCHwEA37Riv4 dur=400 lic=Attribution views=3 The AI model that can’t hallucinate
+SEPIA host=video.igem.org id=37K7KgMio7nF7yfyv2ezFE dur=109 lic=Attribution views=1 OUC-Haide: WetFlow, A PMA–Dopamine Adhesive Case (2026) [English]
+SEPIA host=video.igem.org id=jJ6o6VgzdikLB9yjik5imo dur=121 lic=Attribution views=18 SJTU-Software: Owl-Eyezyme: From Reaction to Testable Enzyme Candidates (2026) - Project Promotion
+SEPIA host=video.igem.org id=kH1E9eRNcs5P2ZNufHvqyh dur=120 lic=Attribution views=14 Tongji-Software: CASleuth——the virus detective agency (2023) - Project Promotion [English]
+SEPIA host=video.igem.org id=ebxtH2EMdNs8aP7ZwPaDdv dur=77 lic=Attribution views=113 Aalto-Helsinki: The Design-Build-Test-Learn Cycle (2025) [English]
+SEPIA host=video.igem.org id=pfdfouNMqvr8dhBL2Td1VR dur=119 lic=Attribution views=81 USAFA: Lyme-AID: Genetically Engineered Detection of Borrelia burgdorferi, the c... (2023) - Project Promotion [English]
+SEPIA host=video.igem.org id=cT55uGKfEAo2of2quPwE9X dur=126 lic=Attribution views=10 KCIS: ReBile：Reprogramming Waste Bile Acids into Therapeutic UDCA (2026) - Project Promotion
+SEPIA host=video.ut0pia.org id=w4uE1FvKxgPuQAiEtRZJX3 dur=599 lic=Attribution views=7 Oh Hell Yeah
