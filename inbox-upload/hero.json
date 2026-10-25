@@ -1,0 +1,22 @@
+{
+ "name": "hero",
+ "video_id": "bsv6JlaJ3VQ",
+ "thumb": 200,
+ "verify": {
+  "privacy": "private",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i9.ytimg.com/vi/bsv6JlaJ3VQ/default.jpg?sqp=CJCK99YG&rs=AOn4CLC0svoBZEChxbxeSNeqAMTTImOGdw",
+  "thumb_max": "https://i9.ytimg.com/vi/bsv6JlaJ3VQ/maxresdefault.jpg?sqp=CJCK99YG&rs=AOn4CLDOi0dE3aSd8fQmomTPw7yCyXL7xA",
+  "title": "🦸 Cesur Kahraman Gökyüzünde! | Türkçe Çizgi Film"
+ },
+ "ok": true
+}
