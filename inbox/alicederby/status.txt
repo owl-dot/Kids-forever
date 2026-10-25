@@ -1,0 +1,9 @@
+META name=Alice Wins the Derby - Alice Comedies (1925) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2023-08-16T18:07:22.800Z | desc=Live action and animation come together in this short from 1925 staring Margie Gay.
+FULLDESC=Live action and animation come together in this short from 1925 staring Margie Gay.
+360 https://vod.newellijay.tv/download/videos/180f3973-564e-4256-8cc2-2596551738aa-360.mp4
+144 https://vod.newellijay.tv/download/videos/180f3973-564e-4256-8cc2-2596551738aa-144.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/180f3973-564e-4256-8cc2-2596551738aa-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/180f3973-564e-4256-8cc2-2596551738aa-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/180f3973-564e-4256-8cc2-2596551738aa/8f980ddd-1bd6-4fb9-9872-acdafb2ec970-360-fragmented.mp4
+film http=200 bytes=37474830
+film ok bytes=30402503 490,360  347.114000 
