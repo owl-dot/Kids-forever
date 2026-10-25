@@ -1,0 +1,7 @@
+META name=Agent 327 : Opération barbershop | by=horscine@videos.domainepublic.net | channel=HorsCiné | lic=Attribution | published=2023-11-22T10:47:38.954Z | desc=
+804 https://videos.domainepublic.net/download/streaming-playlists/hls/videos/e028b50c-9935-46e8-adb3-17a2512ef61c-804-fragmented.mp4
+720 https://videos.domainepublic.net/download/streaming-playlists/hls/videos/e028b50c-9935-46e8-adb3-17a2512ef61c-720-fragmented.mp4
+360 https://videos.domainepublic.net/download/streaming-playlists/hls/videos/e028b50c-9935-46e8-adb3-17a2512ef61c-360-fragmented.mp4
+chosen=https://videos.domainepublic.net/static/streaming-playlists/hls/e028b50c-9935-46e8-adb3-17a2512ef61c/aaefb00b-3c7d-4d8e-a3ec-473dfa9ccbc4-804-fragmented.mp4
+film http=200 bytes=64648588
+film ok bytes=34188555 1280,536  231.552000 

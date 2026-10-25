@@ -1,0 +1,15 @@
+META name=Caminandes 2 : Gran Dillama | by=cemeapdll@videos.cemea.org | channel=Films Libres | lic=Attribution | published=2019-07-29T21:04:44.462Z | desc=Caminandes est une série de courts métrages d’animation réalisés par Pablo Vazquez, produits et diffusés par la Fondation Blender sous licence [Creative Commons](https://videos.cemea.org/videos/watch/2fe3e25d-42d2-42e7-bf05-9f09df1ed321).
+
+Sortie en 2013
+Durée : 2'26 minutes
+Écrit par : Beorn Leonard
+Produit par : Fondation Blender
+Réalisateur : Pablo Vazquez
+
+Plus d'infos sur la série Cam
+1080 https://videos.cemea.org/download/web-videos/c2bfb5c2-350d-4552-9d74-5483653feebc-1080.mp4
+720 https://videos.cemea.org/download/web-videos/c2bfb5c2-350d-4552-9d74-5483653feebc-720.mp4
+480 https://videos.cemea.org/download/web-videos/c2bfb5c2-350d-4552-9d74-5483653feebc-480.mp4
+chosen=https://videos.cemea.org/static/web-videos/c2bfb5c2-350d-4552-9d74-5483653feebc-1080.mp4
+film http=200 bytes=47044979
+film ok bytes=23444099 1280,720  146.100000 
