@@ -1,0 +1,28 @@
+{
+ "name": "verify_dweebs",
+ "maxresdefault": [
+  200,
+  160639
+ ],
+ "hqdefault": [
+  200,
+  18719
+ ],
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/ltN2vzHOWqA/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/ltN2vzHOWqA/maxresdefault.jpg",
+  "title": "🐶 Köpek Dixey ve Tavuk: Mamalar Nereye Gitti? | Türkçe Çizgi Film"
+ }
+}
