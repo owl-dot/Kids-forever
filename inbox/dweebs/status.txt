@@ -1,0 +1,15 @@
+META name=The Daily Dweebs | by=Blender@video.blender.org | channel=Blender Open Movies | lic=Attribution | published=2018-10-24T20:42:06.791Z | desc=The Daily Dweebs' is a pilot episode of a animated series revolving around the pet Dixey and his shenanigans in 1950's American suburbia.
+
+This pilot was created by the Blender Animation Studio in Amsterdam, The Netherlands, and made possible with support from thousands of people from all around the world via subscription to the Blender Cloud.
+
+Release date: Oct 19, 2017
+Duration: 1m
+Country
+1080 https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-1080.mp4
+720 https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-720.mp4
+480 https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-480.mp4
+360 https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-360.mp4
+240 https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-240.mp4
+chosen=https://video.blender.org/object-storage/web_videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-1080.mp4
+film http=200 bytes=12925261
+film ok bytes=7435636 1280,720  60.117000 
