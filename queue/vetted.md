@@ -15,6 +15,8 @@ Orijinal ses: filmde sonradan eklenmiş modern müzik varsa SESİ TAMAMEN SİL (
 - Caminandes 2 (2013, Blender, CC BY) – YÜKLENDİ 25 Eki, herkese açık (EHT-R5Zzf68) + Short (izN0WPPKsOw)
 - Hero (2018, Blender, CC BY) – YÜKLENDİ 25 Eki, GİZLİ (bsv6JlaJ3VQ) + Short gizli (ew94QoTHnHw)
 
+- The Daily Dweebs (2017, Blender, CC BY) – YÜKLENDİ 26 Eki, herkese açık (ltN2vzHOWqA) + Short (FrPRc-a5vpQ). Not: fetch.yml ffmpeg kurulumunda takılırsa iptal edip request'e "t" alanı ekleyerek yeniden tetikle.
+
 ## ELENDİ (25 Eki)
 - Felix Out of Luck: stok görüntü kopyası, filigran/reklam kartı
 - Alice Wins the Derby (1925): çok eski; kanal stiline uymuyor (anlatım üretildi, kullanılmadı)
