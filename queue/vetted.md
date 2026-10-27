@@ -17,6 +17,9 @@ Orijinal ses: filmde sonradan eklenmiş modern müzik varsa SESİ TAMAMEN SİL (
 
 - The Daily Dweebs (2017, Blender, CC BY) – YÜKLENDİ 26 Eki, herkese açık (ltN2vzHOWqA) + Short (FrPRc-a5vpQ). Not: fetch.yml ffmpeg kurulumunda takılırsa iptal edip request'e "t" alanı ekleyerek yeniden tetikle.
 
+- Hungry bunny (ExtremeDullard, peertube.wtf, PD dedication, canlı çekim tavşan, 27 Eki) – YÜKLENDİ (xhXNsi87PD4) + Short. Animasyon DEĞİL; kuyrukta animasyon kalmadığı için seçildi.
+- Boing Bowl (BBC Micro demosu) – ELENDİ (çizgi film değil, retro bilgisayar demosu)
+
 ## ELENDİ (25 Eki)
 - Felix Out of Luck: stok görüntü kopyası, filigran/reklam kartı
 - Alice Wins the Derby (1925): çok eski; kanal stiline uymuyor (anlatım üretildi, kullanılmadı)
