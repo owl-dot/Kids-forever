@@ -1,0 +1,9 @@
+META name=Hungry bunny | by=ExtremeDullard@peertube.wtf | channel=ExtremeDullard's videos | lic=Public Domain Dedication | published=2026-08-22T06:12:01.637Z | desc=Cute kit having lunch on our lawn.
+0 https://peertube.wtf/download/web-videos/9111c1e9-a8ce-43ab-9074-7156b4f73cda-0.mp4
+1080 https://peertube.wtf/download/streaming-playlists/hls/videos/9111c1e9-a8ce-43ab-9074-7156b4f73cda-1080-fragmented.mp4
+720 https://peertube.wtf/download/streaming-playlists/hls/videos/9111c1e9-a8ce-43ab-9074-7156b4f73cda-720-fragmented.mp4
+360 https://peertube.wtf/download/streaming-playlists/hls/videos/9111c1e9-a8ce-43ab-9074-7156b4f73cda-360-fragmented.mp4
+0 https://peertube.wtf/download/streaming-playlists/hls/videos/9111c1e9-a8ce-43ab-9074-7156b4f73cda-0-fragmented.mp4
+chosen=https://peertube.wtf/static/streaming-playlists/hls/9111c1e9-a8ce-43ab-9074-7156b4f73cda/c1bb5442-31b3-4b5b-8cea-165939308354-1080-fragmented.mp4
+film http=200 bytes=187693670
+film ok bytes=43155865 1280,720 229.162267 

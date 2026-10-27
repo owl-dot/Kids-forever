@@ -1,0 +1,5 @@
+META name=Boing Bowl! BBC Micro animation | by=Electron Greg@video.hardlimit.com | channel=Electron Greg's Retro Computer Shenanigans | lic=Public Domain Dedication | published=2022-11-16T19:23:33.817Z | desc=An alternative interpretation of the classic Amiga Boing Ball, but this time running on a BBC Micro and it's a 3D bowl! Because reasons!
+480 https://video.hardlimit.com/download/streaming-playlists/hls/videos/5ce087e7-7497-4021-91c8-31c24090201d-480-fragmented.mp4
+chosen=https://video.hardlimit.com/static/streaming-playlists/hls/5ce087e7-7497-4021-91c8-31c24090201d/f8eb37dd-de75-46fa-99f1-52693665bc34-480-fragmented.mp4
+film http=200 bytes=11964073
+film ok bytes=10409909 640,480  134.656000 
