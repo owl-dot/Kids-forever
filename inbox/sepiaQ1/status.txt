@@ -1,0 +1,40 @@
+SEPIA host=video.blender.org id=gdfAeNysimipmpo7AbgaTp dur=60 lic=Attribution views=1309 The Daily Dweebs
+SEPIA host=video.blender.org id=97VdJgJ4QBG3HmJRkYZ7Fm dur=443 lic=Attribution views=189 Blender Studio Update #2
+SEPIA host=video.blender.org id=shqNQ5Mk49zZL2czHPgW1P dur=92 lic=Attribution views=471 Blender 3.0 - Features Reel Showcase
+SEPIA host=video.blender.org id=9mKmEFnGGS7vBMHhDqCjkA dur=400 lic=Attribution views=415 Blender 3.0 - Every New Feature in 6 minutes
+SEPIA host=video.blender.org id=449XZe6o4DRQgVWWB9Z7gE dur=200 lic=Attribution views=170 Blender Demo Reel 2013
+SEPIA host=video.blender.org id=p2KHwQSBBd7Hp2to6NsJ3V dur=299 lic=Attribution views=264 Installing Flamenco in 5 minutes
+SEPIA host=video.blender.org id=tsZ1x6uHsmjxXnL2yXGm3R dur=104 lic=Attribution views=205 Cycles Demoreel 2016
+SEPIA host=tube.fede.re id=a4bErv2Uo1ij5sfAwpTsYc dur=263 lic=Attribution views=4 Charge - Blender Open Movie
+SEPIA host=video.blender.org id=dVK33gZfVJsh1oyLCg1tJC dur=265 lic=Attribution views=144 What are Geometry Nodes?
+SEPIA host=video.blender.org id=8KerEHuf8qyGtCVoAoEdzQ dur=237 lic=Attribution views=308 HERO – Blender Grease Pencil Showcase
+SEPIA host=video.blender.org id=iH2uV3EaNDzUg63X1EjtUB dur=305 lic=Public Domain Dedication views=77 The New 2018 Blender Institute!
+SEPIA host=peertube.openstreetmap.fr id=kme7gzVKaqaK4tztBSkkWb dur=69 lic=Attribution views=2676 Promotional film / State of the Map(SOTM2026) – Film promotionnel de l’édition 2026 du State of the Map - Paris, France
+SEPIA host=videos.cemea.org id=59PgftzRYF37yugoRVvuLy dur=464 lic=Attribution views=123 Spring - Blender Open Movie
+SEPIA host=video.blender.org id=9qeFqQqww63pix4LBTgrxS dur=435 lic=Attribution views=191 Introducing: Hair Assets in Blender 3.5!
+SEPIA host=video.blender.org id=ni4S8WYzVG9kqQ6mDjnY1s dur=85 lic=Attribution views=1457 Blender 4.0 - Reel
+SEPIA host=video.blender.org id=dnayqfMS4PAE9pSZ3kyVUb dur=193 lic=Attribution views=1318 Glass Half - Blender animated cartoon
+SEPIA host=video.blender.org id=m7eJZjgGSNGV1eqCQW262G dur=85 lic=Attribution views=747 Blender 3.6 LTS - Reel
+SEPIA host=video.blender.org id=w3cqypCAhcVS3GQbh9w8bB dur=345 lic=Attribution views=719 Blender Beginner Tutorial 1/4 | Blocking
+SEPIA host=video.blender.org id=hpmwLyMCZTbVHANJC3E4sM dur=299 lic=Attribution views=425 Blender 4.0 Keymap Updates
+SEPIA host=video.blender.org id=uF6cjxuFGELN5ni6gn7oRG dur=93 lic=Public Domain Dedication views=361 First Steps - Blender Fundamentals
+SEPIA host=video.blender.org id=uYt8JcxSf18ALCWXmWEqKi dur=103 lic=Attribution views=339 GREASE PENCIL IMPROVEMENTS | Blender 2.93
+SEPIA host=video.blender.org id=aKDBqBNQ7dk2jvdCAJsVB8 dur=388 lic=Attribution views=250 Blender 2.91 New Features in ALMOST 5 Minutes
+SEPIA host=video.blender.org id=2o7F8G7o1gQXjwWs6Lvmm3 dur=295 lic=Attribution views=247 Blender 3.2 New Features in LESS than Five Minutes
+SEPIA host=video.blender.org id=euzQiqvnhkHYKLETFpqoxp dur=180 lic=Attribution views=204 Keying Animation Updates in Blender 4.1
+SEPIA host=video.blender.org id=wkbHkkPURj3juWXZdrRrbd dur=299 lic=Attribution views=194 Blender 2.92 New Features in LESS than 5 Minutes
+SEPIA host=video.blender.org id=jtGfm7b9d3SPjPaZbXt9qi dur=106 lic=Attribution views=184 Grease Pencil Textured Brushes - Blender 2.80 Beta
+SEPIA host=video.blender.org id=uyQi9syPm19ACJgsN56CYu dur=184 lic=Attribution views=166 Blender Beginner Tutorial 2/4 | Modeling
+SEPIA host=video.blender.org id=7JUmeLcJa6AJEzzoAasUgE dur=425 lic=Attribution views=162 Navigation Overview - Blender Fundamentals
+SEPIA host=video.blender.org id=czptnhfgW9REypfGvPjYQr dur=277 lic=Attribution views=147 Right Click Select - Blender 2.80 Fundamentals
+SEPIA host=video.blender.org id=uV1DgcPWRJVJBzsnR7AMGK dur=327 lic=Attribution views=124 Blender Beginner Tutorial 3/4 | Shading
+SEPIA host=video.blender.org id=3F73fxjcyDSan3Uv6cAjDi dur=467 lic=Attribution views=124 Character Rigging - Blender 2.80 Fundamentals
+SEPIA host=video.blender.org id=gFQqkT5LiD2KuJHGiXmFYz dur=318 lic=Attribution views=123 What's New in Blender 3.1 in Five Minutes
+SEPIA host=video.blender.org id=9kEppccw9mnCMzT3NNfixX dur=238 lic=Attribution views=121 Blender Beginner Tutorial 4/4 | Rendering
+SEPIA host=video.blender.org id=fNaKc4tLd9hf35LY1F3Sv4 dur=278 lic=Attribution views=119 USD Import and Export in Blender
+SEPIA host=video.blender.org id=qnjwsTU8YHgkfQVkAdiomi dur=101 lic=Attribution views=109 Blender @ SIGGRAPH 2023
+SEPIA host=video.blender.org id=myeCmgGMVbEvjYrKzBpjAG dur=60 lic=Attribution views=101 Blender participates in GSoC 2024! #b3d #gsoc #shorts
+SEPIA host=video.blender.org id=mTgjtvVkNkZmPijyT6HQu9 dur=346 lic=Attribution views=97 Ton Roosendaal receives Annie Award for Blender
+SEPIA host=video.blender.org id=dhWjcTBgCjNxi4QEuaaS2U dur=306 lic=Attribution views=96 New Features in Blender 2.93 LTS in LESS than 5 minutes
+SEPIA host=video.blender.org id=871dvzgt1vwzBpfaec9zzH dur=214 lic=Attribution views=94 Cycles Samples - Blender 2.80 Fundamentals
+SEPIA host=video.blender.org id=9npRN1kuzaBaApvHTqgEZC dur=124 lic=Attribution views=84 Blender Conference 2023 Impressions!
