@@ -1,0 +1,20 @@
+{
+ "name": "verify_bunny",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/xhXNsi87PD4/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/xhXNsi87PD4/maxresdefault.jpg",
+  "title": "🐰 Sevimli Tavşan Pamuk Çimenlerde! | Türkçe Çocuk Videosu"
+ }
+}
