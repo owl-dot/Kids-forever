@@ -39,3 +39,4 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 28 Eki
 - The Story of Tommy Trimble (makertube) – ELENDİ (yükleyen Phil Shapiro, yapımcı Taylor Jansen değil → lisans güvenilmez)
+- Little Nemo (1911, Winsor McCay, PD, Wikimedia Commons webm; yalnız animasyon kısmı 9:31–10:57 kullanıldı, canlı çekim girişi (içki) ve sigaralı sahneler kesildi) – YÜKLENDİ 28 Eki (wSbcAWT2Dj0) + Short. Not: Commons için requests'te film_url=Special:FilePath/..., "maxrate":"600k" gerekti (dosya >100 MB olmasın). Kuyrukta animasyon kalmadı: sıradaki aday Commons'ta Gertie the Dinosaur (1914, PD) – kareler incelenmedi.
