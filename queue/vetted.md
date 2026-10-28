@@ -36,3 +36,6 @@ KURAL: 2010 sonrası, renkli, modern 3D/2D animasyon tercih et; eski siyah-beyaz
 ## Arama ipucu
 host=vod.newellijay.tv "Archives" kanalında 1930 öncesi çizgi filmler var (etiket "Public Domain Dedication"). 1930 sonrası olanlar (Popeye, Superman, Casper...) PD DEĞİL, KULLANMA.
 Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitHub indirme adımı 10 dk'dan uzun sürerse run'ı iptal et (gh api -X POST .../runs/ID/cancel), tek film isteğiyle tekrar dene.
+
+## 28 Eki
+- The Story of Tommy Trimble (makertube) – ELENDİ (yükleyen Phil Shapiro, yapımcı Taylor Jansen değil → lisans güvenilmez)
