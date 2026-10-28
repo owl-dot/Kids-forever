@@ -1,0 +1,20 @@
+{
+ "name": "verify_nemo",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/wSbcAWT2Dj0/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/wSbcAWT2Dj0/maxresdefault.jpg",
+  "title": "🎨 Küçük Nemo'nun Renkli Dünyası (1911) | Türkçe Çizgi Film"
+ }
+}
