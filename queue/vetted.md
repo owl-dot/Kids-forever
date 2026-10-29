@@ -40,3 +40,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 28 Eki
 - The Story of Tommy Trimble (makertube) – ELENDİ (yükleyen Phil Shapiro, yapımcı Taylor Jansen değil → lisans güvenilmez)
 - Little Nemo (1911, Winsor McCay, PD, Wikimedia Commons webm; yalnız animasyon kısmı 9:31–10:57 kullanıldı, canlı çekim girişi (içki) ve sigaralı sahneler kesildi) – YÜKLENDİ 28 Eki (wSbcAWT2Dj0) + Short. Not: Commons için requests'te film_url=Special:FilePath/..., "maxrate":"600k" gerekti (dosya >100 MB olmasın). Kuyrukta animasyon kalmadı: sıradaki aday Commons'ta Gertie the Dinosaur (1914, PD) – kareler incelenmedi.
+
+## 29 Eki
+- Gertie the Dinosaur (1914, Winsor McCay, PD, Commons webm; yalnız animasyon bölümü 548–1019 sn, 1.4x hızlandırıldı, 'drink' ara kartı kesildi, orijinal ses yok) – YÜKLENDİ 29 Eki herkese açık (EjmJ8B0se8g) + Short. Not: film_url=Special:FilePath/Winsor_McCay_%281914%29Gertie_the_Dinosaur.webm, maxrate 600k. Kuyrukta uygun animasyon kalmadı; yeni aday aranmalı (Commons PD: Little Nemo/Gertie kullanıldı; sıradakiler: McCay 'How a Mosquito Operates' 1912 — kareler incelenmedi).
