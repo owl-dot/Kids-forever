@@ -1,0 +1,20 @@
+{
+ "name": "verify_gertie",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/EjmJ8B0se8g/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/EjmJ8B0se8g/maxresdefault.jpg",
+  "title": "🦕 Gerti Dinozor Dans Ediyor! | Türkçe Çizgi Film"
+ }
+}
