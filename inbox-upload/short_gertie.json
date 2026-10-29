@@ -1,0 +1,19 @@
+{
+ "name": "short_gertie",
+ "video_id": "Id773abPxbE",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/Id773abPxbE/default.jpg",
+  "thumb_max": null,
+  "title": "🦕 Koca dinozor Gerti ne yapacak? #Shorts"
+ },
+ "ok": true
+}
