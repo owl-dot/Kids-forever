@@ -1,0 +1,9 @@
+META name=Alice the Whaler - Alice Comedies (1927) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2023-08-16T15:42:02.152Z | desc=Live action and animation come together in this short from 1927 staring Lois Hardwick.
+FULLDESC=Live action and animation come together in this short from 1927 staring Lois Hardwick.
+360 https://vod.newellijay.tv/download/videos/d0860f19-63f4-4b9a-a0fc-d6a21ae07ec9-360.mp4
+144 https://vod.newellijay.tv/download/videos/d0860f19-63f4-4b9a-a0fc-d6a21ae07ec9-144.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/d0860f19-63f4-4b9a-a0fc-d6a21ae07ec9-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/d0860f19-63f4-4b9a-a0fc-d6a21ae07ec9-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/d0860f19-63f4-4b9a-a0fc-d6a21ae07ec9/c6d10e87-433b-4d40-8b44-378fdafd3a19-360-fragmented.mp4
+film http=200 bytes=31959262
+film ok bytes=24644604 484,360  374.720000 

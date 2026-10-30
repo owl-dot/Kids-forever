@@ -1,0 +1,40 @@
+SEPIA host=video.blender.org id=dnayqfMS4PAE9pSZ3kyVUb dur=193 lic=Attribution views=1325 Glass Half - Blender animated cartoon
+SEPIA host=aperi.tube id=dGyfbw4rHA5GyGtHoBNEF6 dur=373 lic=Attribution views=76 (OO) -animated movie by Seoro Oh
+SEPIA host=tube-langues-vivantes.apps.education.fr id=hPYa81nsE1nqe87AZKMh8i dur=445 lic=Attribution views=13 The Animated History of Australia
+SEPIA host=exquisite.tube id=jKkrSaQdBWDXjqj9AKqufB dur=129 lic=Attribution views=12 HOW DOES CAFFEINE WORK (animated explainer)
+SEPIA host=exquisite.tube id=6QHkG8vsgvetyP3e9HPBFx dur=154 lic=Attribution views=4 WHAT IS GOING ON IN THE TEENAGE BRAIN (animated explainer in danish)
+SEPIA host=exquisite.tube id=uq4FqJYAds9CW28f4a4xhd dur=96 lic=Attribution views=3 WHAT IS CRISPR (animated explainer)
+SEPIA host=exquisite.tube id=kL88PKpn4KS4tWvBzLou4b dur=201 lic=Attribution views=1 WHAT IS HERD IMMUNITY (animated explainer)
+SEPIA host=exquisite.tube id=uih93UCyj9SstmVHRU482f dur=125 lic=Attribution views=1 WHAT IS ANTIBIOTIC RESISTANCE (Part 1, animated explainer)
+SEPIA host=peertube.dngr.us id=wsq4FwDJkDSa6MAKTBz4JE dur=72 lic=Public Domain Dedication views=0 1960s ANIMATED KOOL AID DRINK MIX TV COMMERCIAL w/ BUGS BUNNY XD30692e
+SEPIA host=video.igem.org id=6AiLW4EuSVtpWKPeMyZgGs dur=96 lic=Attribution views=285 REC-CHENNAI: animated video (2022) [English]
+SEPIA host=fedi.video id=xkTfhrtqNRKM6oBqTqn4uB dur=105 lic=Attribution views=265 Fantasmagorie (1908) (first animated film)
+SEPIA host=aperi.tube id=qQVQMiR9i1uQuAL4G2GuF5 dur=230 lic=Attribution views=89 Afternoon Class - Animated movie by Seoro Oh
+SEPIA host=tube-cycle-3.apps.education.fr id=fvH2kSRbdMVuydqfWnJADV dur=202 lic=Attribution views=76 From Head to Toe - Animated Read Aloud Book for Kids with Animals Sounds
+SEPIA host=pony.tube id=rju74WA1iyiWmiQUdDDpz3 dur=179 lic=Attribution views=59 Drunk Brutalight (Animated) (2015) (Reupload)
+SEPIA host=pony.tube id=8FBCroiU4acjN6M8RvUmVC dur=194 lic=Attribution views=20 [PMV] Nightmare Night (Animated) (2012) (Reupload)
+SEPIA host=pony.tube id=8cPboqw6UkJUhPYbF2TQyu dur=194 lic=Attribution views=12 [PMV] Nightmare Night (Animated) (Remastered Audio)
+SEPIA host=video.medienzentrum-harburg.de id=2bDGogF8GHu1gJpUXoFZsu dur=432 lic=CC BY 4.0 views=3 #17/32 Animated GIFs  / Animierte Grafiken mit Ebenen erstellen und im GIF   Format speichern
+SEPIA host=cuddly.tube id=wYPhJJRqfH5kVwWX38PdUm dur=90 lic=Public Domain Dedication views=2 spinning plate animated art
+SEPIA host=tube-cycle-2.apps.education.fr id=pHmdxvEjScG8YXnretjtFZ dur=129 lic=Attribution views=0 Little Worry SPOT Animated Song
+SEPIA host=tube-cycle-2.apps.education.fr id=4rFDzsgnGAPwxXhSGfhQ6X dur=142 lic=Attribution views=0 Let's Go To Market (Animated Video) by Frank Leto
+SEPIA host=peertube.dngr.us id=sLNTgTayqW2wVrffXBeQjr dur=461 lic=Public Domain Dedication views=0 1960 TRW ANIMATED COMPUTER MAINFRAME SALES FILM “ALL ABOUT POLYMORPHICS”   95524
+SEPIA host=video.blender.org id=5ruRYckTcQMTMQvyqMnVsr dur=150 lic=Attribution views=1236 Caminandes 3: Llamigos - Funny 3D Animated Short
+SEPIA host=vhsky.cz id=f8oYBi72Qp4AskegvS2Dp5 dur=195 lic=Public Domain Dedication views=74 samizdat: Lil Boosie | CMTOWN ANIMATED
+SEPIA host=vhsky.cz id=sQNSno7vjfFYtCn3j4fEN5 dur=301 lic=Public Domain Dedication views=37 samizdat: Gay Jackass | CMTOWN ANIMATED
+SEPIA host=pony.tube id=h8NGcUsBLp5jysFNzE8W3i dur=158 lic=Attribution views=11 [SFM Ponies] Markiplier plays Psycosis Animated (2014) (Reupload)
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mcrFevnm5PWsbW561HgBHt dur=243 lic=Attribution views=2 1892 - Pauvre Pierrot - World's 1st Animated Cartoon - Emile Reynaud
+SEPIA host=peertube.dngr.us id=tfkzppBqruA3LseRiQXCRD dur=427 lic=Public Domain Dedication views=0 "CLASSIFIED YELLOW PAGES"  VINTAGE GANTRAY-LAWRENCE ANIMATED TV COMMERCIALS    GG48125
+SEPIA host=peertube.dngr.us id=vWsUsofQVuxx4MA1dcoRYN dur=82 lic=Public Domain Dedication views=0 1960s CAP'N CRUNCH CEREAL ANIMATED COMMERCIAL BY JAY WARD  w/ MAGNOLIA BULKHEAD  XD30682f
+SEPIA host=tube-numerique-educatif.apps.education.fr id=1q24bzCsWdnVkUtbjHaW39 dur=147 lic=Attribution views=36 The Very Hungry Caterpillar by Eric Carle🐛🧃🍭🍊🍎 |  | Animated Read-Aloud Story For Kids
+SEPIA host=peertube.wtf id=mtGkwiEJr2BhAQ2WYkfzr1 dur=82 lic=Public Domain Dedication views=7 MR. HAND EPIC MONOLOGUE "ANIMATED"!!!!
+SEPIA host=exquisite.tube id=4gpYfK93ABvwxQKwpT52zK dur=92 lic=Attribution views=2 WHAT IS ANTIBIOTIC RESISTANCE (Part 2, Animated explainer)
+SEPIA host=vhsky.cz id=n4QR5pF5tMSVLSGwRNb7yr dur=199 lic=Public Domain Dedication views=27 samizdat: This is an Actual Threat, this is not a joke, I'm gonna do it | CMTOWN ANIMATED
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mkDHTuAytuEhVXohhyJJm2 dur=292 lic=Attribution views=131 La Révolution des Crabes - Court métrage d'animation - de Arthur de Pins
+SEPIA host=vhsky.cz id=vnuNcJBrdng6z1J6Em1NED dur=286 lic=Attribution views=60 LibVisual Desktop Background
+SEPIA host=tube-cycle-3.apps.education.fr id=72Ub5zrVZHoPadA6FCEP8W dur=102 lic=Attribution views=7 QU'EST-CE QU'UN PLUVIOMÈTRE ?
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=qpsrLJAUvmAd6iGFqymYyR dur=123 lic=Attribution views=6 Argumentation directe et indirecte
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=2N9eNR6FhJhcy8RSCB9m7V dur=145 lic=Attribution views=4 Objectif / Subjectif
+SEPIA host=tube-numerique-educatif.apps.education.fr id=cgehNn8xcwpNaVEw1tUF93 dur=144 lic=Attribution views=2 Les valeurs du présent de l'indicatif
+SEPIA host=tube-cycle-2.apps.education.fr id=cWDFEz8p4kp4KaPHX8JneH dur=138 lic=Attribution views=1 Wake Up! Daily Routine Song For Kids! 🌞 🛌 | Educational Videos | Planet Pop #englishforkids
+SEPIA host=tube-cycle-2.apps.education.fr id=x8mpcYcej4Ru5hYyDdYRKx dur=95 lic=Attribution views=1 Little Pelican : Silly Song : JellyBug
