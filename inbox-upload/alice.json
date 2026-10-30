@@ -1,0 +1,22 @@
+{
+ "name": "alice",
+ "video_id": "y4nRWy47uTc",
+ "thumb": 200,
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": true,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/y4nRWy47uTc/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/y4nRWy47uTc/maxresdefault.jpg",
+  "title": "Fındık'ın Gemi Macerası 🚢🐭🐦 | Türkçe Çizgi Film"
+ },
+ "ok": true
+}
