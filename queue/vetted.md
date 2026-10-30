@@ -43,3 +43,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 29 Eki
 - Gertie the Dinosaur (1914, Winsor McCay, PD, Commons webm; yalnız animasyon bölümü 548–1019 sn, 1.4x hızlandırıldı, 'drink' ara kartı kesildi, orijinal ses yok) – YÜKLENDİ 29 Eki herkese açık (EjmJ8B0se8g) + Short. Not: film_url=Special:FilePath/Winsor_McCay_%281914%29Gertie_the_Dinosaur.webm, maxrate 600k. Kuyrukta uygun animasyon kalmadı; yeni aday aranmalı (Commons PD: Little Nemo/Gertie kullanıldı; sıradakiler: McCay 'How a Mosquito Operates' 1912 — kareler incelenmedi).
+
+## 30 Eki
+- Alice the Whaler (1927, Alice Comedies/Disney-Winkler, PD – 1927 yapımı, ABD'de süresi doldu; vod.newellijay.tv rKsXgSanQxqBrApoEWMLHF, sessiz film; 6–336 sn kullanıldı, son kısımdaki top/balina atışı kesildi) – YÜKLENDİ 30 Eki herkese açık (y4nRWy47uTc) + Short. Kuyrukta sıradakiler: Alice Comedies başka bölümler (kareler incelenmedi), Mickey Plane Crazy/Steamboat Willie (1928, PD ama marka riski, hayvan şakaları) – önerilmez. Elenenler: Skeleton Dance (macabre), Popeye/Casper/Puss n' Booty (1930 sonrası PD değil).
