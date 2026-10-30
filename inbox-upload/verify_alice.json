@@ -1,0 +1,20 @@
+{
+ "name": "verify_alice",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/y4nRWy47uTc/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/y4nRWy47uTc/maxresdefault.jpg",
+  "title": "Fındık'ın Gemi Macerası 🚢🐭🐦 | Türkçe Çizgi Film"
+ }
+}
