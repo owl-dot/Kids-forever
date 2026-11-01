@@ -1,0 +1,19 @@
+{
+ "name": "short_oswald",
+ "video_id": "_fZZV0HPRHg",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": true,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/_fZZV0HPRHg/default.jpg",
+  "thumb_max": null,
+  "title": "Fareler ne yaptı? Uçak uçacak mı? 🐰🎈 #Shorts"
+ },
+ "ok": true
+}
