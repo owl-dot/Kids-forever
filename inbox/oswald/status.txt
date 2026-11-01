@@ -1,0 +1,9 @@
+META name=The Ocean Hop - Oswald the Lucky Rabbit (1927) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2023-08-16T15:41:00.659Z | desc=Oswald The Lucky Rabbit stars in Ocean Hop
+FULLDESC=Oswald The Lucky Rabbit stars in Ocean Hop
+360 https://vod.newellijay.tv/download/videos/6a2d5fdb-6682-4a32-a273-f1c1682f1004-360.mp4
+144 https://vod.newellijay.tv/download/videos/6a2d5fdb-6682-4a32-a273-f1c1682f1004-144.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/6a2d5fdb-6682-4a32-a273-f1c1682f1004-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/6a2d5fdb-6682-4a32-a273-f1c1682f1004-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/6a2d5fdb-6682-4a32-a273-f1c1682f1004/5d5c65e2-54c2-4f49-893a-5f3b039a59ad-360-fragmented.mp4
+film http=200 bytes=28556963
+film ok bytes=21978260 480,360  347.392000 
