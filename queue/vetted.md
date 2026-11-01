@@ -52,3 +52,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 1 Kas
 - The Four Musicians of Bremen (1922, Laugh-O-Gram, PD) – ELENDİ (topçu/top atışı ve bombardıman sahneleri uzun sürüyor; silah teması, çocuğa uygun değil)
+
+## 1 Kas
+- The Ocean Hop (Oswald the Lucky Rabbit, 1927, Winkler/Universal, PD – 1927 yapımı; vod.newellijay.tv e7s97oduHiZqWjWvsTLBuQ, maxrate 900k) – YÜKLENDİ 1 Kas herkese açık (ktmRMV5ozbg) + Short. Kesilen: açılış jenerik 0–6 sn, bitiş kartı, 314.8–317.6 ve 321.7–325 sn (Pit'in tüfek sahneleri); orijinal ses silindi. Tommy Tucker's Tooth canlı çekim (elendi). Kuyrukta sıradakiler: Oswald diğer bölümler (kareler incelenmedi), Katzenjammer Kids "Policy and Pie" 1918 (vod.newellijay 1CGifncYdjEVnVJR3DVXLZ, incelenmedi), Krazy Kat "Highway Snobbery" (gFBVfMuzLKDSgHcGhiPzBq, incelenmedi).
