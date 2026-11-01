@@ -49,3 +49,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 31 Eki
 - Cinderella (1922, Laugh-O-Gram Films, PD – 1922 yayım; Commons Cinderella_Laugh-O-Gram_(1922).webm, film_url=Special:FilePath/..., maxrate 600k) – YÜKLENDİ 31 Eki herkese açık (Gv5a5gOSExk) + Short. Kullanılan: 7–35 sn ve 120–439 sn; 36–120 sn arası (prens ayı avı, tüfek/av sahneleri) kesildi. Orijinal ses yok. Kuyrukta sıradakiler: Laugh-O-Gram 1922 diğerleri (Little Red Riding Hood – kurt/yeme sahnesi riskli, Goldie Locks, Four Musicians of Bremen, Jack and the Beanstalk, Tommy Tucker's Tooth) Commons'ta mevcut olabilir – kareler incelenmedi.
+
+## 1 Kas
+- The Four Musicians of Bremen (1922, Laugh-O-Gram, PD) – ELENDİ (topçu/top atışı ve bombardıman sahneleri uzun sürüyor; silah teması, çocuğa uygun değil)
