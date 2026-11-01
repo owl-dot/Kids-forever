@@ -1,0 +1,40 @@
+SEPIA host=vod.newellijay.tv id=gFBVfMuzLKDSgHcGhiPzBq dur=253 lic=Public Domain Dedication views=20 Krazy Kat - Highway Snobbery
+SEPIA host=peertube.dngr.us id=tHbb16j3hW8cw2jxfdQVnQ dur=230 lic=Public Domain Dedication views=1 1924 FELIX THE CAT CARTOON  " FELIX OUT OF LUCK " (SILENT FILM) XD10654c
+SEPIA host=vod.newellijay.tv id=1CGifncYdjEVnVJR3DVXLZ dur=425 lic=Public Domain Dedication views=28 The Original Katzenjammer Kids: Policy and Pie (1918)
+SEPIA host=vod.newellijay.tv id=epB27gizi3XmPwz16kqxpq dur=586 lic=Attribution views=15 Puss in Boots (1922) - Walt Disney
+SEPIA host=vod.newellijay.tv id=e7s97oduHiZqWjWvsTLBuQ dur=347 lic=Public Domain Dedication views=14 The Ocean Hop - Oswald the Lucky Rabbit (1927)
+SEPIA host=peertube.chuggybumba.com id=eEs4bpoYoJbPNR9XXGA414 dur=360 lic=Public Domain Dedication views=18 Disney present a Mickey Mouse sound cartoon: "Plane Crazy"
+SEPIA host=peertube.dngr.us id=mwaxgyeLFphTeE1Akezytd dur=589 lic=Public Domain Dedication views=0 CASTLE NEWSREEL BOMBING OF PEARL HARBOR  DECEMBER 7, 1941 & BURNING OF LINER SS NORMANDIE XD38724
+SEPIA host=makertube.net id=4bqYXnHA2MTzD1GZagr3xd dur=323 lic=Attribution views=5 Silent
+SEPIA host=makertube.net id=tSpFoCjKHnkbu1so6bQSDu dur=285 lic=Attribution views=38 Silent Night
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=9JPzyMHTzZTEsZiF817v4R dur=378 lic=Attribution views=24 Silent Night - ALTO II | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=a9rfBaPmuHfrpHUYDWBfL5 dur=378 lic=Attribution views=19 Silent Night - TENOR I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=mk737z75DqXoLpU36nLYi6 dur=379 lic=Attribution views=16 Silent Night - BASS II | Arr Dan Forrest
+SEPIA host=makertube.net id=ajgZLbG9jBj4v5GNCF31CQ dur=348 lic=Public Domain Dedication views=14 Silent Borders
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=2by6BQyEHFdiJifzz76cr3 dur=378 lic=Attribution views=10 Silent Night - ALTO I | Arr Dan Forrest
+SEPIA host=diode.zone id=eLpUWN4DVa2UcPvc5uuZoM dur=121 lic=Attribution views=7 Silent Struggle: A Shadow's Journey
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=dMb1tJqGCnGgAwHCmir9Me dur=379 lic=Attribution views=5 Silent Night - SOPRANO I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=r4pUfiZ2xbvYeckGjmFnRB dur=379 lic=Attribution views=4 Silent Night - BASS I | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=82Hsd3UUFLLvrSfajgWJi8 dur=379 lic=Attribution views=3 Silent Night - SSAATTBB with PIANO | Arr Dan Forrest
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=ttmNnECKrrorfk8tg82hRJ dur=379 lic=Attribution views=3 Silent Night - PIANO ACCOMPANIMENT | Arr Dan Forrest
+SEPIA host=my-sunshine.video id=wrU9xRq6z49xCAY4kNY9ym dur=200 lic=Attribution views=2 "Silent Love, Anonymous"
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=f9tLSVCLm2p5GGz2vQZkUj dur=379 lic=Attribution views=2 Silent Night - SOPRANO II | Arr Dan Forrest
+SEPIA host=peertube.dngr.us id=r9kr4h1AxfSXVLfF9eALoC dur=233 lic=Public Domain Dedication views=0 "THE WORLD OF TOMORROW"  1939 OPENING OF NEW YORK WORLD'S FAIR  (SILENT FILM)  89644
+SEPIA host=tube-arts-lettres-sciences-humaines.apps.education.fr id=orHh4Lu9v8xKw6PG5GHGx7 dur=378 lic=Attribution views=0 Silent Night - TENOR II | Arr Dan Forrest
+SEPIA host=peertube.dngr.us id=qoh9afrpSegkiTkbjfc88A dur=766 lic=Public Domain Dedication views=0 SILENT NIGHT: THE STORY OF THE CHRISTMAS CAROL  1953 EDUCATIONAL FILM AUSTRIA XD49984
+SEPIA host=peertube.dngr.us id=6frLWZB4KykVJUTWpuJV32 dur=834 lic=Public Domain Dedication views=0 INVASION OF THE RYUKUS & BATTLE OF OKINAWA  SILENT WWII FOOTAGE  20404
+SEPIA host=toobnix.org id=oJ5MRUX3xxnhJVtUS3cNDY dur=164 lic=Attribution views=21 TI Silent 707 to IBM PC 5150 via local line simulator
+SEPIA host=tube.tchncs.de id=mHdtu8Xx1rGMFs3NEhdwdt dur=95 lic=Attribution views=19 The Silent Edit
+SEPIA host=peertube.dngr.us id=9NvxuEohwXD26zhX4wua1g dur=646 lic=Public Domain Dedication views=1 1940s SILENT FILM   GREAT LAKES ORE CARRIERS, PASSENGER STEAMERS & CARGO SHIPS 88224
+SEPIA host=peertube.dngr.us id=vs4RJn9342u2UMYLHtnrwx dur=698 lic=Public Domain Dedication views=1 I.B.M. MISSILE GUIDANCE COMPUTER SYSTEM FOR TITAN II ICBM FILM FOOTAGE (SILENT)  49994
+SEPIA host=video.triplea.fr id=fA8RFxeMNzUQd3Eoo79E7K dur=127 lic=Public Domain Dedication views=0 Digimind & Silent - Terraformers
+SEPIA host=video.triplea.fr id=5t6xUJ4EVGc6avUweKACP5 dur=153 lic=Public Domain Dedication views=0 Digimind & Silent - Collideride
+SEPIA host=video.triplea.fr id=7Yp1cDEqNtXgifmyaKqz8m dur=122 lic=Public Domain Dedication views=0 Digimind & Silent - Beats in motion
+SEPIA host=peertube.dngr.us id=7kQwArpcJFvgTziuzVJMx9 dur=386 lic=Public Domain Dedication views=0 F-104 SHORT AIR FIELD FOR TACTICAL SUPPORT (SATS)  AIRCRAFT MODIFICATION FOOTAGE (SILENT)  49414
+SEPIA host=peertube.dngr.us id=skmbxd2EuLWShZF4LsagW8 dur=449 lic=Public Domain Dedication views=0 U.S. AIR FORCE  SILENT FOOTAGE    F-86 SABRE JET TRAINER,  F-100 SUPER SABRE  JET FIGHTERS  60264
+SEPIA host=peertube.dngr.us id=cMJoThBPNtMkVRuL1KZbam dur=808 lic=Public Domain Dedication views=0 1946 SILENT TRAVELOGUE FILM   WASHINGTON, D.C. & NEW YORK CITY  TIMES SQUARE    XD50594
+SEPIA host=peertube.dngr.us id=fF6BbDjWdwFkPCunvH2wnQ dur=751 lic=Public Domain Dedication views=0 1960s HOME MOVIE   TRIP TO GERMANY  BADEN-WURTTEMBERG   TRIER  FRANKFURT  BADEN-BADEN (SILENT) 57444
+SEPIA host=peertube.dngr.us id=9b7B8CXu3SPCokvpE7MmQm dur=898 lic=Public Domain Dedication views=0 1930s KYOTO JAPAN 16mm HOME MOVIE   IMPERIAL PALACE  GION  NIKKO  PEARL DIVERS (SILENT FILM) 70544
+SEPIA host=peertube.dngr.us id=61JGd3R9dgT3DFiCCgFjmH dur=789 lic=Public Domain Dedication views=0 1946-47 OCCUPIED JAPAN HOME MOVIES  1st CAVALRY DIVISION  TOKYO  YOKOHAMA (SILENT FILM) 31244
+SEPIA host=peertube.dngr.us id=545ChopTQP46aSK4K6Uz1V dur=898 lic=Public Domain Dedication views=0 OCCUPIED JAPAN HOME MOVIE  1947  EIGHTH ARMY HQ  1st CAVALRY DIVISION YOKOHAMA   (SILENT) 31234
+SEPIA host=peertube.dngr.us id=8cgUrVkc6Rjg3zr7n4rvFs dur=357 lic=Public Domain Dedication views=0 OCEAN LINER M/V KENTAVROS ARRIVES IN PALERMO, ITALY  1968 HOME MOVIE (SILENT)  49424
