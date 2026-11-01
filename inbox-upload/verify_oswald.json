@@ -1,0 +1,20 @@
+{
+ "name": "verify_oswald",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/ktmRMV5ozbg/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/ktmRMV5ozbg/maxresdefault.jpg",
+  "title": "🐰✈️ Tavşan Oswald'ın Uçuş Yarışı | Türkçe Çizgi Film"
+ }
+}
