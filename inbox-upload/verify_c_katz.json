@@ -1,0 +1,20 @@
+{
+ "name": "verify_c_katz",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/2kCsjXzXdmI/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/2kCsjXzXdmI/maxresdefault.jpg",
+  "title": "🐸 Kurbağalı Pasta Şakası! Fındık ile Ceviz | Türkçe Çizgi Film"
+ }
+}
