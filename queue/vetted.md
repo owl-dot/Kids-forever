@@ -59,3 +59,4 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 2 Kas
 - Krazy Kat "Highway Snobbery" – ELENDİ (1936 Columbia yapımı, 1930 sonrası; PD sayılmaz)
 - The Original Katzenjammer Kids: Policy and Pie (1918, International Film Service, PD; vod.newellijay.tv 1CGifncYdjEVnVJR3DVXLZ, "Public Domain Dedication") – SEÇİLDİ 2 Kas, kareler incelendi (kurbağalı pasta şakası; 'zehir' dili anlatımda kullanılmadı). Anlatım c_katz.
+- Katzenjammer Kids "Policy and Pie" – YÜKLENDİ 2 Kas herkese açık (2kCsjXzXdmI) + Short (CTcOmz8gn5w). 0–414 sn kullanıldı, orijinal ses silindi. Kuyrukta: Oswald diğer bölümler (incelenmedi).
