@@ -1,0 +1,11 @@
+META name=The Original Katzenjammer Kids: Policy and Pie (1918) | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2022-10-25T23:08:22.320Z | desc=The Captain gets a life insurance policy and gives it to his wife. In gratitude she makes him a pie. The Katzenjammer Kids play a trick on the Captain and sneak toads into his pie so that he would think his wife is trying to poison him
+FULLDESC=The Captain gets a life insurance policy and gives it to his wife. In gratitude she makes him a pie. The Katzenjammer Kids play a trick on the Captain and sneak toads into his pie so that he would think his wife is trying to poison him
+480 https://vod.newellijay.tv/download/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-480.mp4
+360 https://vod.newellijay.tv/download/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-360.mp4
+144 https://vod.newellijay.tv/download/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-144.mp4
+480 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-480-fragmented.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/051f9c1f-b830-4df9-acec-2323d4dcbc05-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/051f9c1f-b830-4df9-acec-2323d4dcbc05/01413182-14b9-47b2-9c45-6e32a2810e9a-480-fragmented.mp4
+film http=200 bytes=32404241
+film ok bytes=31214252 640,480  425.266667 

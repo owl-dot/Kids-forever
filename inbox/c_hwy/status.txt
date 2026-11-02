@@ -1,0 +1,13 @@
+META name=Krazy Kat - Highway Snobbery | by=Videos from New Ellijay Television@vod.newellijay.tv | channel=Archives | lic=Public Domain Dedication | published=2022-10-16T12:36:56.030Z | desc=A silent cartoon with music by Wilbur Sweatman's Original Jazz Band.
+FULLDESC=A silent cartoon with music by Wilbur Sweatman's Original Jazz Band.
+1080 https://vod.newellijay.tv/download/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-1080.mp4
+720 https://vod.newellijay.tv/download/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-720.mp4
+360 https://vod.newellijay.tv/download/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-360.mp4
+144 https://vod.newellijay.tv/download/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-144.mp4
+1080 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-1080-fragmented.mp4
+720 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-720-fragmented.mp4
+360 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-360-fragmented.mp4
+144 https://vod.newellijay.tv/download/streaming-playlists/hls/videos/7f0138e8-a15c-460a-ae1c-f13c21fbfb92-144-fragmented.mp4
+chosen=https://vod.newellijay.tv/static/streaming-playlists/hls/7f0138e8-a15c-460a-ae1c-f13c21fbfb92/d412cf14-2962-4a81-b69a-fac6a6375909-1080-fragmented.mp4
+film http=200 bytes=90843148
+film ok bytes=32671744 1280,960  253.354000 
