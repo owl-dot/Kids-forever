@@ -55,3 +55,7 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 1 Kas
 - The Ocean Hop (Oswald the Lucky Rabbit, 1927, Winkler/Universal, PD – 1927 yapımı; vod.newellijay.tv e7s97oduHiZqWjWvsTLBuQ, maxrate 900k) – YÜKLENDİ 1 Kas herkese açık (ktmRMV5ozbg) + Short. Kesilen: açılış jenerik 0–6 sn, bitiş kartı, 314.8–317.6 ve 321.7–325 sn (Pit'in tüfek sahneleri); orijinal ses silindi. Tommy Tucker's Tooth canlı çekim (elendi). Kuyrukta sıradakiler: Oswald diğer bölümler (kareler incelenmedi), Katzenjammer Kids "Policy and Pie" 1918 (vod.newellijay 1CGifncYdjEVnVJR3DVXLZ, incelenmedi), Krazy Kat "Highway Snobbery" (gFBVfMuzLKDSgHcGhiPzBq, incelenmedi).
+
+## 2 Kas
+- Krazy Kat "Highway Snobbery" – ELENDİ (1936 Columbia yapımı, 1930 sonrası; PD sayılmaz)
+- The Original Katzenjammer Kids: Policy and Pie (1918, International Film Service, PD; vod.newellijay.tv 1CGifncYdjEVnVJR3DVXLZ, "Public Domain Dedication") – SEÇİLDİ 2 Kas, kareler incelendi (kurbağalı pasta şakası; 'zehir' dili anlatımda kullanılmadı). Anlatım c_katz.
