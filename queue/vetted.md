@@ -60,3 +60,7 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 - Krazy Kat "Highway Snobbery" – ELENDİ (1936 Columbia yapımı, 1930 sonrası; PD sayılmaz)
 - The Original Katzenjammer Kids: Policy and Pie (1918, International Film Service, PD; vod.newellijay.tv 1CGifncYdjEVnVJR3DVXLZ, "Public Domain Dedication") – SEÇİLDİ 2 Kas, kareler incelendi (kurbağalı pasta şakası; 'zehir' dili anlatımda kullanılmadı). Anlatım c_katz.
 - Katzenjammer Kids "Policy and Pie" – YÜKLENDİ 2 Kas herkese açık (2kCsjXzXdmI) + Short (CTcOmz8gn5w). 0–414 sn kullanıldı, orijinal ses silindi. Kuyrukta: Oswald diğer bölümler (incelenmedi).
+
+## 3 Kas
+- Oh Teacher (Oswald, 1927, Winkler/Universal, PD; Commons Oh_Teacher_(1927).webm, film_url=Special:FilePath/..., maxrate 900k) – YÜKLENDİ 3 Kas herkese açık (1U2q-Mzjr7c) + Short (6QiRAoVrOAE). 11–340 sn kullanıldı (jenerik/son kart kesildi), film sessiz. Kuyrukta sıradakiler (Commons'ta mevcut, incelenmedi): Oswald "All Wet" (1927), "Empty Socks" (1927), "The Mechanical Cow" (1927; indirildi inbox/c_mechcow, kareler incelenmedi), Alice Gets Stung/Jail Bird/Rattled by Rats (1925), Alice's Wonderland (1923).
+- Elenenler: Koko's Harem Scarem (1929; tema uygun değil), Colonel Heeza Liar (savaş/hayvan avı teması riskli).
