@@ -64,3 +64,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 3 Kas
 - Oh Teacher (Oswald, 1927, Winkler/Universal, PD; Commons Oh_Teacher_(1927).webm, film_url=Special:FilePath/..., maxrate 900k) – YÜKLENDİ 3 Kas herkese açık (1U2q-Mzjr7c) + Short (6QiRAoVrOAE). 11–340 sn kullanıldı (jenerik/son kart kesildi), film sessiz. Kuyrukta sıradakiler (Commons'ta mevcut, incelenmedi): Oswald "All Wet" (1927), "Empty Socks" (1927), "The Mechanical Cow" (1927; indirildi inbox/c_mechcow, kareler incelenmedi), Alice Gets Stung/Jail Bird/Rattled by Rats (1925), Alice's Wonderland (1923).
 - Elenenler: Koko's Harem Scarem (1929; tema uygun değil), Colonel Heeza Liar (savaş/hayvan avı teması riskli).
+
+## 4 Kas
+- The Mechanical Cow (Oswald, 1927, Winkler/Universal, PD; Commons, inbox/c_mechcow) – SEÇİLDİ 4 Kas, kareler incelendi (robot inek, araba kovalamacası, uçurum; hafif slapstick). 14–362 sn kullanılacak, orijinal ses yok.
