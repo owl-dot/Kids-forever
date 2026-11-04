@@ -67,3 +67,4 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 4 Kas
 - The Mechanical Cow (Oswald, 1927, Winkler/Universal, PD; Commons, inbox/c_mechcow) – SEÇİLDİ 4 Kas, kareler incelendi (robot inek, araba kovalamacası, uçurum; hafif slapstick). 14–362 sn kullanılacak, orijinal ses yok.
+- The Mechanical Cow – YÜKLENDİ 4 Kas herkese açık (HgvfLBvFPiU) + Short (I7OxH5aJd88). 14–362 sn, orijinal ses yok. Kuyrukta: Oswald All Wet, Empty Socks (Commons, incelenmedi), Alice Comedies.
