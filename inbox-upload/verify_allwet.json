@@ -1,0 +1,28 @@
+{
+ "name": "verify_allwet",
+ "maxresdefault": [
+  200,
+  119898
+ ],
+ "hqdefault": [
+  200,
+  15626
+ ],
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/Qx7NUQ0m2bk/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/Qx7NUQ0m2bk/maxresdefault.jpg",
+  "title": "🐰 Tavşan Ozi'nin Sahil Macerası | Türkçe Çizgi Film"
+ }
+}
