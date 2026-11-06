@@ -71,3 +71,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 5 Kas
 - All Wet (Oswald, 1927, Winkler/Universal, PD; Commons All_Wet_(1927).webm, maxrate 900k) – YÜKLENDİ 5 Kas herkese açık (Qx7NUQ0m2bk) + Short (wk46DVipd-I). 19–390 sn kullanıldı (jenerik/son kart kesildi), film sessiz. Not: upload.yml sonuç dosyası yarışta kaybolabilir → "stats" isteğiyle (uploads/stats_x.json {"stats":true}) kanal listesi çekip ID bulundu, çift yükleme yapılmadı. Kuyrukta: Oswald Empty Socks (Commons, incelenmedi), Alice Comedies.
+
+## 6 Kas
+- Empty Socks (Oswald, 1927, Commons "Oswald The Lucky Rabbit in Empty Socks (1927).webm") – ELENDİ (yetimhane yangını, benzin tankı/yangın sahneleri; ayrıca ekranda gömülü zaman kodu var).
