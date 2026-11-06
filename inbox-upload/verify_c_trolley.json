@@ -1,0 +1,20 @@
+{
+ "name": "verify_c_trolley",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/DkHDr5-ITMM/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/DkHDr5-ITMM/maxresdefault.jpg",
+  "title": "🚃 Tramvay Belası – Tavşan Oswald ve İnatçı İnek | Türkçe Çizgi Film"
+ }
+}
