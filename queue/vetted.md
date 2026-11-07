@@ -77,3 +77,7 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 6 Kas
 - Trolley Troubles (Oswald, 1927, Winkler/Universal, PD; Commons "Trolley_Troubles_(1927).webm", maxrate 900k) – YÜKLENDİ 6 Kas herkese açık (DkHDr5-ITMM) + Short (pRI7wrUJBaQ). 18–338 sn kullanıldı (jenerik/son kart kesildi), film sessiz. Not: ana ses fetch run'ı takıldı → iptal + workflow_dispatch ile çözüldü. Kuyrukta: Alice Comedies (Commons: Alice Gets Stung, Jail Bird, Rattled by Rats, Solves the Puzzle, Chops the Suey, Tin Pony, Balloon Race — incelenmedi).
+
+## 7 Kas
+- Alice Rattled by Rats (1925) – ELENDİ (kedi tüfekle fare avlıyor, "Home Brew" fıçısı/içki).
+- Alice Gets Stung (1925, Winkler/Raytone, PD; Commons Alice_Gets_Stung.webm, inbox/c_stung, 496x416, sessiz) – SEÇİLDİ 7 Kas, kareler incelendi (kedi-tavşan kovalamaca, ayılar, arılar; hafif slapstick). 20–502 sn, 1.5x hız.
