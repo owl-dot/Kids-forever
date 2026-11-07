@@ -1,0 +1,20 @@
+{
+ "name": "verify_stung",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/mDUU6nM0B7U/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/mDUU6nM0B7U/maxresdefault.jpg",
+  "title": "🐱🐰 Kedi Mırmır ile Tavşan Pamuk | Türkçe Çizgi Film"
+ }
+}
