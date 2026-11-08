@@ -85,3 +85,4 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 
 ## 8 Kas
 - Alice Solves the Puzzle (1925, Winkler/Raytone, PD; Commons Alice_Solves_the_Puzzle.webm, inbox/c_puzzle, sessiz) – SEÇİLDİ, kareler incelendi (kedi, ayı Pete, deniz/fener; hafif slapstick). 13–125 ve 131–398 sn, 1.5x hız, 'Bootleg Pete' ara kartı kesildi.
+- Alice Solves the Puzzle – YÜKLENDİ 8 Kas herkese açık (lkOhj_dTHW8) + Short (yqn61WUe-cg). Film sessiz, 1.5x hız. Kuyrukta: Alice Comedies Commons (Jail Bird, Chops the Suey, Tin Pony, Balloon Race; incelenmedi). Not: Commons dosya adı tahmini (Alice_Solves_the_Puzzle.webm) çalıştı.
