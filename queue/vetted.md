@@ -82,3 +82,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 - Alice Rattled by Rats (1925) – ELENDİ (kedi tüfekle fare avlıyor, "Home Brew" fıçısı/içki).
 - Alice Gets Stung (1925, Winkler/Raytone, PD; Commons Alice_Gets_Stung.webm, inbox/c_stung, 496x416, sessiz) – SEÇİLDİ 7 Kas, kareler incelendi (kedi-tavşan kovalamaca, ayılar, arılar; hafif slapstick). 20–502 sn, 1.5x hız.
 - Alice Gets Stung – YÜKLENDİ 7 Kas herkese açık (mDUU6nM0B7U) + Short (Nnpj6-brt2I). 20–502 sn, 1.5x hız, film sessiz. Kuyrukta: Alice Comedies Commons (Jail Bird, Solves the Puzzle, Chops the Suey, Tin Pony, Balloon Race; incelenmedi). Not: Commons sayfaları WebFetch ile açılmıyor, WebSearch ile dosya adı bulunur.
+
+## 8 Kas
+- Alice Solves the Puzzle (1925, Winkler/Raytone, PD; Commons Alice_Solves_the_Puzzle.webm, inbox/c_puzzle, sessiz) – SEÇİLDİ, kareler incelendi (kedi, ayı Pete, deniz/fener; hafif slapstick). 13–125 ve 131–398 sn, 1.5x hız, 'Bootleg Pete' ara kartı kesildi.
