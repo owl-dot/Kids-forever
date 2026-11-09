@@ -1,0 +1,19 @@
+{
+ "name": "short_c_egg",
+ "video_id": "8OYW6jLY36w",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/8OYW6jLY36w/default.jpg",
+  "thumb_max": null,
+  "title": "🐔 Tavuklar Grev Yaptı! Yumurta Nasıl Gelecek? #Shorts"
+ },
+ "ok": true
+}
