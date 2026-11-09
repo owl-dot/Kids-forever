@@ -86,3 +86,8 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 8 Kas
 - Alice Solves the Puzzle (1925, Winkler/Raytone, PD; Commons Alice_Solves_the_Puzzle.webm, inbox/c_puzzle, sessiz) – SEÇİLDİ, kareler incelendi (kedi, ayı Pete, deniz/fener; hafif slapstick). 13–125 ve 131–398 sn, 1.5x hız, 'Bootleg Pete' ara kartı kesildi.
 - Alice Solves the Puzzle – YÜKLENDİ 8 Kas herkese açık (lkOhj_dTHW8) + Short (yqn61WUe-cg). Film sessiz, 1.5x hız. Kuyrukta: Alice Comedies Commons (Jail Bird, Chops the Suey, Tin Pony, Balloon Race; incelenmedi). Not: Commons dosya adı tahmini (Alice_Solves_the_Puzzle.webm) çalıştı.
+
+## 9 Kas
+- Alice's Tin Pony (1925) – ELENDİ (silahlı haydutlar, soygun, şişe/içki sahneleri).
+- Alice Chops the Suey (1925) – ELENDİ (kılıç/hançer dövüşü, klişe Çin temsili).
+- Commons gerçek dosya adları (peertube_search ile bulundu): "Alice's Balloon Race (1926).webm", "Alice's Egg Plant (1925) silent.webm", "Alice the Jail Bird (1925).webm"; film_url=Special:FilePath/Alice's_Balloon_Race_(1926).webm

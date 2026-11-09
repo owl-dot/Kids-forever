@@ -1,2 +1,0 @@
-film http=200 bytes=111401321
-film ok bytes=42326715 714,480  408.508100 
