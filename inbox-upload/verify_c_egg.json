@@ -1,0 +1,20 @@
+{
+ "name": "verify_c_egg",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/MSMUwwbiLv4/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/MSMUwwbiLv4/maxresdefault.jpg",
+  "title": "🥚 Alis'in Yumurta Çiftliği! Tavuklar Grev Yapıyor | Türkçe Çizgi Film"
+ }
+}
