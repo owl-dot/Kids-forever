@@ -91,3 +91,7 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 - Alice's Tin Pony (1925) – ELENDİ (silahlı haydutlar, soygun, şişe/içki sahneleri).
 - Alice Chops the Suey (1925) – ELENDİ (kılıç/hançer dövüşü, klişe Çin temsili).
 - Commons gerçek dosya adları (peertube_search ile bulundu): "Alice's Balloon Race (1926).webm", "Alice's Egg Plant (1925) silent.webm", "Alice the Jail Bird (1925).webm"; film_url=Special:FilePath/Alice's_Balloon_Race_(1926).webm
+
+## 9 Kas (devam)
+- Alice's Egg Plant (1925, Winkler/Raytone, PD; Commons "Alice's_Egg_Plant_(1925)_silent.webm", maxrate 900k) – YÜKLENDİ 9 Kas herkese açık (MSMUwwbiLv4) + Short (8OYW6jLY36w). 13–296 ve 327.5–491 sn, 1.5x hız; 296–327.5 (tavuk kavgası) kesildi; film sessiz. Kredi 1381 + 278.
+- Alice's Balloon Race (1926) – kareler incelendi, ADAY (top atışı/patlama sahnesi var, şüpheli; seçilmedi). Kuyrukta: Alice the Jail Bird (1925; Commons "Alice the Jail Bird (1925).webm", incelenmedi).
