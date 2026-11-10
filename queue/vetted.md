@@ -95,3 +95,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 9 Kas (devam)
 - Alice's Egg Plant (1925, Winkler/Raytone, PD; Commons "Alice's_Egg_Plant_(1925)_silent.webm", maxrate 900k) – YÜKLENDİ 9 Kas herkese açık (MSMUwwbiLv4) + Short (8OYW6jLY36w). 13–296 ve 327.5–491 sn, 1.5x hız; 296–327.5 (tavuk kavgası) kesildi; film sessiz. Kredi 1381 + 278.
 - Alice's Balloon Race (1926) – kareler incelendi, ADAY (top atışı/patlama sahnesi var, şüpheli; seçilmedi). Kuyrukta: Alice the Jail Bird (1925; Commons "Alice the Jail Bird (1925).webm", incelenmedi).
+
+## 10 Kas
+- Alice the Jail Bird (1925) – ELENDİ (revolver/cop sopası, hapishane, nöbetçi tüfeği). Alice's Balloon Race da ELENDİ (top atışı). Sıradaki denemeler: Alice's Day at Sea, Alice's Wonderland (dosya adı tahmini).
