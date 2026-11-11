@@ -99,3 +99,6 @@ Yeni film için: requests/<ad>.json {"name","peertube_host","peertube_id"}. GitH
 ## 10 Kas
 - Alice the Jail Bird (1925) – ELENDİ (revolver/cop sopası, hapishane, nöbetçi tüfeği). Alice's Balloon Race da ELENDİ (top atışı). Sıradaki denemeler: Alice's Day at Sea, Alice's Wonderland (dosya adı tahmini).
 - Alice's Wonderland (1923, Laugh-O-Gram/Disney, PD; Commons "Alice's_Wonderland_(1923).webm", maxrate 900k) – YÜKLENDİ 10 Kas herkese açık (Ekb2_49FZbA) + Short (m4RO9It9gqo). 258–738 sn (stüdyo canlı çekim kısmı kesildi), 1.5x hız, film sesi silindi. Kredi 773 + 270. "Alice's_Day_at_Sea_(1924).webm" 404 (dosya adı yanlış). Kuyrukta: Alice Comedies diğerleri.
+
+## 11 Kas
+- Rival Rome­os (Oswald, 1928, Winkler/Universal, PD; Commons "Rival_Romeos_(1928).webm", maxrate 900k) – YÜKLENDİ 11 Kas herkese açık (Qa-GEhQXs4M). 6–366 sn, 1.5x hız, film sessiz. Kuyrukta: Neck 'N' Neck (1928, Commons "Neck_'N'_Neck_(1928)_Oswald_The_Lucky_Rabbit.webm", inbox/c_neck, 2 dk, kareler incelenmedi). Commons arama: requests'e {"peertube_search":"..."} (status.txt'de COMMONS satırları): Poor Papa, Tall Timber, The Fox Chase (1928) intertitle dosyaları var, film adı arayın.
