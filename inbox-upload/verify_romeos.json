@@ -1,0 +1,20 @@
+{
+ "name": "verify_romeos",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": true,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/Qa-GEhQXs4M/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/Qa-GEhQXs4M/maxresdefault.jpg",
+  "title": "🌼 Tavşan Ozi'nin Çiçekleri | Türkçe Çizgi Film"
+ }
+}
