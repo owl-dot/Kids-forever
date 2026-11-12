@@ -1,19 +1,19 @@
-# Günlük CGI ipucu Shorts — kullanılan konular
-Format: 15 sn, 1080x1920, three.js CGI (tools/cgi/scene_tab.html şablonu), seslendirme yok, made_for_kids=false.
+# Daily CGI tip Shorts (English) — used topics
+Channel: International Tips. Format: 15 s, 1080x1920, three.js CGI (tools/cgi/scene_tab.html, English), no voiceover, made_for_kids=false, lang=en.
 
-## KULLANILDI
-- Tip01 | 2026-11-12 | Kapanan sekmeyi geri açma: Ctrl+Shift+T (Mac Cmd+Shift+T) | jvBzjBaYalI
+## USED
+- Tip01 | 2026-11-12 | Reopen closed tab: Ctrl+Shift+T (Mac Cmd+Shift+T) | eMTmK2ncEK4  (Turkish version jvBzjBaYalI hidden)
 
-## FİKİR HAVUZU (kullanınca yukarı taşı)
-- Ekran görüntüsü alma: Win+Shift+S (Mac Cmd+Shift+4)
-- Masaüstünü anında gösterme: Win+D
-- Pano geçmişi: Win+V
-- Yanlışlıkla silinen metni geri alma: Ctrl+Z / tekrar Ctrl+Y
-- Emoji paneli: Win + . (Mac Ctrl+Cmd+Space)
-- Pencereyi ekranın yarısına yapıştırma: Win + Sol/Sağ ok
-- Görev Yöneticisi kısayolu: Ctrl+Shift+Esc
-- Tarayıcıda gizli sekme: Ctrl+Shift+N
-- Sayfada kelime bulma: Ctrl+F
-- Bilgisayarı kilitleme: Win+L
-- Yapıştırırken biçimi kaldırma: Ctrl+Shift+V
-- Adres çubuğuna hızlı gitme: Ctrl+L
+## IDEA POOL (move to USED when done)
+- Screenshot a part of the screen: Win+Shift+S (Mac Cmd+Shift+4)
+- Show desktop instantly: Win+D (Mac: F11 / Cmd+F3)
+- Clipboard history: Win+V
+- Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
+- Emoji panel: Win + . (Mac Ctrl+Cmd+Space)
+- Snap window to half screen: Win + Left/Right
+- Open Task Manager directly: Ctrl+Shift+Esc
+- Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
+- Find a word on a page: Ctrl+F (Mac Cmd+F)
+- Lock your computer: Win+L (Mac Ctrl+Cmd+Q)
+- Paste without formatting: Ctrl+Shift+V (Mac Cmd+Shift+Option+V)
+- Jump to address bar: Ctrl+L (Mac Cmd+L)
