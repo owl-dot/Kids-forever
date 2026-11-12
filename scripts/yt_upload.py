@@ -96,7 +96,7 @@ try:
         sys.exit(0)
     meta = {"snippet": {"title": req["title"], "description": req["description"],
                         "tags": req.get("tags", []), "categoryId": req.get("category", "1"),
-                        "defaultLanguage": "tr", "defaultAudioLanguage": "tr"},
+                        "defaultLanguage": req.get("lang", "tr"), "defaultAudioLanguage": req.get("lang", "tr")},
             "status": {"privacyStatus": req.get("privacy", "public"),
                        "selfDeclaredMadeForKids": bool(req.get("made_for_kids", True)), "embeddable": True}}
     data = open(req["video"], "rb").read()

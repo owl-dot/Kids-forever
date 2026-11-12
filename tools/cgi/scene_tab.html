@@ -1,5 +1,5 @@
 <!doctype html>
-<html><head><meta charset="utf-8">
+<html lang="en"><head><meta charset="utf-8">
 <style>
 @font-face{font-family:P;src:url(fonts/Poppins-Bold.ttf);font-weight:700}
 @font-face{font-family:P;src:url(fonts/Poppins-Medium.ttf);font-weight:500}
@@ -28,20 +28,20 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#0d1230
 #end .t3{margin-top:60px;font-size:40px;font-weight:500;color:#cfd6ff}
 </style></head><body>
 <canvas id="c" width="1080" height="1920"></canvas>
-<div id="title" class="ov"><div class="l1">Yanlışlıkla kapattığın sekmeyi</div><div class="l2">1 saniyede geri getir!</div></div>
-<div id="bm" class="bub">Eyvah! Sekmeyi yanlışlıkla kapattım...</div>
-<div id="bh" class="bub">Merak etme! 3 tuşla geri gelir.</div>
+<div id="title" class="ov"><div class="l1">Closed a tab by accident?</div><div class="l2">Get it back in 1 second!</div></div>
+<div id="bm" class="bub">Oops! I closed the tab by accident...</div>
+<div id="bh" class="bub">Don’t worry! 3 keys bring it back.</div>
 <div id="steps" class="ov">
- <div class="step" id="s1"><span class="num">1</span>Ctrl'e basılı tut</div><br>
- <div class="step" id="s2"><span class="num">2</span>Shift'e basılı tut</div><br>
- <div class="step" id="s3"><span class="num">3</span>T'ye bas</div>
+ <div class="step" id="s1"><span class="num">1</span>Hold Ctrl</div><br>
+ <div class="step" id="s2"><span class="num">2</span>Hold Shift</div><br>
+ <div class="step" id="s3"><span class="num">3</span>Press T</div>
 </div>
-<div id="mac" class="ov"><span style="display:inline-block;padding:12px 32px;border-radius:40px;background:rgba(15,22,60,.85)">Mac'te: Cmd + Shift + T</span></div>
+<div id="mac" class="ov"><span style="display:inline-block;padding:12px 32px;border-radius:40px;background:rgba(15,22,60,.85)">On Mac: Cmd + Shift + T</span></div>
 <div id="end" class="ov">
  <div class="keys"><span class="k">Ctrl</span><span class="plus">+</span><span class="k">Shift</span><span class="plus">+</span><span class="k">T</span></div>
- <div class="t1">Kapanan sekme geri gelir</div>
- <div class="t2">Tüm tarayıcılarda çalışır</div>
- <div class="t3">Kaydet, lazım olur!</div>
+ <div class="t1">Your closed tab comes back</div>
+ <div class="t2">Works in every major browser</div>
+ <div class="t3">Save this for later!</div>
 </div>
 <script type="module">
 import * as THREE from './lib/three.module.js';
@@ -173,7 +173,7 @@ function drawScreen(t){const g=sx;g.fillStyle='#0f1330';g.fillRect(0,0,1024,620)
  g.fillStyle='#1d2350';g.fillRect(0,0,1024,96);
  // tabs
  const close=ss(2.3,2.75,t),reopen=ss(10.0,10.35,t);const recW=lerp(lerp(270,0,close),270,reopen);
- const tabs=[['Mail','#2AD4C0',270],['Harita','#FFD34D',270],['Tarif','#FF7A59',recW]];
+ const tabs=[['Mail','#2AD4C0',270],['Maps','#FFD34D',270],['Recipe','#FF7A59',recW]];
  let x=16;const active=(close>0.5&&reopen<0.5)?1:2;
  tabs.forEach(([n,c,w],i)=>{if(w<4)return;g.save();g.globalAlpha=cl(w/270);rr(g,x,22,w-10,74,16);g.fillStyle=i===active?'#f4f6ff':'#2c336b';g.fill();
   g.fillStyle=c;g.beginPath();g.arc(x+34,59,13,0,7);g.fill();g.fillStyle=i===active?'#1b2147':'#c9cff5';g.font='600 34px P';g.textBaseline='middle';g.fillText(n,x+60,60);
@@ -182,13 +182,13 @@ function drawScreen(t){const g=sx;g.fillStyle='#0f1330';g.fillRect(0,0,1024,620)
  if(t>1.7&&t<2.6){const cx=lerp(700,16+270+270+270-58,ss(1.7,2.2,t)),cy=lerp(420,60,ss(1.7,2.2,t));drawCursor(g,cx,cy,t>2.2&&t<2.4)}
  g.fillStyle='#f4f6ff';g.fillRect(0,96,1024,524);
  if(active===2){ // recipe page
-  g.fillStyle='#FF7A59';rr(g,48,130,928,150,24);g.fill();g.fillStyle='#fff';g.font='700 54px P';g.textBaseline='middle';g.fillText('Annemin Kek Tarifi',90,205);
-  g.fillStyle='#1b2147';g.font='600 34px P';['3 yumurta','1 su bardağı şeker','2 su bardağı un','1 paket kabartma tozu'].forEach((s,i)=>{g.fillStyle='#FFD34D';g.beginPath();g.arc(80,340+i*62,10,0,7);g.fill();g.fillStyle='#1b2147';g.fillText(s,105,342+i*62)});
+  g.fillStyle='#FF7A59';rr(g,48,130,928,150,24);g.fill();g.fillStyle='#fff';g.font='700 54px P';g.textBaseline='middle';g.fillText('Mom’s Cake Recipe',90,205);
+  g.fillStyle='#1b2147';g.font='600 34px P';['3 eggs','1 cup sugar','2 cups flour','2 tsp baking powder'].forEach((s,i)=>{g.fillStyle='#FFD34D';g.beginPath();g.arc(80,340+i*62,10,0,7);g.fill();g.fillStyle='#1b2147';g.fillText(s,105,342+i*62)});
   g.fillStyle='#ffe2d8';rr(g,620,320,330,250,24);g.fill();g.fillStyle='#e8a06a';g.beginPath();g.ellipse(785,470,120,60,0,0,7);g.fill();g.fillStyle='#c8733f';g.fillRect(665,410,240,60);g.fillStyle='#f2c38b';g.beginPath();g.ellipse(785,410,120,40,0,0,7);g.fill();
  }else{ // map page
   g.fillStyle='#dfe9e3';g.fillRect(0,96,1024,524);g.strokeStyle='#ffffff';g.lineWidth=26;g.beginPath();g.moveTo(0,400);g.lineTo(1024,330);g.moveTo(380,96);g.lineTo(460,620);g.stroke();
   g.fillStyle='#b9dcc4';rr(g,560,140,300,150,20);g.fill();g.fillStyle='#FF7A59';g.beginPath();g.arc(470,350,26,0,7);g.fill();
-  g.fillStyle='#7d84b8';g.font='600 34px P';g.fillText('Tarif nerede?',60,560);}
+  g.fillStyle='#7d84b8';g.font='600 34px P';g.fillText('Where’s the recipe?',60,560);}
  if(reopen>0&&reopen<1||t>10.35&&t<11.0){const a=t<10.35?reopen:1-ss(10.35,11.0,t);g.save();g.globalAlpha=a*0.9;g.strokeStyle='#FFD34D';g.lineWidth=10;rr(g,16+540,18,262,82,18);g.stroke();g.restore()}
  stx.needsUpdate=true}
 function drawCursor(g,x,y,click){g.save();g.translate(x,y);g.fillStyle='#fff';g.strokeStyle='#1b2147';g.lineWidth=4;g.beginPath();g.moveTo(0,0);g.lineTo(0,44);g.lineTo(12,33);g.lineTo(22,54);g.lineTo(30,50);g.lineTo(20,30);g.lineTo(36,30);g.closePath();g.fill();g.stroke();
@@ -234,7 +234,7 @@ window.renderAt=function(t){
  // overlays
  title.style.transform=`translateY(${lerp(-40,0,ss(0,0.5,t))}px)`;pop(title,0.15,1.9,t,0.5);
  place(bm,headG.getWorldPosition(V(0,0,0)).add(V(0,0.25,0)),-120,-200);pop(bm,2.7,4.6,t);
- if(t>10.9){bm.textContent='Süper, geri geldi!';place(bm,headG.getWorldPosition(V(0,0,0)).add(V(0,0.25,0)),-120,-200);pop(bm,11.0,13.2,t)}
+ if(t>10.9){bm.textContent='Yes! It’s back!';place(bm,headG.getWorldPosition(V(0,0,0)).add(V(0,0.25,0)),-120,-200);pop(bm,11.0,13.2,t)}
  place(bh,helper.getWorldPosition(V(0,0,0)).add(V(0,0.2,0)),-470,-330);pop(bh,4.8,6.85,t);
  stepsE.forEach((e,i)=>{const a=7.05+i*0.9;e.style.transform='';const v=pop(e,a+0.1,10.0,t);});
  mac.style.transform='';const mv=pop(mac,8.9,13.1,t);
