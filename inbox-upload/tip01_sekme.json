@@ -1,0 +1,19 @@
+{
+ "name": "tip01_sekme",
+ "video_id": "jvBzjBaYalI",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/jvBzjBaYalI/default.jpg",
+  "thumb_max": null,
+  "title": "Kapattığın sekmeyi 1 saniyede geri getir! 💻⚡ #Shorts"
+ },
+ "ok": true
+}
