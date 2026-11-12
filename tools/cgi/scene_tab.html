@@ -19,6 +19,16 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#0d1230
 .step{display:inline-flex;align-items:center;gap:22px;margin:12px 0;padding:18px 40px 18px 18px;background:rgba(15,22,60,.82);border:3px solid rgba(255,255,255,.18);border-radius:60px;font-size:46px;font-weight:700;color:#fff;opacity:0}
 .num{width:72px;height:72px;border-radius:50%;background:#2AD4C0;color:#0d1230;display:flex;align-items:center;justify-content:center;font-size:42px}
 #mac{top:1780px;font-size:38px;font-weight:700;color:#FFD34D;opacity:0}
+#cta{top:0;height:1920px;background:radial-gradient(circle at 50% 40%,#2a3180,#0d1230 75%);opacity:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+#cta .q{font-size:70px;font-weight:700;line-height:1.15;padding:0 60px}
+#cta .q span{color:#FFD34D}
+#cta .row{display:flex;gap:40px;margin-top:90px;align-items:center}
+.btn{display:flex;align-items:center;gap:22px;padding:30px 52px;border-radius:80px;font-size:54px;font-weight:700;box-shadow:0 18px 40px rgba(0,0,0,.4);transition:none}
+#like{background:#ffffff;color:#1b2147}
+#sub{background:#ff2d2d;color:#fff}
+.btn svg{width:64px;height:64px}
+#cta .s{margin-top:80px;font-size:44px;font-weight:500;color:#cfd6ff}
+#hand{position:absolute;width:120px;height:120px;opacity:0}
 #end{top:0;height:1920px;background:radial-gradient(circle at 50% 45%,rgba(13,18,48,.55),rgba(13,18,48,.92));opacity:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
 .keys{display:flex;gap:22px;align-items:center;font-size:70px;font-weight:700}
 .k{padding:22px 38px;border-radius:26px;background:linear-gradient(#ffffff,#d9defa);color:#1b2147;box-shadow:0 12px 0 #8d96c9,0 22px 40px rgba(0,0,0,.4)}
@@ -42,6 +52,15 @@ html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#0d1230
  <div class="t1">Your closed tab comes back</div>
  <div class="t2">Works in every major browser</div>
  <div class="t3">Save this for later!</div>
+</div>
+<div id="cta" class="ov">
+ <div class="q">Want more tips<br>like this? <span>Don’t miss out!</span></div>
+ <div class="row">
+  <div class="btn" id="like"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M2 10h4v11H2zM8 21h9.2a2 2 0 0 0 2-1.6l1.6-7A2 2 0 0 0 18.8 10H14l.8-4.2A1.8 1.8 0 0 0 11.6 4L8 10z"/></svg><span id="liket">LIKE</span></div>
+  <div class="btn" id="sub"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 22a2.5 2.5 0 0 0 2.4-2h-4.8a2.5 2.5 0 0 0 2.4 2zm7-6V11a7 7 0 0 0-5.5-6.8V3.5a1.5 1.5 0 0 0-3 0v.7A7 7 0 0 0 5 11v5l-2 2v1h18v-1z"/></svg><span id="subt">SUBSCRIBE</span></div>
+ </div>
+ <div class="s">A new life-saving tip every day</div>
+ <svg id="hand" viewBox="0 0 24 24"><path fill="#fff" stroke="#1b2147" stroke-width="1" d="M9 11V4.5a1.5 1.5 0 0 1 3 0V10l.5-.1a1.5 1.5 0 0 1 2.9.4l.1.2a1.5 1.5 0 0 1 2.8.6v.4a1.4 1.4 0 0 1 2.7.6V16a6 6 0 0 1-6 6h-1.4a6 6 0 0 1-4.6-2.2L4.6 15a1.5 1.5 0 0 1 2.3-1.9L9 15z"/></svg>
 </div>
 <script type="module">
 import * as THREE from './lib/three.module.js';
@@ -164,7 +183,7 @@ const SH=[[0,1.8,V(2.0,1.8,-1.0),V(1.6,1.62,-0.75),V(0.05,1.1,0.25),V(0.05,1.15,
  [4.6,9.95,V(1.95,1.55,-0.05),V(1.75,1.52,0.02),V(0.0,1.45,0.3),V(0.0,1.45,0.3)],
  [9.95,11.0,V(0.3,1.36,0.56),V(0.24,1.33,0.44),V(0.03,1.31,-0.2),V(0.05,1.31,-0.2)],
  [11.0,13.2,V(1.9,1.55,-0.05),V(1.7,1.5,0.02),V(0.0,1.45,0.3),V(0.0,1.45,0.3)],
- [13.2,15.01,V(1.9,1.8,-1.0),V(2.3,2.0,-1.25),V(0.1,1.12,0.2),V(0.1,1.1,0.2)]];
+ [13.2,17.01,V(1.9,1.8,-1.0),V(2.6,2.2,-1.45),V(0.1,1.12,0.2),V(0.1,1.1,0.2)]];
 function camAt(t){let s=SH.find(s=>t>=s[0]&&t<s[1])||SH[SH.length-1];const x=ss(s[0],s[1],t)*0.6+cl((t-s[0])/(s[1]-s[0]))*0.4;
  return[s[2].clone().lerp(s[3],x),s[4].clone().lerp(s[5],x)]}
 // screen drawing
@@ -238,7 +257,16 @@ window.renderAt=function(t){
  place(bh,helper.getWorldPosition(V(0,0,0)).add(V(0,0.2,0)),-470,-330);pop(bh,4.8,6.85,t);
  stepsE.forEach((e,i)=>{const a=7.05+i*0.9;e.style.transform='';const v=pop(e,a+0.1,10.0,t);});
  mac.style.transform='';const mv=pop(mac,8.9,13.1,t);
- end.style.transform='';const ev=ss(13.25,13.7,t);end.style.opacity=ev;end.querySelector('.keys').style.transform=`scale(${lerp(0.7,1,eob((t-13.25)/0.6))})`;
+ end.style.transform='';const ev=ss(13.25,13.7,t)*(1-ss(14.85,15.1,t));end.style.opacity=ev;
+ {const c=$('cta');const cv=ss(14.9,15.2,t);c.style.opacity=cv;c.style.transform=`scale(${lerp(1.06,1,cv)})`;
+  const lk=$('like'),sb=$('sub'),h=$('hand');
+  const lon=t>15.65;lk.style.background=lon?'#3d7bff':'#ffffff';lk.style.color=lon?'#fff':'#1b2147';lk.style.transform=`scale(${t>15.65&&t<15.85?1.12:1})`;$('liket').textContent=lon?'LIKED':'LIKE';
+  const son=t>16.2;sb.style.background=son?'#3a3f66':'#ff2d2d';sb.style.transform=`scale(${t>16.2&&t<16.4?1.12:1})`;$('subt').textContent=son?'SUBSCRIBED':'SUBSCRIBE';
+  const lr=lk.getBoundingClientRect(),sr=sb.getBoundingClientRect();
+  const k=ss(15.25,15.6,t),k2=ss(15.85,16.15,t);
+  const hx=lerp(lerp(900,lr.left+lr.width*0.5,k),sr.left+sr.width*0.5,k2),hy=lerp(lerp(1600,lr.top+lr.height*0.6,k),sr.top+sr.height*0.6,k2);
+  const tap=(t>15.55&&t<15.7)||(t>16.12&&t<16.27)?0.88:1;
+  h.style.opacity=cv*(1-ss(16.6,16.9,t));h.style.left=(hx-30)+'px';h.style.top=(hy-10)+'px';h.style.transform=`scale(${tap})`;}end.querySelector('.keys').style.transform=`scale(${lerp(0.7,1,eob((t-13.25)/0.6))})`;
 };
 window.renderAt(0);window.ready=true;
 </script></body></html>
