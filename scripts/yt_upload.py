@@ -56,6 +56,29 @@ try:
                              "privacy": it["status"]["privacyStatus"]})
         done({"ok": True, "channel": c["statistics"], "videos": vids})
         sys.exit(0)
+    if req.get("set_privacy_all"):
+        target = req["set_privacy_all"]; keep = set(req.get("except", []))
+        ch = requests.get("https://www.googleapis.com/youtube/v3/channels?part=contentDetails&mine=true", headers=H).json()
+        up = ch["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+        ids = []; tok = ""
+        while True:
+            pl = requests.get("https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=" + up + tok, headers=H).json()
+            ids += [i["contentDetails"]["videoId"] for i in pl.get("items", [])]
+            if not pl.get("nextPageToken"): break
+            tok = "&pageToken=" + pl["nextPageToken"]
+        changed, skipped, failed = [], [], []
+        for k in range(0, len(ids), 50):
+            v = requests.get("https://www.googleapis.com/youtube/v3/videos?part=status&id=" + ",".join(ids[k:k+50]), headers=H).json()
+            for it in v.get("items", []):
+                s = it["status"]
+                if it["id"] in keep or s.get("privacyStatus") == target:
+                    skipped.append(it["id"]); continue
+                ns = {"privacyStatus": target, "embeddable": s.get("embeddable", True), "license": s.get("license", "youtube"),
+                      "publicStatsViewable": s.get("publicStatsViewable", True), "selfDeclaredMadeForKids": s.get("madeForKids", False)}
+                u = requests.put("https://www.googleapis.com/youtube/v3/videos?part=status", headers=H, json={"id": it["id"], "status": ns})
+                (changed if u.status_code == 200 else failed).append([it["id"], u.status_code] if u.status_code != 200 else it["id"])
+        done({"ok": not failed, "total": len(ids), "changed": changed, "skipped": skipped, "failed": failed})
+        sys.exit(0)
     if req.get("verify_id"):
         if req.get("fetch_thumb"):
             os.makedirs("inbox-upload", exist_ok=True)
@@ -75,7 +98,7 @@ try:
                         "tags": req.get("tags", []), "categoryId": req.get("category", "1"),
                         "defaultLanguage": "tr", "defaultAudioLanguage": "tr"},
             "status": {"privacyStatus": req.get("privacy", "public"),
-                       "selfDeclaredMadeForKids": True, "embeddable": True}}
+                       "selfDeclaredMadeForKids": bool(req.get("made_for_kids", True)), "embeddable": True}}
     data = open(req["video"], "rb").read()
     init = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
         headers={**H, "Content-Type": "application/json", "X-Upload-Content-Type": "video/mp4",
