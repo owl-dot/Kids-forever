@@ -1,8 +1,8 @@
 # Daily CGI tip Shorts (English) — used topics
-Channel: International Tips. Format: 15 s, 1080x1920, three.js CGI (tools/cgi/scene_tab.html, English), no voiceover, made_for_kids=false, lang=en.
+Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 510 frames), 1080x1920, three.js CGI (tools/cgi/scene_tab.html, English), no voiceover, made_for_kids=false, lang=en.
 
 ## USED
-- Tip01 | 2026-11-12 | Reopen closed tab: Ctrl+Shift+T (Mac Cmd+Shift+T) | eMTmK2ncEK4  (Turkish version jvBzjBaYalI hidden)
+- Tip01 | 2026-11-12 | Reopen closed tab: Ctrl+Shift+T (Mac Cmd+Shift+T) | kyDdzKxWiu4  (with outro; earlier eMTmK2ncEK4 + Turkish jvBzjBaYalI hidden)
 
 ## IDEA POOL (move to USED when done)
 - Screenshot a part of the screen: Win+Shift+S (Mac Cmd+Shift+4)
