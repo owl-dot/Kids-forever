@@ -3,9 +3,9 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 
 ## USED
 - Tip01 | 2026-11-12 | Reopen closed tab: Ctrl+Shift+T (Mac Cmd+Shift+T) | kyDdzKxWiu4  (with outro; earlier eMTmK2ncEK4 + Turkish jvBzjBaYalI hidden)
+- Tip02 | 2026-11-13 | Screenshot part of screen: Win+Shift+S (Mac Cmd+Shift+4) | yWYaEqvxowE
 
 ## IDEA POOL (move to USED when done)
-- Screenshot a part of the screen: Win+Shift+S (Mac Cmd+Shift+4)
 - Show desktop instantly: Win+D (Mac: F11 / Cmd+F3)
 - Clipboard history: Win+V
 - Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
