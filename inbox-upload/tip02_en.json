@@ -1,0 +1,19 @@
+{
+ "name": "tip02_en",
+ "video_id": "yWYaEqvxowE",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/yWYaEqvxowE/default.jpg",
+  "thumb_max": null,
+  "title": "Screenshot just part of your screen in 1 second! ✂️⚡ #Shorts"
+ },
+ "ok": true
+}
