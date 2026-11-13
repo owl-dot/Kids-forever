@@ -17,3 +17,8 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Lock your computer: Win+L (Mac Ctrl+Cmd+Q)
 - Paste without formatting: Ctrl+Shift+V (Mac Cmd+Shift+Option+V)
 - Jump to address bar: Ctrl+L (Mac Cmd+L)
+- Switch apps: Alt+Tab (Mac Cmd+Tab)
+- Delete a whole word: Ctrl+Backspace (Mac Option+Delete)
+- Close current tab: Ctrl+W (Mac Cmd+W)
+- Select word by word: Ctrl+Shift+Left/Right (Mac Option+Shift+Left/Right)
+- See all open windows: Win+Tab (Mac Ctrl+Up / Mission Control)

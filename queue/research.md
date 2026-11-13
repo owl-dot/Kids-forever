@@ -10,3 +10,9 @@
 - YPP geçiş penceresi (DOĞRULANMADI, yalnız AIR Media-Tech iddiası): 31 Oca 2027 23:59 UTC'ye kadar yapılan başvurular eski eşikle (4000 saat) değerlendirilirmiş; 1 Şub 2027'den sonra 8000 saat/20M Shorts izlenme. Kaynak: https://air.io/en/trending/youtube-algorithm-in-2026-month-by-month-changes-that-affect-your-views — YouTube Yardım'dan teyit edilmeli.
 - Risk (AIR moderasyon gözlemi, Eyl-Eki 2026): "inauthentic content" monetizasyon askıları tek şablonla üretilmiş, birbirine benzeyen videolara vurdu; kanalın tamamı değerlendiriliyor. Şablonlu anlatılı çizgi film formatımız benzer risk taşır → video başına özgün senaryo/giriş-çıkış farkı.
 - Made for kids / AI etiketi: Eki-Kas'ta yeni değişiklik yok. GitHub'da somut işe yarar yeni agent/MCP bulunamadı.
+
+## 2026-11-13
+- Yeni somut bir şey yok. Not (yalnız satıcı sayfası OutlierKit, DOĞRULANMADI): 29 Eki'de bazı Spam ihlallerinde anında fesih yerine 30 gün kilit testi; 16 Eki'de 6 ülkede davetli Shorts bonus pilotu. Tech-tip Shorts için hook/döngü/süre konusunda tarihli (Eki-Kas 2026) güvenilir kanıt bulunamadı; fluxnote vb. rakamlar kaynaksız.
+- Risk hatırlatma: şablonlu içerikte özgünlük şart → her Short'ta farklı sahne/animasyon, tekrarlı birebir şablon izlenimi verme.
+- GitHub: hyperframes / remotion-skills sayfaları bu çalıştırmada okunamadı (erişim engeli), değerlendirilmedi. Remotion ticari lisans şartı olabilir (doğrulanmadı).
+- Kanal sayıları (13 Kas): 2 herkese açık Short (Tip01, Tip02), toplam 0 izlenme, 1 abone.
