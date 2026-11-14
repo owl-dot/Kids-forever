@@ -1,0 +1,20 @@
+{
+ "name": "verify_tip03",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": false,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/ms6fc5_4X7E/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/ms6fc5_4X7E/maxresdefault.jpg",
+  "title": "Copied over something by accident? Get it back! 📋⚡ #Shorts"
+ }
+}
