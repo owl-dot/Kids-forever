@@ -5,13 +5,13 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip01 | 2026-11-12 | Reopen closed tab: Ctrl+Shift+T (Mac Cmd+Shift+T) | kyDdzKxWiu4  (with outro; earlier eMTmK2ncEK4 + Turkish jvBzjBaYalI hidden)
 - Tip02 | 2026-11-13 | Screenshot part of screen: Win+Shift+S (Mac Cmd+Shift+4) | yWYaEqvxowE
 - Tip03 | 2026-11-14 | Clipboard history: Win+V (Mac Tahoe: Cmd+Space, Cmd+4) | ms6fc5_4X7E
+- Tip04 | 2026-11-15 | Task Manager / force quit frozen app: Ctrl+Shift+Esc (Mac Cmd+Option+Esc) | ebJ_v-J6Hac
 
 ## IDEA POOL (move to USED when done)
 - Show desktop instantly: Win+D (Mac: F11 / Cmd+F3)
 - Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
 - Emoji panel: Win + . (Mac Ctrl+Cmd+Space)
 - Snap window to half screen: Win + Left/Right
-- Open Task Manager directly: Ctrl+Shift+Esc
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
 - Find a word on a page: Ctrl+F (Mac Cmd+F)
 - Lock your computer: Win+L (Mac Ctrl+Cmd+Q)
