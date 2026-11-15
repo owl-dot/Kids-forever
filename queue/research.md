@@ -19,3 +19,6 @@
 
 ## 2026-11-14
 - Yeni somut bir şey yok (arama sonuçları SEO blogları/eski haberler; AI etiket otomasyonu Mayıs 2026 haberi, zaten bilinen). Kanal (14 Kas): 3 herkese açık Short, 0 izlenme, 1 abone.
+
+## 2026-11-15
+- Yeni somut bir şey yok (aramalar SEO blogları/Tem 2026 inauthentic-content haberleri, zaten bilinen). Kanal: 4 herkese açık Short, toplam 6 izlenme, 1 abone; Tip03 (Win+V) 4 izlenme/1 beğeni ile önde.
