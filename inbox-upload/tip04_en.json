@@ -1,0 +1,19 @@
+{
+ "name": "tip04_en",
+ "video_id": "ebJ_v-J6Hac",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/ebJ_v-J6Hac/default.jpg",
+  "thumb_max": null,
+  "title": "App frozen and nothing works? Fix it in 1 second! 🧊⚡ #Shorts"
+ },
+ "ok": true
+}
