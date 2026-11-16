@@ -22,3 +22,6 @@
 
 ## 2026-11-15
 - Yeni somut bir şey yok (aramalar SEO blogları/Tem 2026 inauthentic-content haberleri, zaten bilinen). Kanal: 4 herkese açık Short, toplam 6 izlenme, 1 abone; Tip03 (Win+V) 4 izlenme/1 beğeni ile önde.
+
+## 2026-11-16
+- Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Remotion skill listeleri; tarihli güvenilir tech-tip Shorts verisi yok). Kanal: 5 herkese açık Short, toplam 6 izlenme, 1 abone; değişim yok.
