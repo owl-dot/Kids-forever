@@ -10,6 +10,7 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip06 | 2026-11-17 | Lock your screen: Win+L (Mac Ctrl+Cmd+Q) | Pr8r4KZm5x4
 
 ## IDEA POOL (move to USED when done)
+- Show desktop instantly: Win+D (Mac: F11 / Cmd+F3)
 - Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
 - Snap window to half screen: Win + Left/Right
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
