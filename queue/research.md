@@ -25,3 +25,6 @@
 
 ## 2026-11-16
 - Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Remotion skill listeleri; tarihli güvenilir tech-tip Shorts verisi yok). Kanal: 5 herkese açık Short, toplam 6 izlenme, 1 abone; değişim yok.
+
+## 2026-11-17
+- Yeni somut bir şey yok (aramalar SEO blogları/bilinen Temmuz-Ekim 2026 originality haberleri; GitHub tarafında yalnız tanıdık OpenMontage/video-skill listeleri). Kanal: 6 herkese açık Short, toplam 6 izlenme, 1 abone; değişim yok (Tip03 4 izlenme ile önde).
