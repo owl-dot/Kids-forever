@@ -28,3 +28,6 @@
 
 ## 2026-11-17
 - Yeni somut bir şey yok (aramalar SEO blogları/bilinen Temmuz-Ekim 2026 originality haberleri; GitHub tarafında yalnız tanıdık OpenMontage/video-skill listeleri). Kanal: 6 herkese açık Short, toplam 6 izlenme, 1 abone; değişim yok (Tip03 4 izlenme ile önde).
+
+## 2026-11-18
+- Yeni somut bir şey yok. Shorts series (Made On YouTube, 23 Eyl 2026; TechCrunch): Shorts'u sezon/bölüm olarak gruplama, şimdilik YPP üyelerine açılıyor → bize henüz uygulanamaz; keşfet avantajı kanıtlanmadı. Aramalar yine SEO blogları/tanıdık MCP listeleri. Kanal sayıları: stats isteği push edildi, ~5 dk içinde sonuç gelmedi.
