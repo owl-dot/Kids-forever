@@ -1,0 +1,20 @@
+{
+ "name": "verify_tip07",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": false,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/uXwrOy1bSCM/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/uXwrOy1bSCM/maxresdefault.jpg",
+  "title": "Too many windows? See your desktop in 1 second 🖥️ #Shorts"
+ }
+}
