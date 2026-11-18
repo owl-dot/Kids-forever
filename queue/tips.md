@@ -8,9 +8,9 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip04 | 2026-11-15 | Task Manager / force quit frozen app: Ctrl+Shift+Esc (Mac Cmd+Option+Esc) | ebJ_v-J6Hac
 - Tip05 | 2026-11-16 | Emoji panel: Win + . (Mac Ctrl+Cmd+Space) | zGGJpt-GZI8
 - Tip06 | 2026-11-17 | Lock your screen: Win+L (Mac Ctrl+Cmd+Q) | Pr8r4KZm5x4
+- Tip07 | 2026-11-18 | Show desktop: Win+D (Mac F11 / Cmd+F3) | uXwrOy1bSCM
 
 ## IDEA POOL (move to USED when done)
-- Show desktop instantly: Win+D (Mac: F11 / Cmd+F3)
 - Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
 - Snap window to half screen: Win + Left/Right
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
