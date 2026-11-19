@@ -31,3 +31,6 @@
 
 ## 2026-11-18
 - Yeni somut bir şey yok. Shorts series (Made On YouTube, 23 Eyl 2026; TechCrunch): Shorts'u sezon/bölüm olarak gruplama, şimdilik YPP üyelerine açılıyor → bize henüz uygulanamaz; keşfet avantajı kanıtlanmadı. Aramalar yine SEO blogları/tanıdık MCP listeleri. Kanal sayıları: stats isteği push edildi, ~5 dk içinde sonuç gelmedi.
+
+## 2026-11-19
+- Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Made on YouTube 2026 haberleri; GitHub tarafında yalnız tanıdık Remotion/video MCP listeleri). Kanal: 8 herkese açık Short, 0 izlenme (Tip03 1 beğeni), 1 abone.
