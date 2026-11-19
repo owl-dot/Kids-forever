@@ -1,0 +1,19 @@
+{
+ "name": "tip08_en",
+ "video_id": "yLZdk0TNQ90",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/yLZdk0TNQ90/default.jpg",
+  "thumb_max": null,
+  "title": "Two windows, one screen? Snap them in 1 second 🪟 #Shorts"
+ },
+ "ok": true
+}
