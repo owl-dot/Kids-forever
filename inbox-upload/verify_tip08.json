@@ -1,0 +1,20 @@
+{
+ "name": "verify_tip08",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": false,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/yLZdk0TNQ90/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/yLZdk0TNQ90/maxresdefault.jpg",
+  "title": "Two windows, one screen? Snap them in 1 second 🪟 #Shorts"
+ }
+}
