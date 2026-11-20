@@ -34,3 +34,6 @@
 
 ## 2026-11-19
 - Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Made on YouTube 2026 haberleri; GitHub tarafında yalnız tanıdık Remotion/video MCP listeleri). Kanal: 8 herkese açık Short, 0 izlenme (Tip03 1 beğeni), 1 abone.
+
+## 2026-11-20
+- Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Eki 2026 originality haberleri; GitHub'da tanıdık three.js/Remotion MCP listeleri). IDEA POOL'a 5 doğru kısayol eklendi (Ctrl+D, Ctrl+Home/End, Alt+Left/Right, Ctrl+1..8, Ctrl+Shift+N). Kanal: 9 herkese açık Short, 0 izlenme, 1 beğeni, 1 abone; değişim yok.

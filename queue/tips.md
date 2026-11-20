@@ -27,3 +27,8 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Reload a page: Ctrl+R or F5 (Mac Cmd+R)
 - Select everything: Ctrl+A (Mac Cmd+A)
 - Open Settings: Win+I (Mac Cmd+Space, type Settings)
+- Bookmark a page: Ctrl+D (Mac Cmd+D)
+- Jump to top/bottom of page or document: Ctrl+Home / Ctrl+End (Mac Cmd+Up / Cmd+Down)
+- Browser back/forward: Alt+Left / Alt+Right (Mac Cmd+[ / Cmd+])
+- Jump to tab number: Ctrl+1..8 (Mac Cmd+1..8)
+- New folder: Ctrl+Shift+N in File Explorer (Mac Cmd+Shift+N in Finder)
