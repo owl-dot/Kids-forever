@@ -1,0 +1,20 @@
+{
+ "name": "verify_tip10",
+ "ok": true,
+ "verify": {
+  "privacy": "public",
+  "upload": "processed",
+  "madeForKids": false,
+  "processing": "succeeded",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high",
+   "standard",
+   "maxres"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/igLqrWlL5RI/default.jpg",
+  "thumb_max": "https://i.ytimg.com/vi/igLqrWlL5RI/maxresdefault.jpg",
+  "title": "Typo in a word? Delete the whole word in 1 press ⚡ #Shorts"
+ }
+}
