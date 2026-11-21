@@ -11,6 +11,7 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip07 | 2026-11-18 | Show desktop: Win+D (Mac F11 / Cmd+F3) | uXwrOy1bSCM
 - Tip08 | 2026-11-19 | Snap window to half screen: Win+Left/Right (Mac Fn+Ctrl+Left, macOS 15+) | yLZdk0TNQ90
 - Tip09 | 2026-11-20 | Paste without formatting: Ctrl+Shift+V (Mac Cmd+Shift+Option+V) | Rr0tj3Zy_Dg
+- Tip10 | 2026-11-21 | Delete whole word: Ctrl+Backspace (Mac Option+Delete) | igLqrWlL5RI
 
 ## IDEA POOL (move to USED when done)
 - Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
@@ -18,7 +19,6 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Find a word on a page: Ctrl+F (Mac Cmd+F)
 - Jump to address bar: Ctrl+L (Mac Cmd+L)
 - Switch apps: Alt+Tab (Mac Cmd+Tab)
-- Delete a whole word: Ctrl+Backspace (Mac Option+Delete)
 - Close current tab: Ctrl+W (Mac Cmd+W)
 - Select word by word: Ctrl+Shift+Left/Right (Mac Option+Shift+Left/Right)
 - See all open windows: Win+Tab (Mac Ctrl+Up / Mission Control)
