@@ -40,3 +40,6 @@
 
 ## 2026-11-21
 - Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Remotion skill listeleri). Kanal: 10 herkese açık Short, toplam 2 izlenme (Lock screen), 1 abone; değişim yok.
+
+## 2026-11-22
+- Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Remotion skill listeleri). Kanal: 11 herkese açık Short, toplam ~5 izlenme, 1 beğeni, 1 abone; anlamlı değişim yok.
