@@ -13,9 +13,9 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip09 | 2026-11-20 | Paste without formatting: Ctrl+Shift+V (Mac Cmd+Shift+Option+V) | Rr0tj3Zy_Dg
 - Tip10 | 2026-11-21 | Delete whole word: Ctrl+Backspace (Mac Option+Delete) | igLqrWlL5RI
 - Tip11 | 2026-11-22 | Find a word on a page: Ctrl+F (Mac Cmd+F) | ei-nC5aKbx4
+- Tip12 | 2026-11-23 | Undo: Ctrl+Z (Mac Cmd+Z) | pW9Euuw1xhI
 
 ## IDEA POOL (move to USED when done)
-- Undo / redo: Ctrl+Z / Ctrl+Y (Mac Cmd+Z / Cmd+Shift+Z)
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
 - Jump to address bar: Ctrl+L (Mac Cmd+L)
 - Switch apps: Alt+Tab (Mac Cmd+Tab)
