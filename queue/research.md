@@ -43,3 +43,6 @@
 
 ## 2026-11-22
 - Yeni somut bir şey yok (aramalar SEO blogları/tanıdık Remotion skill listeleri). Kanal: 11 herkese açık Short, toplam ~5 izlenme, 1 beğeni, 1 abone; anlamlı değişim yok.
+
+## 2026-11-23
+- Yeni somut bir şey yok (aramalar SEO blogları, Ara 2025 "fresh uploads" haberi ve tanıdık Remotion/Blender MCP listeleri). Kanal: 12 herkese açık Short, toplam 7 izlenme, 0 beğeni, 1 abone; değişim yok.
