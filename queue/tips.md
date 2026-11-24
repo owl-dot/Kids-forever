@@ -14,10 +14,10 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip10 | 2026-11-21 | Delete whole word: Ctrl+Backspace (Mac Option+Delete) | igLqrWlL5RI
 - Tip11 | 2026-11-22 | Find a word on a page: Ctrl+F (Mac Cmd+F) | ei-nC5aKbx4
 - Tip12 | 2026-11-23 | Undo: Ctrl+Z (Mac Cmd+Z) | pW9Euuw1xhI
+- Tip13 | 2026-11-24 | Jump to address bar: Ctrl+L (Mac Cmd+L) | a6CWqdkl-jE
 
 ## IDEA POOL (move to USED when done)
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
-- Jump to address bar: Ctrl+L (Mac Cmd+L)
 - Switch apps: Alt+Tab (Mac Cmd+Tab)
 - Close current tab: Ctrl+W (Mac Cmd+W)
 - Select word by word: Ctrl+Shift+Left/Right (Mac Option+Shift+Left/Right)
