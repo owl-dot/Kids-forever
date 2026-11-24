@@ -46,3 +46,6 @@
 
 ## 2026-11-23
 - Yeni somut bir şey yok (aramalar SEO blogları, Ara 2025 "fresh uploads" haberi ve tanıdık Remotion/Blender MCP listeleri). Kanal: 12 herkese açık Short, toplam 7 izlenme, 0 beğeni, 1 abone; değişim yok.
+
+## 2026-11-24
+- Yeni somut bir şey yok (aramalar SEO blogları, Ara 2025 "freshness" haberi ve tanıdık Three.js/Remotion MCP-skill listeleri). Kanal: 13 herkese açık Short, toplam 14 izlenme, 1 beğeni, 1 abone; anlamlı değişim yok.
