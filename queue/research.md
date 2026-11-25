@@ -49,3 +49,6 @@
 
 ## 2026-11-24
 - Yeni somut bir şey yok (aramalar SEO blogları, Ara 2025 "freshness" haberi ve tanıdık Three.js/Remotion MCP-skill listeleri). Kanal: 13 herkese açık Short, toplam 14 izlenme, 1 beğeni, 1 abone; anlamlı değişim yok.
+
+## 2026-11-25
+- Yeni somut bir şey yok (aramalar SEO blogları/tanıdık originality haberleri ve Remotion/three.js skill listeleri). Kanal: 14 herkese açık Short, toplam 16 izlenme, 0 beğeni, 1 abone; değişim yok.
