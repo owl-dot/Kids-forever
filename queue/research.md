@@ -52,3 +52,7 @@
 
 ## 2026-11-25
 - Yeni somut bir şey yok (aramalar SEO blogları/tanıdık originality haberleri ve Remotion/three.js skill listeleri). Kanal: 14 herkese açık Short, toplam 16 izlenme, 0 beğeni, 1 abone; değişim yok.
+
+## 2026-11-26
+- Özel Shorts kapağı (thumbnail) artık tüm üreticilere açık (23-25 Kas 2026; önceden yalnız YPP). Haberler mobil+masaüstü diyor; YouTube Yardım hâlâ "yalnız bilgisayarda Studio, doğrulanmış hesap" diyor. Öneri 2160x3840 (9:16) JPG/PNG. Data API thumbnails.set'in Shorts'ta çalıştığı DOĞRULANMADI. Kazanç beklentisi: kanal sayfası/arama görünümü; Shorts akışında etkisi kanıtlanmadı. https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/ — https://support.google.com/youtube/answer/72431
+- Kanal sayıları (26 Kas): 15 herkese açık Short, toplam 17 izlenme, 1 beğeni, 1 abone; değişim yok.
