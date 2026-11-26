@@ -16,6 +16,7 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip12 | 2026-11-23 | Undo: Ctrl+Z (Mac Cmd+Z) | pW9Euuw1xhI
 - Tip13 | 2026-11-24 | Jump to address bar: Ctrl+L (Mac Cmd+L) | a6CWqdkl-jE
 - Tip14 | 2026-11-25 | Switch apps: Alt+Tab (Mac Cmd+Tab) | nVaPuMzayOs
+- Tip15 | 2026-11-26 | Zoom in on a web page: Ctrl + Plus (Mac Cmd + Plus), reset Ctrl+0 | pTRg_UR3o0c
 
 ## IDEA POOL (move to USED when done)
 - Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
@@ -23,7 +24,6 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Select word by word: Ctrl+Shift+Left/Right (Mac Option+Shift+Left/Right)
 - See all open windows: Win+Tab (Mac Ctrl+Up / Mission Control)
 - Reveal file in folder / rename a file: F2 (Mac Enter)
-- Zoom in/out in browser: Ctrl + / Ctrl - (Mac Cmd + / Cmd -)
 - Reload a page: Ctrl+R or F5 (Mac Cmd+R)
 - Select everything: Ctrl+A (Mac Cmd+A)
 - Open Settings: Win+I (Mac Cmd+Space, type Settings)
