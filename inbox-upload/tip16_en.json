@@ -1,0 +1,6 @@
+{
+ "name": "tip16_en",
+ "ok": false,
+ "error": "400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+ "body": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The request metadata specifies an invalid video description.\",\n    \"errors\": [\n      {\n        \"message\": \"The request metadata specifies an invalid video description.\",\n        \"domain\": \"youtube.video\",\n        \"reason\": \"invalidDescription\",\n        \"location\": \"body.snippet.description\",\n        \"locationType\": \"other\"\n      }\n    ]\n  }\n}\n"
+}
