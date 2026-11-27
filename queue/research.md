@@ -56,3 +56,7 @@
 ## 2026-11-26
 - Özel Shorts kapağı (thumbnail) artık tüm üreticilere açık (23-25 Kas 2026; önceden yalnız YPP). Haberler mobil+masaüstü diyor; YouTube Yardım hâlâ "yalnız bilgisayarda Studio, doğrulanmış hesap" diyor. Öneri 2160x3840 (9:16) JPG/PNG. Data API thumbnails.set'in Shorts'ta çalıştığı DOĞRULANMADI. Kazanç beklentisi: kanal sayfası/arama görünümü; Shorts akışında etkisi kanıtlanmadı. https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/ — https://support.google.com/youtube/answer/72431
 - Kanal sayıları (26 Kas): 15 herkese açık Short, toplam 17 izlenme, 1 beğeni, 1 abone; değişim yok.
+
+## 2026-11-27
+- Yeni somut bir şey yok (Shorts kapağı haberi dün yazıldı; Kasım tarihli yeni algoritma/politika değişikliği okunan kaynaklarda görülmedi). Değerlendirildi, rapor edilmedi: motionmaxxing (HTML/Three.js hareket tasarımı skill'i, 25 Kas; Apache-2.0 yalnız AlphaSignal'a göre, repo'dan doğrulanmadı; marka grafiği odaklı, bize kazancı kanıtsız) https://alphasignal.ai/repo/motionmaxxing-turns-4-288-measured-moves-into-an-open-source-agent-skill
+- Kanal sayıları (27 Kas): 16 herkese açık Short, toplam 18 izlenme, 1 beğeni, 1 abone; değişim yok.
