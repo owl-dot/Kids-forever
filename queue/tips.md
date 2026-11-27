@@ -17,9 +17,9 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip13 | 2026-11-24 | Jump to address bar: Ctrl+L (Mac Cmd+L) | a6CWqdkl-jE
 - Tip14 | 2026-11-25 | Switch apps: Alt+Tab (Mac Cmd+Tab) | nVaPuMzayOs
 - Tip15 | 2026-11-26 | Zoom in on a web page: Ctrl + Plus (Mac Cmd + Plus), reset Ctrl+0 | pTRg_UR3o0c
+- Tip16 | 2026-11-27 | Private window: Ctrl+Shift+N, Firefox Ctrl+Shift+P (Mac Cmd+Shift+N) | U9kxTQ0FgN0
 
 ## IDEA POOL (move to USED when done)
-- Incognito/private window: Ctrl+Shift+N (Firefox Ctrl+Shift+P)
 - Close current tab: Ctrl+W (Mac Cmd+W)
 - Select word by word: Ctrl+Shift+Left/Right (Mac Option+Shift+Left/Right)
 - See all open windows: Win+Tab (Mac Ctrl+Up / Mission Control)
