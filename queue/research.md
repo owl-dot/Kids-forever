@@ -60,3 +60,7 @@
 ## 2026-11-27
 - Yeni somut bir şey yok (Shorts kapağı haberi dün yazıldı; Kasım tarihli yeni algoritma/politika değişikliği okunan kaynaklarda görülmedi). Değerlendirildi, rapor edilmedi: motionmaxxing (HTML/Three.js hareket tasarımı skill'i, 25 Kas; Apache-2.0 yalnız AlphaSignal'a göre, repo'dan doğrulanmadı; marka grafiği odaklı, bize kazancı kanıtsız) https://alphasignal.ai/repo/motionmaxxing-turns-4-288-measured-moves-into-an-open-source-agent-skill
 - Kanal sayıları (27 Kas): 16 herkese açık Short, toplam 18 izlenme, 1 beğeni, 1 abone; değişim yok.
+
+## 2026-11-28
+- Yeni somut bir şey yok (Shorts originality haberi 2 Eki, zaten kayıtlı; kalanı SEO blogları). Arama sonucunda görülen, İNCELENEMEDİ (sayfa okunamadı; lisans/tarih doğrulanmadı): mromidev/claude-animated-shorts (three.js + Remotion, 55-70 sn hikâye çizgi filmi odaklı; 15 sn tech tip için kazancı belirsiz). IDEA POOL yeterli, ekleme yapılmadı.
+- Kanal sayıları (28 Kas): 17 herkese açık Short, toplam 21 izlenme, 1 beğeni, 1 abone; anlamlı değişim yok.
