@@ -18,6 +18,7 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Tip14 | 2026-11-25 | Switch apps: Alt+Tab (Mac Cmd+Tab) | nVaPuMzayOs
 - Tip15 | 2026-11-26 | Zoom in on a web page: Ctrl + Plus (Mac Cmd + Plus), reset Ctrl+0 | pTRg_UR3o0c
 - Tip16 | 2026-11-27 | Private window: Ctrl+Shift+N, Firefox Ctrl+Shift+P (Mac Cmd+Shift+N) | U9kxTQ0FgN0
+- Tip17 | 2026-11-28 | Bookmark a page: Ctrl+D (Mac Cmd+D) | MDGHJ-NTyHA
 
 ## IDEA POOL (move to USED when done)
 - Close current tab: Ctrl+W (Mac Cmd+W)
@@ -27,7 +28,6 @@ Channel: International Tips. Format: 15 s tip + 2 s like/subscribe outro (17 s, 
 - Reload a page: Ctrl+R or F5 (Mac Cmd+R)
 - Select everything: Ctrl+A (Mac Cmd+A)
 - Open Settings: Win+I (Mac Cmd+Space, type Settings)
-- Bookmark a page: Ctrl+D (Mac Cmd+D)
 - Jump to top/bottom of page or document: Ctrl+Home / Ctrl+End (Mac Cmd+Up / Cmd+Down)
 - Browser back/forward: Alt+Left / Alt+Right (Mac Cmd+[ / Cmd+])
 - Jump to tab number: Ctrl+1..8 (Mac Cmd+1..8)
