@@ -1,0 +1,19 @@
+{
+ "name": "tip17_en",
+ "video_id": "MDGHJ-NTyHA",
+ "verify": {
+  "privacy": "public",
+  "upload": "uploaded",
+  "madeForKids": null,
+  "processing": "processing",
+  "thumb_keys": [
+   "default",
+   "medium",
+   "high"
+  ],
+  "thumb_default": "https://i.ytimg.com/vi/MDGHJ-NTyHA/default.jpg",
+  "thumb_max": null,
+  "title": "Found a great deal? Save it with 2 keys ⭐ #Shorts"
+ },
+ "ok": true
+}
